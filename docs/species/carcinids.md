@@ -3,6 +3,7 @@
 A crab-like alien species discovered on [Samsa 6](../places/samsa-6/index.md).
 Informally known as the **Carcs**.
 Adults have a hard carapace that can deflect projectile impacts.
+They reproduce using the **Krebsleider** (crab song) which infects host bodies.
 
 <div class="grid" markdown>
 
