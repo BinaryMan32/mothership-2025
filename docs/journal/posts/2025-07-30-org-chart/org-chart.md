@@ -12,24 +12,24 @@ The org chart found in Episode 2, [Fire in the Hole](2025-07-28.md#communication
 {% include 'module_episode_list.md' %}
 
 ``` mermaid
-flowchart TD
+flowchart LR
 subgraph Civilians
     Hinton["`*Android*<br>**Hinton**`"]
 
     Edem[Dr. Edem]
     click Edem href "../../../../../people/dr-edem"
-    Edem --- Ziegler
-    Edem --- Sobol
+    Edem --- Engineering
+    Edem --- Science
 
     subgraph Science
         Ziegler[Dr. Ziegler]
-        Ziegler --- Jenson[Dr. Jenson]
-        Jenson --- Kawaguchi[Dr. Kawaguchi]
+        Jenson[Dr. Jenson]
+        Kawaguchi[Dr. Kawaguchi]
     end
 
     subgraph Engineering
         Sobol
-        Sobol --- Demar
+        Demar
     end
 end
 subgraph Military
@@ -51,23 +51,31 @@ subgraph Military
     subgraph ZigZag[ZigZag Squad]
         Yang["`*Sgt*<br>**Yang**`"]
         click Yang href "../../../../../people/yang"
-        Yang --- Novikov["`*Cpl*<br>**Novikov**`"]
+
+        Yang ~~~ Novikov ~~~ Resnick & Xavier ~~~ Tanaka & Pedro & Olsson
+
+        Novikov["`*Cpl*<br>**Novikov**`"]
         click Novikov href "../../../../../people/novikov"
-        Novikov --- Resnick["`*Lance Cpl*<br>**Resnick**`"]
-        Resnick --- Xavier["`*Lance Cpl*<br>**Xavier**`"]
-        Xavier --- Tanaka["`*PFC*<br>**Tanaka**`"]
-        Tanaka --- Pedro["`*PFC*<br>**Pedro**`"]
-        Pedro --- Olsson["`*PFC*<br>**Olsson**`"]
+
+        Resnick["`*Lance Cpl*<br>**Resnick**`"]
+        Xavier["`*Lance Cpl*<br>**Xavier**`"]
+        Tanaka["`*PFC*<br>**Tanaka**`"]
+        Pedro["`*PFC*<br>**Pedro**`"]
+        Olsson["`*PFC*<br>**Olsson**`"]
     end
 
     subgraph Siege[Siege Squad]
         Abarra["`*Sgt*<br>**Abarra**`"]
-        Abarra --- Qadir["`*Cpl*<br>**Qadir**`"]
-        Qadir --- Ivanovic["`*Cpl*<br>**Ivanovic**`"]
-        Ivanovic --- Franco["`*Lance Cpl*<br>**Franco**`"]
-        Franco --- Glockner["`*PFC*<br>**Glockner**`"]
-        Glockner --- Weaver["`*PFC*<br>**Weaver**`"]
-        Weaver --- Brookman["`*HM3*<br>**Brookman**`"]
+
+        Abarra ~~~ Qadir & Ivanovic ~~~ Franco ~~~ Glockner & Weaver ~~~ Brookman
+
+        Qadir["`*Cpl*<br>**Qadir**`"]
+        Ivanovic["`*Cpl*<br>**Ivanovic**`"]
+        Franco["`*Lance Cpl*<br>**Franco**`"]
+        Glockner["`*PFC*<br>**Glockner**`"]
+        Weaver["`*PFC*<br>**Weaver**`"]
+
+        Brookman["`*HM3*<br>**Brookman**`"]
         click Brookman href "../../../../../people/brookman"
     end
 
