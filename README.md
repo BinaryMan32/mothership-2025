@@ -37,3 +37,10 @@ Use `pre-commit` to find broken links before committing.
 sudo apt install pre-commit
 pre-commit install
 ```
+
+## Linking to character names
+
+To replace all occurrences of a character's name which are not already linked with a link to the character's page, use a **Regular Expression**
+
+- **Search**: `(?<=^|[^[(-/])\bDex`
+- **Replace**: `[Dex](dex-miro.md)`

@@ -48,9 +48,9 @@ plugins:
   - autolinks
   - backlinks_section:
       ignore_links_to:
-        - index.md
         - journal/*.md
         - journal/posts/*.md
+        - journal/posts/*/*.md
   - blog:
       blog_dir: journal
       categories_allowed: []
