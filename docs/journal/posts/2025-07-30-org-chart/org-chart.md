@@ -84,7 +84,7 @@ subgraph Military
     classDef unknown fill:#555,stroke:#aaa,stroke-width:1px;
 
     class Kawaguchi,Novikov,Pedro,Sobol,Tanaka,Valdez,Yang alive;
-    class Brookman,Franco,Glockner,Ivanovic,Jenson,Kaplan,Lange,Olsson,Qadir,Resnick,Weaver,Xavier,Ziegler dead;
-    class Abarra,Demar,Hinton,Underhill unknown;
+    class Brookman,Demar,Franco,Glockner,Ivanovic,Jenson,Kaplan,Lange,Olsson,Qadir,Resnick,Weaver,Xavier,Ziegler dead;
+    class Abarra,Hinton,Underhill unknown;
 end
 ```
