@@ -6,7 +6,7 @@
 
 <div markdown>
 
-- class: Marine
+- class: Marine (Corporal)
 - patch: "APEX PREDATOR" (Sabertooth Skull)
 - trinket: Interstellar Compass, Always Points to Homeworld
 

@@ -12,9 +12,9 @@ They reproduce using the **Krebsleider** (crab song) which infects host bodies.
 Young Carcinid erupting from human host
 ///
 
-![Adult Carcinids in jungle on Samsa 6](./carcinids.png)
+![Adult Carcinid](./carcinid.png)
 /// caption
-Adult Carcinids in jungle on [Samsa 6](../places/samsa-6/index.md)
+Adult Carcinid
 ///
 
 </div>

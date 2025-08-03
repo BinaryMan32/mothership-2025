@@ -42,5 +42,5 @@ pre-commit install
 
 To replace all occurrences of a character's name which are not already linked with a link to the character's page, use a **Regular Expression**
 
-- **Search**: `(?<=^|[^[(-/])\bDex`
-- **Replace**: `[Dex](dex-miro.md)`
+- **Search**: `(?<=^|[^[(-/])\b(Dex)`
+- **Replace**: `[$1](dex-miro.md)`
