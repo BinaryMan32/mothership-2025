@@ -23,6 +23,7 @@ subgraph Civilians
 
     subgraph Science
         Ziegler[Dr. Ziegler]
+        click Ziegler href "../../../../../people/dr-ziegler"
         Jenson[Dr. Jenson]
         Kawaguchi[Dr. Kawaguchi]
     end
