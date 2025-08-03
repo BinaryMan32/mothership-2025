@@ -35,19 +35,16 @@ subgraph Civilians
 end
 subgraph Military
     Kaplan["`*2nd Lt*<br>**Kaplan**`"]
-    Kaplan --- Lange
-    Kaplan --- Valdez
+    Lange["`*2nd Lt*<br>**Lange**`"]
+    Kaplan & Lange --- Underhill
 
     Underhill["`*Staff Sgt*<br>**Underhill**`"]
-    Underhill --- Lange
     Underhill --- Valdez
 
     Valdez["`*Sgt*<br>**Valdez**`"]
     click Valdez href "../../../../../people/valdez"
     Valdez --- Yang
     Valdez --- Abarra
-
-    Lange["`*2nd Lt*<br>**Lange**`"]
 
     subgraph ZigZag[ZigZag Squad]
         Yang["`*Sgt*<br>**Yang**`"]
