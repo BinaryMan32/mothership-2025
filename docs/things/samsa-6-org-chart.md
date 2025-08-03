@@ -34,8 +34,7 @@ subgraph Military
 
     Valdez["`*Sgt*<br>**Valdez**`"]
     click Valdez href "../../people/valdez"
-    Valdez --- Yang
-    Valdez --- Abarra
+    Valdez --- Yang & Abarra
 
     subgraph ZigZag[ZigZag Squad]
         Yang["`*Sgt*<br>**Yang**`"]
