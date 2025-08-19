@@ -2,5 +2,28 @@
   "editor.tabSize": 4,
   "markdownlint.config": {
     "MD007": { "indent": 4 }
-  }
+  },
+  "cSpell.words": [
+    "Brookman",
+    "Carc",
+    "Carcinization",
+    "Carcs",
+    "Carnoc",
+    "Cryo",
+    "Edem",
+    "FUBAR",
+    "Glockner",
+    "GPMG",
+    "Ivanovic",
+    "Jenson",
+    "Kawaguchi",
+    "Murderbot",
+    "Novikov",
+    "Qadir",
+    "Sobol",
+    "stimpack",
+    "Tanaka",
+    "terraforming",
+    "Underhill"
+  ]
 }

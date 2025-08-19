@@ -1,0 +1,5 @@
+extends: ../../.markdownlint.yaml
+single-title:
+  # journals set title in front matter
+  # and show the module name combined with the title as the first heading
+  front_matter_title: ""
