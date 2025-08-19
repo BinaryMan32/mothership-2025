@@ -6,6 +6,7 @@ The org chart found in Episode 2, [Fire in the Hole](2025-07-28.md#communication
 flowchart LR
 subgraph Civilians
     Hinton["`*Android*<br>**Hinton**`"]
+    click Hinton href "../../people/hinton"
 
     Edem[Dr. Edem]
     click Edem href "../../people/dr-edem"
@@ -16,6 +17,7 @@ subgraph Civilians
         Ziegler[Dr. Ziegler]
         click Ziegler href "../../people/dr-ziegler"
         Jenson[Dr. Jenson]
+        click Jenson href "../../people/jenson"
         Kawaguchi[Dr. Kawaguchi]
     end
 
@@ -71,8 +73,8 @@ subgraph Military
     classDef dead fill:#644,stroke:#a00,stroke-width:2px;
     classDef unknown fill:#555,stroke:#aaa,stroke-width:1px;
 
-    class Kawaguchi,Novikov,Pedro,Sobol,Tanaka,Valdez,Yang alive;
-    class Brookman,Demar,Franco,Glockner,Ivanovic,Jenson,Kaplan,Lange,Olsson,Qadir,Resnick,Weaver,Xavier,Ziegler dead;
-    class Abarra,Hinton,Underhill unknown;
+    class Jenson,Kawaguchi,Novikov,Pedro,Sobol,Tanaka,Valdez,Yang alive;
+    class Brookman,Demar,Franco,Glockner,Ivanovic,Kaplan,Lange,Olsson,Qadir,Resnick,Underhill,Weaver,Xavier,Ziegler dead;
+    class Abarra,Hinton unknown;
 end
 ```
