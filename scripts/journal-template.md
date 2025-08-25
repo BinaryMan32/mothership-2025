@@ -1,6 +1,6 @@
 ---
 date: ${DATE}T00:00:00
-module: Another Bug Hunt
+module: A Pound of Flesh
 title: TODO
 ---
 # {{ page.meta.module }}: {{ page.meta.title }}
