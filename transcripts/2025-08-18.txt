@@ -1109,7 +1109,7 @@ Yeah, that's because, uh, because he hasn't logged in yet. I haven't been able t
 Because he just has the link to the game right now.
 
 [Dex] 22:01:00
-I must just set it at 8, but I'm only getting 6 hits on decks. Maybe I rolled as me instead, sometimes.
+I must just set it at 8, but I'm only getting 6 hits on Dex. Maybe I rolled as me instead, sometimes.
 
 [GM] 22:01:08
 Yeah, it's possible. You can… I mean, also search for Dex, and, you know…
@@ -3026,7 +3026,7 @@ No, we… we should not repeat.
 No. No. No murder, but…
 
 [Murderbot] 22:57:03
-Parnock, do you want me to murder him?
+Carnoc, do you want me to murder him?
 
 [Carnoc] 22:57:08
 The murdering will come later.
