@@ -1,3 +1,6 @@
+---
+linkPattern: Dex(?:\s+Miro)?
+---
 # Dex Miro
 
 <div class="grid" markdown>

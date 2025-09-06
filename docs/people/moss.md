@@ -1,3 +1,6 @@
+---
+linkPattern: Moss
+---
 # Moss
 
 <div class="grid" markdown>

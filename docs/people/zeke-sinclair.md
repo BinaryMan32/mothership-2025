@@ -1,3 +1,6 @@
+---
+linkPattern: Zeke(?:\s+Sinclair)?
+---
 # Zeke Sinclair
 
 <div class="grid" markdown>

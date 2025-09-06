@@ -1,3 +1,6 @@
+---
+linkPattern: (?:Dr.\s+)?Edem
+---
 # Dr. Edem
 
 <div class="grid" markdown>

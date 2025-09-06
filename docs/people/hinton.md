@@ -1,3 +1,6 @@
+---
+linkPattern: Hinton
+---
 # Hinton
 
 <div class="grid" markdown>

@@ -1,3 +1,6 @@
+---
+linkPattern: Ink
+---
 # Ink
 
 <div class="grid" markdown>

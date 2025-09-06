@@ -1,3 +1,6 @@
+---
+linkPattern: Carnoc(?:\s+Ashbrow)?
+---
 # Carnoc Ashbrow
 
 <div class="grid" markdown>
