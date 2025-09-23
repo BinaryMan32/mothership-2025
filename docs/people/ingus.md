@@ -9,7 +9,7 @@ linkPattern: Ingus
 
 <div markdown>
 
- on [Prospero's Dream](prosperos-dream.md).
+ on [Prospero's Dream](/places/prosperos-dream/index.md).
 
 </div>
 </div>

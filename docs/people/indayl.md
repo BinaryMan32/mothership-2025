@@ -9,7 +9,7 @@ linkPattern: Indayl
 
 <div markdown>
 
-Non-binary proprietor of [The Ecstasy](the-ecstasy.md) on [Prospero's Dream](prosperos-dream.md).
+Non-binary proprietor of [The Ecstasy](the-ecstasy.md) on [Prospero's Dream](/places/prosperos-dream/index.md).
 
 </div>
 </div>

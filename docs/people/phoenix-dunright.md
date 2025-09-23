@@ -9,7 +9,7 @@ linkPattern: Phoenix(?:\s+Dunright)?
 
 <div markdown>
 
-[Sycorax](sycorax.md) runner from [Prospero's Dream](prosperos-dream.md).
+[Sycorax](sycorax.md) runner from [Prospero's Dream](/places/prosperos-dream/index.md).
 
 </div>
 </div>

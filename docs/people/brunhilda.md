@@ -9,7 +9,7 @@ linkPattern: Brunhilda
 
 <div markdown>
 
-Head justice on [Prospero's Dream](prosperos-dream.md).
+Head justice on [Prospero's Dream](/places/prosperos-dream/index.md).
 
 </div>
 </div>

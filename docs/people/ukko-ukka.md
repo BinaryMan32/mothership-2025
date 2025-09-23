@@ -1,5 +1,5 @@
 ---
-linkPattern: Ukko-Ukka
+linkPattern: Ukko[- ]?Ukka
 ---
 # Ukko-Ukka
 
@@ -9,7 +9,7 @@ linkPattern: Ukko-Ukka
 
 <div markdown>
 
-Leader of the Solarian Church on [Prospero's Dream](prosperos-dream.md).
+Leader of the Solarian Church on [Prospero's Dream](/places/prosperos-dream/index.md).
 
 </div>
 </div>
