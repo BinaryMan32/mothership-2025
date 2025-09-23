@@ -86,9 +86,6 @@ def main():
     args = parser.parse_args()
 
     name_mapping = get_name_mapping(args.name_mapping)
-    print("Name Mapping:", file=sys.stderr)
-    json.dump(name_mapping, sys.stdout)
-
     replace_names(args.input, args.output, name_mapping)
 
 if __name__ == '__main__':
