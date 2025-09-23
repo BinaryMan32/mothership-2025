@@ -1,0 +1,15 @@
+---
+linkPattern: Ingus
+---
+# Ingus
+
+<div class="grid" markdown>
+
+![Portrait](./ingus.png)
+
+<div markdown>
+
+ on [Prospero's Dream](prosperos-dream.md).
+
+</div>
+</div>
