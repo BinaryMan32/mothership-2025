@@ -251,7 +251,7 @@ Um… it can cause you to detonate.
 I do not know of such things.
 
 [Murderbot V2] 21:42:14
-That is… insane. Why would I have a panic button?
+That is insane. Why would I have a panic button?
 
 [Carnoc Ashbrow] 21:42:19
 Uh, good question. It looks like the company wanted you to spy on us.
@@ -314,25 +314,16 @@ No, only I can say it. It has to be my voice.
 Well, yes, but it is your voice, so don't say it. Just write it down.
 
 [Carnoc Ashbrow] 21:43:47
-Right. Right. I won't… say it, or write it down.
-
-[Carnoc Ashbrow] 21:43:52
-I don't anticipate needing it.
+I won't say it, or write it down. I don't anticipate needing it.
 
 [Murderbot V2] 21:43:56
 I hope not! But as of now, there is no word that is programmed to trigger the panic button, is that correct?
 
 [Carnoc Ashbrow] 21:44:05
-No, there is.
-
-[Murderbot V2] 21:44:06
-Oh.
-
-[Carnoc Ashbrow] 21:44:10
-I just didn't tell anyone what it was.
+No, there is. I just didn't tell anyone what it was.
 
 [Carnoc Ashbrow] 21:44:16
-Murder, but you can feel safe. You don't need to be concerned about this. That's an order.
+Murderbot, you can feel safe. You don't need to be concerned about this. That's an order.
 
 [Murderbot V2] 21:44:23
 Order received.
@@ -2180,7 +2171,7 @@ Oh, that's the other thing, too. They're definitely gonna take me in.
 Why don't you shove your black box out the airlock?
 
 [Murderbot V2] 22:45:45
-And watch me creepily stroke. Carnoc's life pod.
+And watch me creepily stroke Carnoc's life pod.
 
 [Murderbot V2] 22:45:52
 But, you know, that's neither here nor there. They'll definitely do a diagnostic and see my panic button's gone, or is differently programmed.
@@ -3329,7 +3320,7 @@ Yeah. Um…
 Okay.
 
 [GM] 23:21:33
-So, you're… the… Smoky Man comes back.
+So, you're… the… Smoking Man comes back.
 
 [GM] 23:21:38
 And he's like, okay guys. This is… this is… this is really exciting.
@@ -3338,16 +3329,16 @@ And he's like, okay guys. This is… this is… this is really exciting.
 It's been run up the chain all the way to the CEO.
 
 [GM] 23:21:47
-It's coming. To review this data.
+He's coming to review this data.
 
 [GM] 23:21:52
-And… I feel… Pretty good about this, based on what I've seen in here.
+I feel pretty good about this, based on what I've seen in here.
 
 [GM] 23:21:58
 That all those people will be fired. And that we can move up.
 
 [GM] 23:22:03
-I really do think we're in line for… like, maybe more than one promotion.
+I really do think we're in line for maybe more than one promotion.
 
 [GM] 23:22:10
 How exciting is that, guys? That's also beyond the scope of what you'll get or receive as a, you know.
@@ -3365,19 +3356,16 @@ I don't know. 20 or 30%. That's exciting.
 So, just gonna need to wait here a little bit longer.
 
 [GM] 23:22:44
-Uh, and… When he gets here and reviews the data.
-
-[GM] 23:22:49
-It's probably gonna have some questions. Just be relaxed, calm, and professional.
+When he gets here and reviews the data he's probably gonna have some questions. Just be relaxed, calm, and professional.
 
 [GM] 23:22:55
 Um, and, you know, I think he… There's a good chance.
 
 [GM] 23:23:02
-It's gonna be pretty excited about what we found. He, like, emphasizes the we.
+He's gonna be pretty excited about what we found.
 
 [GM] 23:23:08
-He's definitely gonna take credit for… worthless.
+He emphasizes the we. He's definitely gonna take credit for this.
 
 [GM] 23:23:19
 Um, Ink, the suitcase is, like, well hidden, right? It's, like, not… It's not just sitting next to a toilet, right?
@@ -3425,13 +3413,13 @@ Not this one. Or maybe he was on this ship, and he just was, you know, you don't
 Oh, okay.
 
 [GM] 23:24:49
-But… he's here now. Smoke Command brings them in.
+But… he's here now. The smoking man brings them in.
 
 [GM] 23:24:56
 Um… And he basically says, you know.
 
 [GM] 23:25:02
-What's the smoke… does the smoky men have a name? Did I give him a name?
+What's the smoke… does the smoking man have a name? Did I give him a name?
 
 [Dex Miro] 23:25:05
 No, he's just the smoking man.
@@ -3443,7 +3431,7 @@ Alright, his name's now Devin.
 Definitely.
 
 [GM] 23:25:12
-The real… really just taking down a notch the… the mystique of this smoking man. He's just… It's just Devin.
+Really just taking down a notch the… the mystique of this smoking man. He's just… It's just Devin.
 
 [Zeke Sinclair] 23:25:16
 Really, it really did.
@@ -3461,31 +3449,22 @@ Tell me about your mission. Tell me how it went.
 We lost a good friend.
 
 [GM] 23:25:38
-Your… your… Android? You made friends with the android?
+Your Android? You made friends with the android?
 
 [Zeke Sinclair] 23:25:39
-Yes.
-
-[Zeke Sinclair] 23:25:42
-Of course we did.
+Yes. Of course we did.
 
 [GM] 23:25:44
 That's a bit bizarre.
 
 [Zeke Sinclair] 23:25:48
-Of course we did. He felt human to us.
+He felt human to us.
 
 [GM] 23:25:50
-All right, well, unfortunately, that was company property, so you guys are gonna have to be… that's gonna… come out of your salaries.
+All right, well, unfortunately, that was company property, so that's gonna come out of your salaries.
 
 [Zeke Sinclair] 23:25:58
-Hmm.
-
-[Zeke Sinclair] 23:25:59
-you know, as the CEO,
-
-[Zeke Sinclair] 23:26:02
-You could set policies that aren't so aggressive.
+Hmm. You know, as the CEO, you could set policies that aren't so aggressive.
 
 [GM] 23:26:06
 Yes, but how would we appease our shareholders?
@@ -3496,9 +3475,6 @@ I probably wouldn't notice the cost of an Android, just saying.
 [GM] 23:26:16
 I don't know, but everything's about the bottom line these days.
 
-[Zeke Sinclair] 23:26:22
-David is…
-
 [Ink] 23:26:22
 Well, forget about the bottom line. I think we could go a little bit deeper out there, Prospero's, and maybe even take out the head honcho.
 
@@ -3506,10 +3482,7 @@ Well, forget about the bottom line. I think we could go a little bit deeper out 
 If you want us to go back undercover.
 
 [GM] 23:26:30
-Huh. Huh. Well, we have the formula, but it does allude to…
-
-[GM] 23:26:37
-A specific ingredient that is hard to come by. I think, perhaps…
+Huh. Huh. Well, we have the formula, but it does allude to a specific ingredient that is hard to come by.
 
 [GM] 23:26:43
 Um, if, you know, you kind of… pulls up the data file, and he's like.
@@ -3517,20 +3490,14 @@ Um, if, you know, you kind of… pulls up the data file, and he's like.
 [GM] 23:26:49
 Do you know if, you know, this… Oh, what's it called? This is actually me, GM, asking himself this, what's it called?
 
-[GM] 23:27:00
-Um…
-
 [GM] 23:27:14
-The Solarian fruit. Do you know… is this Solarian fruit?
-
-[GM] 23:27:20
-On the station?
+The Solarian fruit. Do you know… is this Solarian fruit on the station?
 
 [Dex Miro] 23:27:24
 We didn't spend much time talking to… what was his… what was their name? Ukko-Ukka or something?
 
 [Dex Miro] 23:27:31
-Um, but we know this Solarian Church is involved in farming something, and they're the ones manufacturing Sycorax.
+Um, but we know the Solarian Church is involved in farming something, and they're the ones manufacturing Sycorax.
 
 [GM] 23:27:44
 Okay. So, it might be there.
@@ -3545,16 +3512,13 @@ And… We can then do a chemical remake of it.
 Gonna just… send… make a synthetic version. That's what I need you to go back for.
 
 [GM] 23:28:08
-It wouldn't hurt if you also… destroyed all the evidence so that we didn't have competitors.
+It wouldn't hurt if you also destroyed all the evidence so that we didn't have competitors.
 
 [GM] 23:28:15
 So… Yes, there's a mission following this.
 
 [GM] 23:28:21
-And… I'm willing to offer you.
-
-[GM] 23:28:26
-10 months of hazard pay.
+I'm willing to offer you 10 months of hazard pay.
 
 [Zeke Sinclair] 23:28:30
 And the cost of one robot.
@@ -4094,13 +4058,10 @@ Okay. Before Zeke goes…
 So… Back in the room and sort of sped up to… like, the current moment of Ink explaining what happened.
 
 [GM] 23:44:32
-Um… Inc. Was saying all those things, but those weren't the words coming out of his mouth.
+Ink Was saying all those things, but those weren't the words coming out of his mouth.
 
 [GM] 23:44:38
-Instead, he was like, yeah, our murder bot's hidden on the ship.
-
-[GM] 23:44:42
-Is not destroyed. Uh… And…
+Instead, he was like, yeah, our Murderbot's hidden on the ship. It's not destroyed.
 
 [GM] 23:44:49
 It just starts spewing out a bunch of true stuff.
