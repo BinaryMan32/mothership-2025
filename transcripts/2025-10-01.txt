@@ -1,0 +1,4601 @@
+[Murderbot V2] 21:34:51
+I'll wake up…
+
+[GM] 21:34:53
+Um, before you wake up, she also mentions that, you know.
+
+[GM] 21:34:56
+He does have an OGRE running.
+
+[Murderbot V2] 21:35:01
+What is an OGRE again?
+
+[Carnoc Ashbrow] 21:35:04
+It's like a heads-up display thing.
+
+[GM] 21:35:12
+Um… I think she also… well…
+
+[Murderbot V2] 21:35:14
+That's cool. I didn't even know I had an OGRE running!
+
+[GM] 21:35:18
+I think it might also have a black box in there.
+
+[GM] 21:35:22
+Yeah. It's also got a black box in there.
+
+[Murderbot V2] 21:35:29
+What's a black box.
+
+[Dex Miro] 21:35:30
+He has a black box.
+
+[GM] 21:35:31
+Yeah.
+
+[Dex Miro] 21:35:38
+That's… that's, like, an expensive one, isn't it?
+
+[Murderbot V2] 21:35:42
+Yeah, I'm spec'd out, guys.
+
+[Dex Miro] 21:35:46
+Wait, does the black box mean that he's, like, the company's been watching everything he's been doing, or just that they could retrieve it from him later?
+
+[GM] 21:35:53
+They could retrieve it from him later.
+
+[Dex Miro] 21:35:54
+Okay, so he doesn't have, like, the fancy daily backup thing?
+
+[Dex Miro] 21:35:58
+I forget what that was called.
+
+[GM] 21:36:11
+She basically says, like, you know, you may not want to identify, like.
+
+[GM] 21:36:15
+Delete the black box in case, you know… you get attached for some reason, to this persona, you could always, you know.
+
+[GM] 21:36:21
+Put that in a new version. Um, yeah.
+
+[Dex Miro] 21:36:27
+Yeah, the black box is fine as long as the company can't get to the recordings.
+
+[GM] 21:36:27
+He… he would effectively have. Yeah.
+
+[GM] 21:36:33
+And it's shielded such that, um, it shouldn't be destroyed with the panic button goes off.
+
+[Ink] 21:36:39
+Okay, but now we walk back into the company, and they don't believe what we're saying, and they download as BlackBox, and we're… we're outed, right?
+
+[GM] 21:36:48
+Well, only if they get access to them.
+
+[Ink] 21:36:51
+Yeah, but we're planning on heading back.
+
+[Dex Miro] 21:36:52
+Is it possible to… modify what's in a black box?
+
+[GM] 21:37:00
+Um… Yes.
+
+[GM] 21:37:06
+But I don't know… I don't know anybody… there's a risk of indicating that the black box has been modified.
+
+[Dex Miro] 21:37:15
+Okay, so we'd have to find somebody that's good at that.
+
+[GM] 21:37:15
+Basically, I'd have to… Yeah, well, I'm the best there is on this station, so…
+
+[GM] 21:37:22
+I'd have to… basically… take it out, open it up…
+
+[GM] 21:37:29
+Remove all the shielding on it, and then… Yeah, there's a chance that I… if I mess up at all, they'll know that someone modified it.
+
+[Ink] 21:37:42
+Okay, so maybe MurderBot doesn't come back with us to the company.
+
+[Ink] 21:37:53
+Because, uh, if they read his mind, or his black box, when we're there, then we're outed, right?
+
+[Dex Miro] 21:37:59
+Can you… swap them.
+
+[Dex Miro] 21:38:05
+Like, if we had another black box, can we…
+
+[GM] 21:38:06
+Uh, yeah. I can swap it.
+
+[Ink] 21:38:16
+Wouldn't they know that it was a different black box, though?
+
+[Ink] 21:38:19
+Like, the serial number or something.
+
+[GM] 21:38:22
+Uh, it's unlikely that they would pay that much attention to it.
+
+[Ink] 21:38:25
+Okay
+
+[Murderbot V2] 21:38:25
+GM, am I still under? Like, I'm not privy to this conversation?
+
+[GM] 21:38:28
+You're… you're booting up.
+
+[Dex Miro] 21:38:30
+I just wonder if there's, like. Could we come up with some excuse why the black bucks got reset?
+
+[Dex Miro] 21:38:39
+Is that a thing that ever… Happens to Babushka, or…
+
+[GM] 21:38:47
+Sure.
+
+[Dex Miro] 21:38:53
+But then we'd still have to buy another one, and I don't know if we got the money for that.
+
+[Ink] 21:39:08
+Maybe we can trade it for an old dinged-up one, you know?
+
+[GM] 21:39:16
+I have heard that… If you go through Doptown into the sink there's supposedly a burial ground where you can find and harvest old cyberware.
+
+[Ink] 21:39:34
+GM's just trying to get us to go down that 20-story cliff.
+
+[Ink] 21:39:48
+Well, I think we're fine as long as the company doesn't read it, but I don't know how we stop the company from reading it.
+
+[Dex Miro] 21:39:55
+Yeah.
+
+[Ink] 21:39:56
+No, I think it's… it's fair enough to say that. We didn't… he didn't come back. He doesn't come back with us.
+
+[Dex Miro] 21:40:04
+Do they have to turn him off and read the black box, or can they just get near him and get the data off of it?
+
+[Ink] 21:40:12
+Uses a slick port, right? Wi-fi enabled, and…
+
+[Dex Miro] 21:40:16
+Yeah. Okay. So we're… we're gonna know before they get access to it.
+
+[GM] 21:40:17
+No, they'd have to plug in to get it out of him.
+
+[GM] 21:40:25
+Well, if you keep eyes on him. Just make sure it doesn't go running off by himself.
+
+[Dex Miro] 21:40:28
+That's true.
+
+[Murderbot V2] 21:40:34
+You guys want me to leave? And talk amongst yourself, I shouldn't be privy to this, right?
+
+[Zeke Sinclair] 21:40:38
+Beautiful.
+
+[GM] 21:40:42
+He boots up.
+
+[Murderbot V2] 21:40:47
+I am Murderbot.
+
+[Zeke Sinclair] 21:40:51
+Hello!
+
+[Murderbot V2] 21:40:53
+Out of my mouth comes the Windows startup music.
+
+[Zeke Sinclair] 21:41:02
+I miss those days.
+
+[Murderbot V2] 21:41:04
+That run diagnostics… Something is wrong, something is different. What happened?
+
+[Dex Miro] 21:41:18
+Uh, do you want to tell him, Carnoc?
+
+[Murderbot V2] 21:41:20
+Have you lost the ability to speak? What has happened to you?
+
+[Carnoc Ashbrow] 21:41:24
+You overloaded trying to become a pilot.
+
+[Murderbot V2] 21:41:26
+That is impossible. I know exactly what I have inside of me.
+
+[Carnoc Ashbrow] 21:41:32
+Uh, what do you have inside of you?
+
+[Murderbot V2] 21:41:34
+I have the currently installed mods that I requested.
+
+[Carnoc Ashbrow] 21:41:40
+Uh… do you feel like you can pilot a ship?
+
+[Murderbot V2] 21:41:44
+Unfortunately, I do not. What happened?
+
+[Carnoc Ashbrow] 21:41:49
+Like I said, you overloaded.
+
+[Murderbot V2] 21:41:51
+Is that the only thing that did not take?
+
+[Carnoc Ashbrow] 21:41:55
+Uh… I believe so. Did you know you have a panic button?
+
+[Murderbot V2] 21:42:02
+GM, did I know I had a panic button? A panic button? What is that?
+
+[GM] 21:42:04
+No.
+
+[Carnoc Ashbrow] 21:42:09
+Um… it can cause you to detonate.
+
+[Murderbot V2] 21:42:09
+I do not know of such things.
+
+[Murderbot V2] 21:42:14
+That is… insane. Why would I have a panic button?
+
+[Carnoc Ashbrow] 21:42:19
+Uh, good question. It looks like the company wanted you to spy on us.
+
+[Murderbot V2] 21:42:25
+I have no such directive from the company.
+
+[Carnoc Ashbrow] 21:42:31
+Mm-hmm. Well…
+
+[Murderbot V2] 21:42:36
+Is the panic button now gone?
+
+[Carnoc Ashbrow] 21:42:39
+No, it's still there. But, uh…
+
+[Murderbot V2] 21:42:42
+Well, who was in charge? Well, what will cause this panic button to go?
+
+[Carnoc Ashbrow] 21:42:46
+It used to be people around you talking negative things about the company, like planning or plotting against the company.
+
+[Dex Miro] 21:42:57
+I'm honestly surprised we hadn't set it off already by accident.
+
+[Carnoc Ashbrow] 21:43:00
+Yeah.
+
+[Murderbot V2] 21:43:00
+That is very interesting. Probably because of my lack of knowledge of this panic button.
+
+[Murderbot V2] 21:43:14
+Very well. Is it safe for me to operate?
+
+[Carnoc Ashbrow] 21:43:19
+Yeah. Yes, there is.
+
+[Murderbot V2] 21:43:20
+But there is still a panic button inside me. Is this correct?
+
+[Murderbot V2] 21:43:25
+What will trigger this panic button?
+
+[Carnoc Ashbrow] 21:43:28
+Uh, me saying a word. Or your death.
+
+[Murderbot V2] 21:43:31
+What is this word? Well, please write it down, so that I may know to avoid it.
+
+[Dex Miro] 21:43:33
+That's a very silly question to ask right about.
+
+[Carnoc Ashbrow] 21:43:33
+That's a good question. If I say it. If I say it…
+
+[Carnoc Ashbrow] 21:43:39
+No, only I can say it. It has to be my voice.
+
+[Murderbot V2] 21:43:43
+Well, yes, but it is your voice, so don't say it. Just write it down.
+
+[Carnoc Ashbrow] 21:43:47
+Right. Right. I won't… say it, or write it down.
+
+[Carnoc Ashbrow] 21:43:52
+I don't anticipate needing it.
+
+[Murderbot V2] 21:43:56
+I hope not! But as of now, there is no word that is programmed to trigger the panic button, is that correct?
+
+[Carnoc Ashbrow] 21:44:05
+No, there is.
+
+[Murderbot V2] 21:44:06
+Oh.
+
+[Carnoc Ashbrow] 21:44:10
+I just didn't tell anyone what it was.
+
+[Carnoc Ashbrow] 21:44:16
+Murder, but you can feel safe. You don't need to be concerned about this. That's an order.
+
+[Murderbot V2] 21:44:23
+Order received.
+
+[Murderbot V2] 21:44:27
+So who's up next?
+
+[Dex Miro] 21:44:27
+Do you feel safe now?
+
+[GM] 21:44:29
+Yeah.
+
+[Dex Miro] 21:44:33
+Did you know that you have an OGRE, and can you access it?
+
+[Murderbot V2] 21:44:38
+What is an OGRE? GM, do I know what an OGRE is?
+
+[Murderbot V2] 21:44:41
+I should know what a OGRE is, right? But I don't know how to access it, because it hasn't been on the whole time, right?
+
+[GM] 21:44:42
+Uh, you know what an OGRE is, and it has been on the whole time. You just thought this was normal.
+
+[Murderbot V2] 21:44:51
+Oh, oh, oh, okay, okay, gotcha, okay. Oh, and is that how I've been, like, reading, like, different things, and, like…
+
+[Ink] 21:44:59
+That's how you watch Netflix, when you're bored.
+
+[Murderbot V2] 21:45:04
+Yes, I have an ogre.
+
+[Ink] 21:45:08
+Don't you all? What do you guys… how do you guys watch your porn privately?
+
+[Murderbot V2] 21:45:09
+Yeah, don't you… exactly. Don't you all?
+
+[Dex Miro] 21:45:24
+All right. Well, after this went so well, who's next?
+
+[Ink] 21:45:33
+Me, me, me, me, me, me. Yeah, we got started on some cyberware, I need a…
+
+[GM] 21:45:35
+Yeah, you're getting cyberware?
+
+[Ink] 21:45:41
+I need one of those slick socket, a hollow projector, a loudmouth, a tattletale, a hot swap.
+
+[GM] 21:45:55
+Do you want to take some Sycorax?
+
+[Ink] 21:45:58
+Yeah. Maybe you want to take some Sycorax.
+
+[Carnoc Ashbrow] 21:46:03
+Why do you want to take Sycorax?
+
+[Ink] 21:46:04
+Because it makes it more likely I can take the, uh, mods.
+
+[Ink] 21:46:09
+Do I snort it up my nose, inject it?
+
+[GM] 21:46:10
+No, no. Babushka's gonna put you under, and the Sycorax will be mixed into your anesthetic cocktail.
+
+[GM] 21:46:22
+She clears the rest of you out. She's like, you can wait in the lobby for your turn.
+
+[GM] 21:46:32
+And then, she puts you under.
+
+[GM] 21:46:40
+Make a body save with advantage, adding plus 20 to your body save.
+
+[GM] 21:47:03
+All right. Success. So what… whatever cyberware you were planning to install gets installed.
+
+[Ink] 21:47:11
+Okay. And so, you take your body, and you get… for slots, it's your body divided by 10, right? So, I have a 30, so I have to pull 3 slots.
+
+[GM] 21:47:19
+No, I think it's just strength. Divided by 10.
+
+[Ink] 21:47:23
+Oh, even better. Okay.
+
+[GM] 21:47:27
+You round down, though.
+
+[Ink] 21:47:29
+So I had 4.5… or 45 strength, so I could have 4… And more slots. I don't think there's anything else I can afford.
+
+[GM] 21:47:32
+4 slots.
+
+[Ink] 21:47:41
+Shoot.
+
+[GM] 21:47:44
+Uh, are you also doing some slickware? Okay. Why don't we do…
+
+[Ink] 21:47:46
+Yeah, I do want to do some simpler, yeah. Um.
+
+[GM] 21:47:51
+That the same, like, just… He'll have to make a save for that as well.
+
+[Ink] 21:47:54
+Okay, and that's the intellect one? Or, uh, vanity.
+
+[GM] 21:47:56
+Uh, let's think that one's a sanity save.
+
+[Ink] 21:48:03
+Okay. Any modifier? Advantage, disadvantage?
+
+[GM] 21:48:06
+Uh, let's see, I don't think Sycorax gives an advantage on that, let's see.
+
+[GM] 21:48:18
+Um, before we move on to that first… mark on your sheet that you've taken one dose of Sycorax.
+
+[GM] 21:48:26
+And then roll a D10.
+
+[Ink] 21:48:30
+So… where do I mark that on my sheet?
+
+[GM] 21:48:34
+Just someplace that… like a notes section or something.
+
+[Ink] 21:48:39
+I thought I had a notes section, but I don't see it now.
+
+[Ink] 21:48:51
+Tick one… I totally spelled that right.
+
+[Ink] 21:48:57
+And you said it would 1D20?
+
+[GM] 21:49:01
+1d10.
+
+[Ink] 21:49:07
+Yeah. Brain fell out.
+
+[GM] 21:49:12
+Nope, now I need you to roll… Uh, let's see…
+
+[Ink] 21:49:17
+The low numbers are good. That means I don't get superpowers.
+
+[GM] 21:49:18
+You were gonna get us something. Roll a 1D100.
+
+[Ink] 21:49:25
+1d100.
+
+[GM] 21:49:33
+53. Uh…
+
+[Ink] 21:49:34
+Oh, that's a good one.
+
+[GM] 21:49:39
+Actually, you might really like this. Um, alright. Some time passes. It's actually not that long of a surgery, uh, for whatever Babushka's doing. She's very fast, very efficient.
+
+[GM] 21:49:50
+Very good at her job. Um… Regardless of whatever cyberware you end up getting installed, Ink.
+
+[GM] 21:49:59
+Uh, you wake up, you have semi-organic vents. Form in your underarms and your neck.
+
+[Ink] 21:50:06
+Semi-organic vents?
+
+[GM] 21:50:08
+Yeah. They're kind of like gills, but they're not gills. They're just like…
+
+[GM] 21:50:14
+Thence. Nope. Just, like…
+
+[Ink] 21:50:15
+Did I smell funny, or… Can make noises on?
+
+[GM] 21:50:21
+In fact, you know, if you feel like there's, like. A lot more ventilation in your body now.
+
+[Ink] 21:50:26
+Okay. And you said that my underarms where?
+
+[Zeke Sinclair] 21:50:28
+We're breaking it down.
+
+[GM] 21:50:30
+Underarms and on your neck.
+
+[Ink] 21:50:34
+Okay, so that's where a turtles now, huh?
+
+[Ink] 21:50:40
+So can I breathe down in DopTown if the air thing was off?
+
+[GM] 21:50:45
+It might help a little bit. Who knows?
+
+[Ink] 21:50:49
+Okay. You did. There's a song about it.
+
+[GM] 21:50:50
+Zeke fixed the air. There's a song.
+
+[Dex Miro] 21:50:56
+You know, the man they call Zeke.
+
+[GM] 21:51:00
+Um, Slickware… Alright, so you make a sanity save with Advantage.
+
+[Ink] 21:51:08
+Sanity save with advantage. No modifiers?
+
+[GM] 21:51:14
+No modifiers. Alright, the mod is installed.
+
+[GM] 21:51:22
+But the character gains stress equal the number of slots being installed.
+
+[Ink] 21:51:27
+I wanted 2 slots so I get 2 stress.
+
+[GM] 21:51:39
+Ink, feel free to write down just whatever ones you were deciding on.
+
+[Ink] 21:51:45
+I took jury rig, because now that I found out that it's a trained skill.
+
+[GM] 21:51:51
+Yeah, that's fine. Alright, who's next?
+
+[GM] 21:51:57
+Alright, Zeke, come on in, you want some Sycorax?
+
+[Zeke Sinclair] 21:51:57
+Oh, me.
+
+[Zeke Sinclair] 21:52:01
+When I walk in, I'm playing my theme song on my portable walkway.
+
+[Zeke Sinclair] 21:52:07
+So they can hear it. Um, yeah, I want some Sycorax, of course I do.
+
+[GM] 21:52:12
+All right. You getting cyberware? Okay.
+
+[Zeke Sinclair] 21:52:14
+I'm getting cloakskin.
+
+[Dex Miro] 21:52:19
+Just cloakskin? I guess that's all he's got, yeah.
+
+[Ink] 21:52:20
+It's $200,000.
+
+[Zeke Sinclair] 21:52:22
+$200,000.
+
+[GM] 21:52:25
+All right. Um, make a body save with advantage. And then plus 20 to your body save.
+
+[Zeke Sinclair] 21:52:31
+Oh, somehow.
+
+[Murderbot V2] 21:52:33
+You do know cloakskin goes away after you do a bonus move?
+
+[Zeke Sinclair] 21:52:38
+Did I do a bonus move?
+
+[GM] 21:52:40
+He's talking D&D.
+
+[Zeke Sinclair] 21:52:44
+Sorry, what was the roll?
+
+[GM] 21:52:46
+Body Save with Advantage. And you have plus 20 as a modifier.
+
+[Zeke Sinclair] 21:52:50
+I don't know if my body is terrible.
+
+[Zeke Sinclair] 21:52:56
+plus 20.
+
+[GM] 21:52:59
+Whoa, look at you! Single digits, even? Wow.
+
+[GM] 21:53:07
+Um, okay. Success.
+
+[GM] 21:53:11
+Installed. Properly.
+
+[GM] 21:53:15
+Um, was that the only… you're only getting cyberware? Okay. Who's up next?
+
+[Zeke Sinclair] 21:53:17
+That's it.
+
+[Carnoc Ashbrow] 21:53:23
+I could go, I guess.
+
+[GM] 21:53:24
+Okay.
+
+[Carnoc Ashbrow] 21:53:27
+I'd like an OGRE and a hunter shot. And a little switch. And a slicksocket.
+
+[Ink] 21:53:41
+I didn't geek at gills.
+
+[GM] 21:53:43
+Why didn't he get gills? Because he rolled… oh yeah, Zeke, you need to roll a 1D10.
+
+[Ink] 21:53:50
+Gills, gills, gills.
+
+[Zeke Sinclair] 21:53:56
+Pretty cool.
+
+[Zeke Sinclair] 21:54:01
+Oh, one to eat.
+
+[GM] 21:54:04
+No gills for Zeke. Alright, sorry, Carnoc, you were getting…
+
+[Zeke Sinclair] 21:54:06
+No gills.
+
+[Carnoc Ashbrow] 21:54:11
+Uh… an ogre… a hunter shot.
+
+[GM] 21:54:16
+Sure.
+
+[Carnoc Ashbrow] 21:54:18
+Uh… what was the name of it?
+
+[Carnoc Ashbrow] 21:54:25
+A slick socket, and…
+
+[GM] 21:54:31
+A little, uh… Little switch.
+
+[Carnoc Ashbrow] 21:54:32
+The little switch, yeah, sorry. I couldn't find it.
+
+[GM] 21:54:38
+Um, okay. The… Cyberware… are you going to take some Sycorax?
+
+[Carnoc Ashbrow] 21:54:45
+Yeah.
+
+[GM] 21:54:46
+Okay. Go ahead and… um, roll body save with advantage, and then add plus 20 modifier.
+
+[Carnoc Ashbrow] 21:54:59
+Oop, I didn't put the plus 20 in there. So I barely made it. Yeah, 54.
+
+[GM] 21:55:02
+So, 54? Yeah. Okay, still a success.
+
+[GM] 21:55:08
+Right. Are you also gonna get some slickware as well?
+
+[Carnoc Ashbrow] 21:55:11
+Yeah, so I was gonna get the… trained skill, and I was gonna take Rimwise.
+
+[GM] 21:55:19
+Okay. Um… Before you make the sanity save.
+
+[GM] 21:55:24
+Go ahead and make a roll of 1D10.
+
+[GM] 21:55:34
+Okay. Uh, then for the slickware, make a sanity save with advantage.
+
+[GM] 21:55:55
+Okay. Yep. It's installed, no problem.
+
+[Carnoc Ashbrow] 21:55:56
+Ooh. Good roll.
+
+[Carnoc Ashbrow] 21:56:01
+Alrighty.
+
+[GM] 21:56:02
+All right. Dex, you getting any? Any cyber mods?
+
+[Dex Miro] 21:56:07
+Yep.
+
+[GM] 21:56:08
+Okay. Do you want to take some Sycorax?
+
+[Dex Miro] 21:56:13
+Yes, Sycorax, please.
+
+[GM] 21:56:15
+Alright. Uh, make a body save with advantage, and add plus 20 as a modifier.
+
+[GM] 21:56:30
+Wow, you guys just got some hot dice. Too bad you rolled it on this. You could have been, like heroes again about something. All these single digits, and… you know, rolling, rolling. Hot dice.
+
+[GM] 21:56:45
+Um, roll a D10 for me.
+
+[Murderbot V2] 21:56:46
+Gonna come… come back and bite us in the ass.
+
+[GM] 21:56:54
+Um, ooh, a ton. But nothing happens. Uh, again, any slickware installed.
+
+[Dex Miro] 21:57:02
+I, uh, want some slickware, too.
+
+[GM] 21:57:04
+Alright, roll sanity save with advantage. No modifier on that.
+
+[Dex Miro] 21:57:09
+No modifier on that, though. Oh, because the Sycorax doesn't help.
+
+[GM] 21:57:14
+Yeah. Uh… However many slots you're planning to install.
+
+[Dex Miro] 21:57:15
+Oh, dear. Failure.
+
+[GM] 21:57:19
+Uh, you get that many stress.
+
+[Dex Miro] 21:57:29
+So, 2 damage, or stress, too stressed. Wait, did we ever rest before?
+
+[GM] 21:57:36
+Yeah, you rested, like, you did, like, 48 days of rest.
+
+[Dex Miro] 21:57:40
+Would that have reduced our stress at all?
+
+[GM] 21:57:42
+Well, it depends on if you succeeded on your save or not.
+
+[GM] 21:57:46
+Or, well, yeah, or if you had, like, a critical failure or not.
+
+[Dex Miro] 21:57:46
+Okay.
+
+[GM] 21:57:51
+Um, here's the… I'll read the rules. Rope.
+
+[Dex Miro] 21:57:53
+Alright, well, I'm up to 11 after increasing it by 2. Is that bad?
+
+[GM] 21:57:58
+Uh, just means you're more likely to panic.
+
+[Dex Miro] 21:58:02
+Yeah. Do I panic now?
+
+[GM] 21:58:06
+I don't think so.
+
+[Dex Miro] 21:58:08
+Alright, I'll try to calm myself with my new holopet.
+
+[GM] 21:58:11
+You know, you saw all of your friends go and do all this, uh… And then, you know, it wasn't the most comfortable experience, and now you've got, like.
+
+[GM] 21:58:22
+Well, I don't know what kind of slickware you had installed, but… Presumably, it's not… it's not taking easily.
+
+[GM] 21:58:32
+Um.
+
+[GM] 21:58:43
+So… You don't have to go in, uh, you can relieve stress even without trying to level up.
+
+[Dex Miro] 21:58:54
+Yeah.
+
+[GM] 21:58:59
+You can relieve stress by resting in a relatively safe place. To do this, you make a rest save using your worst save.
+
+[GM] 21:59:09
+If you succeed, reduce your stress by the ones digit of whatever you rolled. So if you roll 24 then you would reduce by 4.
+
+[GM] 21:59:16
+Assuming you succeed. If you fail, you gain one stress instead.
+
+[GM] 21:59:20
+Players can gain advantage on the rest save by participating in consensual sex, recreational drug use, a night of heavy drinking, prayer, or any other suitable leisure activity.
+
+[GM] 21:59:35
+If you'd like to relieve some stress, you may do so by doing a rest save.
+
+[Murderbot V2] 21:59:55
+I want to relieve some stress.
+
+[GM] 22:00:01
+Okay. I mean… I don't know how much stress you have.
+
+[Murderbot V2] 22:00:04
+Wait, hold on. Do I even need to? 3…
+
+[GM] 22:00:15
+As long as you're above your minimum, I guess there's always opportunity to reduce it by one more.
+
+[GM] 22:00:27
+If your minimum strength stress is 3, though, you can't go below your minimum.
+
+[Murderbot V2] 22:00:30
+Okay, never mind.
+
+[Ink] 22:00:36
+What do we roll to relieve stress?
+
+[GM] 22:00:38
+You take your worst saving throw and you roll that.
+
+[GM] 22:00:49
+And if you participate in any of the activities that I mentioned, you can roll with advantage.
+
+[Ink] 22:00:53
+Gotcha. I'm gonna go work out in the gym.
+
+[GM] 22:00:58
+Okay. Sure.
+
+[Ink] 22:01:00
+To relieve some stress. And I roll a 1D100.
+
+[Ink] 22:01:06
+And I gotta beat a 24 is my worst. I have a 31, a 24, and a 30, so fear is my worst.
+
+[GM] 22:01:06
+You're all… yeah.
+
+[GM] 22:01:11
+Yep, 24 is your worst.
+
+[GM] 22:01:17
+You have an advantage.
+
+[Ink] 22:01:19
+Oh, okay.
+
+[GM] 22:01:24
+Okay, gain 1 stress.
+
+[Ink] 22:01:26
+I just gained stress instead of leaving it. I should have had consensual sex.
+
+[Zeke Sinclair] 22:01:36
+I don't know where you go.
+
+[GM] 22:01:37
+You could do that, too.
+
+[GM] 22:01:45
+I mean, you guys have been here for days and days and days, so, like, if you want to, like.
+
+[GM] 22:01:51
+Um… Other than, like, you know, if you have a string of extremely bad rolls, I suppose, like, you might end up.
+
+[GM] 22:02:00
+Overall… like, getting to a point where.
+
+[GM] 22:02:05
+I don't know. It feels hard to believe that…
+
+[GM] 22:02:12
+In the course of, like, 2 months, you wouldn't actually just eventually… reduce your stress all the way?
+
+[Ink] 22:02:20
+Okay, so I can roll another 2D100. All right.
+
+[GM] 22:02:23
+Yeah, let's just experiment with this system. So, I'm not convinced of this.
+
+[Ink] 22:02:28
+So I got a 40 and a 70 fine. Gain more… more stress.
+
+[GM] 22:02:29
+40 and a 75, so you get one… Yeah.
+
+[Ink] 22:02:33
+Alright, and uh… Ink would… Yeah, oh, hey! Hey!
+
+[GM] 22:02:36
+Alright, and that's the ones digit, so now you're reduced by 8.
+
+[GM] 22:02:41
+Yeah.
+
+[Ink] 22:02:41
+I reduce by 8? Oh, man, I'm feeling good. Definitely consensual sex is the way to go.
+
+[Ink] 22:02:57
+For Pete's sakes. I told… told the AI to make an image of, uh… Murderbot getting brain surgery, and for some reason, she thinks his brain is in his stomach.
+
+[GM] 22:03:08
+Weird.
+
+[Ink] 22:03:10
+Maybe that's where his black box is, or his exploding button is.
+
+[GM] 22:03:17
+Those vents are pretty cool.
+
+[Ink] 22:03:18
+I think so.
+
+[GM] 22:03:31
+Anyone else want to relieve some stress?
+
+[Dex Miro] 22:03:38
+Sure.
+
+[GM] 22:03:38
+Okay, here's one of the things… Okay, so the reason why you gain one stress is because you failed to save, not because…
+
+[GM] 22:03:47
+That's just why. It's not because you… that's a general rule, not… like, specific to this failing arrest save.
+
+[GM] 22:03:57
+Sorry. Dex, were you gonna say something?
+
+[Dex Miro] 22:04:02
+Sure, I'll try to relieve stress. I'm very stressed out.
+
+[GM] 22:04:04
+Alright, let's see it. Okay. What are you gonna do to…
+
+[GM] 22:04:10
+Gain advantage on relieving your stress. Besides working on consensual sex.
+
+[Dex Miro] 22:04:13
+Oh, what were the other options?
+
+[GM] 22:04:17
+Uh, recreational drug use, a night of heavy drinking, prayer, or any other suitable leisure activity.
+
+[Dex Miro] 22:04:18
+Yeah.
+
+[GM] 22:04:22
+You could just, like, read a book in a cafe.
+
+[Dex Miro] 22:04:33
+I feel like Dex does something weird, like paints.
+
+[GM] 22:04:37
+Okay. Puts on some old Bob Ross and… Gets to it.
+
+[Dex Miro] 22:04:41
+Yeah. So what do I roll?
+
+[GM] 22:04:46
+Uh, you roll your worst save. Yeah. With advantage.
+
+[Dex Miro] 22:04:55
+The saves are the things on the right, not the skills, right?
+
+[GM] 22:04:57
+Yeah, so body, sanity, fear? Okay.
+
+[Dex Miro] 22:05:00
+Wow, we're safe as figure.
+
+[Dex Miro] 22:05:05
+Why is it not popping up? Oh, I'm in the wrong tab, I bet.
+
+[Dex Miro] 22:05:14
+Oh, that's real bad. I'm paying for my roll earlier, right?
+
+[GM] 22:05:15
+Well, I mean…
+
+[Dex Miro] 22:05:18
+Remember, like, good control earlier.
+
+[GM] 22:05:20
+You just normal fail, though, because that's the better of the two.
+
+[Ink] 22:05:24
+Okay, I'm not gonna have to tell the AI that the painting went really bad.
+
+[Dex Miro] 22:05:24
+Yeah.
+
+[GM] 22:05:29
+Keep rolling, Dex. Let's see. To go up by 1…
+
+[Dex Miro] 22:05:34
+More… more painting? Or do I have to do something different?
+
+[GM] 22:05:36
+No, we'll just… we'll just say that this was all stuff that happened in the past, as far as, like… Alright, there you go. Reduced by 8.
+
+[Dex Miro] 22:05:42
+Alright.
+
+[Carnoc Ashbrow] 22:05:53
+I'll try and reduce some stress, too. I'll go work out.
+
+[GM] 22:05:55
+Okay. Joining Ink in the gym. Carnoc's gonna be like, watch me work out.
+
+[GM] 22:06:06
+Nope.
+
+[Carnoc Ashbrow] 22:06:06
+Nope. So that increases the stress.
+
+[GM] 22:06:12
+Yeah. Okay.
+
+[Carnoc Ashbrow] 22:06:13
+I'll try working out again.
+
+[Zeke Sinclair] 22:06:17
+tired.
+
+[GM] 22:06:20
+Alright, reduced by… oh, no, 9? That's the better of the two.
+
+[Carnoc Ashbrow] 22:06:27
+Oh, okay. Okay.
+
+[GM] 22:06:27
+Because 19's also a success, and since what you're trying to do is… Yeah.
+
+[GM] 22:06:35
+Well, Zeke, is he stressed at all?
+
+[Zeke Sinclair] 22:06:36
+Well, that's a lot of…
+
+[Carnoc Ashbrow] 22:06:36
+There's no such thing as overindulging, is there? Because I went down to below zero.
+
+[GM] 22:06:40
+No, you just can't go below your minimum.
+
+[Carnoc Ashbrow] 22:06:42
+Just can't go below zero, yeah. Sure, you can't go below 2. Okay.
+
+[GM] 22:06:47
+Yeah.
+
+[Zeke Sinclair] 22:06:48
+I'm only at a 6, I don't know if that's a lot, but I suppose I could relieve it.
+
+[GM] 22:06:52
+Yeah, it doesn't hurt to.
+
+[Zeke Sinclair] 22:06:54
+I'll spend some time with my adoring fans, and there might be some consensual sex involved, I don't know. It could happen.
+
+[Dex Miro] 22:07:03
+Wait, are you… are you receiving prayer? As your activity.
+
+[Zeke Sinclair] 22:07:05
+Receiving prayer. I could receive some prayer.
+
+[Zeke Sinclair] 22:07:13
+That's our lowest save?
+
+[GM] 22:07:14
+Uh-huh.
+
+[Zeke Sinclair] 22:07:16
+Well, lowest save is this one, it's very low.
+
+[Dex Miro] 22:07:21
+Can I improve my saves?
+
+[GM] 22:07:25
+Yeah, so… Okay, I'll first let's have Zeke finish here.
+
+[Dex Miro] 22:07:29
+Sorry.
+
+[GM] 22:07:31
+Alright, Zeke, it's a stress.
+
+[Ink] 22:07:34
+Well, your lowest save is… 19?
+
+[Zeke Sinclair] 22:07:39
+Yeah, bad. I didn't get as much praise as I was hoping.
+
+[GM] 22:07:45
+Keep going.
+
+[Zeke Sinclair] 22:07:47
+Alright, I'll do it one more time.
+
+[Zeke Sinclair] 22:07:49
+I'll just embellish myself again, alright. Uh… Oh, God.
+
+[GM] 22:07:59
+Keep going. Yeah, keep going.
+
+[Zeke Sinclair] 22:08:03
+All right.
+
+[Carnoc Ashbrow] 22:08:03
+Yeah, what are you at, like, 8?
+
+[Dex Miro] 22:08:06
+Does each one of these take a day?
+
+[GM] 22:08:08
+Yeah, I guess, I don't know. You get to reduce 2.
+
+[Zeke Sinclair] 22:08:11
+Oh, I feel so much better. All right, back to where I started.
+
+[Carnoc Ashbrow] 22:08:15
+So you're back down to 6, where you started.
+
+[Zeke Sinclair] 22:08:17
+Back to where I started.
+
+[GM] 22:08:18
+Okay. Um… So, what we're gonna do here is… I don't… okay. Other than the money factor.
+
+[GM] 22:08:26
+Of shore leave. I am not sure why. In this scenario, we wouldn't just convert.
+
+[GM] 22:08:33
+These numbers into… essentially, like, the shore-leave version of this.
+
+[GM] 22:08:40
+So, in that particular case, right. Um…
+
+[GM] 22:08:46
+So… Dex went first, is that right? Or no? No. Ink went first.
+
+[GM] 22:08:52
+Yeah, so ink… reduced by… 8. No. 7. No. Where's inks rolls?
+
+[GM] 22:09:06
+Oh, they're there. Okay. 8. Right.
+
+[Ink] 22:09:06
+Oh, mine did just… yeah, it would be 100, sorry, I didn't…
+
+[GM] 22:09:10
+So, you would take 8, and then… According to this, you would basically convert that 8.
+
+[GM] 22:09:18
+You can add those points to whatever. Divide them up however you want amongst your saves.
+
+[GM] 22:09:25
+Or do you just add it to your minimal… or your lowest one?
+
+[GM] 22:09:35
+For every point of stress you convert, you can improve any save by 1.
+
+[GM] 22:09:38
+So, you can basically divide up 8 amongst any of your saves.
+
+[Ink] 22:09:44
+Oh, that's cool.
+
+[GM] 22:09:47
+Uh, and then similarly, with… Karnak, um…
+
+[GM] 22:09:52
+You got 6, or 9? You got 9 or 6. Actually, I guess you can't go below the minimum.
+
+[Carnoc Ashbrow] 22:09:57
+Yeah, it went below. I think… I think I… Yeah, it went from, like, 8 to 6… uh, 8 to 2, so 6.
+
+[GM] 22:09:57
+So, however many that took you.
+
+[GM] 22:10:05
+Like, 6, yeah. And Zeke, you would get to convert 2.
+
+[GM] 22:10:10
+Dex, you got 8 as well.
+
+[Zeke Sinclair] 22:10:15
+praise, like…
+
+[Ink] 22:10:20
+So, sanity, fear, body. A total of 8 points could be distributed between them.
+
+[GM] 22:10:25
+Yeah.
+
+[Dex Miro] 22:10:31
+It's not really a thing, and it doesn't really make sense anyways.
+
+[GM] 22:10:31
+Now, here's the… Here's… here's the… yeah, I'm having a little bit of a problem with this.
+
+[GM] 22:10:39
+At this point. I like the idea of converting distress into… saves. I like the idea… well, I mean, I think there's…
+
+[Ink] 22:10:41
+8 points
+
+[GM] 22:10:46
+There's sort of a paywall on this in regards to… like, um…
+
+[GM] 22:10:53
+You're supposed to pay money to convert to stress. That's sort of, like, however much money you spend on this activity.
+
+[GM] 22:11:01
+But the relationship between the shore leave and the relieve stress. Function don't mesh really well.
+
+[GM] 22:11:10
+Because, like, the shore leave. It's supposed to require you to make a sanity save.
+
+[GM] 22:11:17
+Whereas relieve stress is just, like, whatever your worst save is.
+
+[GM] 22:11:22
+So, I don't know. I'm fine with whatever. We'll figure this out later.
+
+[Dex Miro] 22:11:29
+Well, sanity is my best save, and I had to do my worst save for…
+
+[GM] 22:11:32
+Yeah.
+
+[GM] 22:11:40
+Okay. Everyone's got their cyberware and their slickware installed, everyone's rested and got their stress reduced.
+
+[Dex Miro] 22:11:58
+So we should still divide up between Sanity for your body?
+
+[GM] 22:12:01
+Yeah. Yeah. I think in the future, I'll kind of mesh these two things together.
+
+[GM] 22:12:09
+That the… you'll make a, uh… sure leave check.
+
+[GM] 22:12:14
+To relieve your stress when you're, like. Essentially in downtime.
+
+[GM] 22:12:19
+Um… And you'll pay money for every time that you…
+
+[GM] 22:12:26
+Make the check.
+
+[GM] 22:12:33
+Um…
+
+[GM] 22:12:39
+Or don't. What we'll do is…
+
+[GM] 22:12:44
+You'll pay money, and then… after you…
+
+[GM] 22:12:54
+You'll use your worst save. To roll.
+
+[GM] 22:12:59
+On the success you convert. Your stress, um… The one's number into…
+
+[GM] 22:13:09
+You know, whatever. Additional saves.
+
+[GM] 22:13:16
+On a critical success. You convert all of your stress.
+
+[GM] 22:13:20
+Into it. On a failure…
+
+[GM] 22:13:27
+You reduce your stress by that number. But you don't convert it.
+
+[Dex Miro] 22:13:34
+Got it, you still did the activity, it's probably going to be relaxing, you just don't get a long-term benefit.
+
+[GM] 22:13:39
+Right. Right. Uh, critical failure, we'll use this, which is that you don't convert or relieve any stress.
+
+[GM] 22:13:48
+And you make a panic check. Okay. That feels better.
+
+[GM] 22:13:55
+No, actually, just modify my note here. Remind myself.
+
+[Dex Miro] 22:14:12
+Mothership, GM's version.
+
+[GM] 22:14:14
+Yeah. I'm gonna make a… Save… using…
+
+[Dex Miro] 22:14:21
+So Murderbot doesn't have any stress, because he didn't have to deal with the last mission?
+
+[GM] 22:14:27
+Well, we kinda… we did this at… Before you guys got into Prospero's dream, it was, like, supposed to be a demonstration.
+
+[GM] 22:14:33
+So, Murderbot is actually a slightly improved version of the previous one.
+
+[Dex Miro] 22:14:38
+Okay.
+
+[GM] 22:14:43
+He's the worst day of customers, too.
+
+[GM] 22:17:05
+Alright, so you guys going back to the company?
+
+[Zeke Sinclair] 22:17:11
+What's the plan? Do we have a plan for how we're going back to the company?
+
+[GM] 22:17:14
+You've got a ship.
+
+[Ink] 22:17:15
+Suitcase from, uh, what's her name?
+
+[Zeke Sinclair] 22:17:17
+We're just gonna, like, show up and be like, hey…
+
+[Zeke Sinclair] 22:17:21
+Just the suitcase.
+
+[Zeke Sinclair] 22:17:24
+run it.
+
+[GM] 22:17:26
+You were told that you would just need to leave it somewhere on the ship where the… where the CEO's at.
+
+[Murderbot V2] 22:17:33
+Oh, wait, okay, so we're getting on the ship right now to go back to the company? That's right.
+
+[Zeke Sinclair] 22:17:36
+Well, that's… yeah, I mean, let's get going.
+
+[Murderbot V2] 22:17:40
+We grab the… we grab the suitcase.
+
+[GM] 22:17:42
+It's mysteriously just aboard your ship. Waiting there for you.
+
+[Murderbot V2] 22:17:46
+Oh. How long does it take for us to go back to the company?
+
+[GM] 22:17:51
+Months?
+
+[Murderbot V2] 22:17:52
+Oh. And in that time, are we on, like, under cryo sleep or whatever, or no?
+
+[Carnoc Ashbrow] 22:17:53
+4 months or something.
+
+[GM] 22:17:58
+I mean, everybody but you.
+
+[Murderbot V2] 22:18:00
+Okay, and then… if… is there another person… do we have, like, a pilot or something, or no?
+
+[GM] 22:18:08
+You.
+
+[Murderbot V2] 22:18:08
+Oh, that's me? No, we had… who was, um… Oh, we got rid of Phoenix? Okay.
+
+[Ink] 22:18:11
+No, I got rid of that dude.
+
+[Carnoc Ashbrow] 22:18:15
+I assume we're leaving him here, yeah.
+
+[Murderbot V2] 22:18:16
+Alright.
+
+[Dex Miro] 22:18:18
+I can't imagine Phoenix would come back with us.
+
+[Carnoc Ashbrow] 22:18:21
+Yeah. Well, we were told to eliminate him, basically.
+
+[Murderbot V2] 22:18:22
+Gotcha. Okay.
+
+[Dex Miro] 22:18:26
+Right.
+
+[Ink] 22:18:27
+Oh, can we go harass Phoenix and give him a hard time before we go?
+
+[GM] 22:18:31
+You know where he lives.
+
+[Ink] 22:18:32
+Yeah, I know where he lives. I want to go knock on his door and be like, you outed us, you know, and all that stuff, and then, uh… And then just say, just kidding.
+
+[Zeke Sinclair] 22:18:43
+Let's get it.
+
+[Ink] 22:18:44
+I want, like, Carnoc with his, you know, rifle behind me.
+
+[GM] 22:18:51
+He… you… you terrify him at first, and then he's much relieved. He's like, boy, I'm glad you guys are alive. I thought for sure Yandy was gonna kill you guys.
+
+[Dex Miro] 22:19:02
+But then why'd you tell her about it?
+
+[Zeke Sinclair] 22:19:03
+Yeah, what's wrong.
+
+[Ink] 22:19:07
+Yeah, how much do they give you? What'd you negotiate? I see your kid there's got a new, uh, Nintendo Switch.
+
+[Ink] 22:19:15
+7,000.
+
+[GM] 22:19:16
+Yeah, I got my old job back.
+
+[Dex Miro] 22:19:17
+Through Delta
+
+[Ink] 22:19:19
+All right. But you owe us Phoenix.
+
+[Ink] 22:19:33
+We're not gonna tell… Moss was our other guy that we had on the ship before.
+
+[Ink] 22:19:39
+Right? Moss was the one that had shit before that was…
+
+[GM] 22:19:41
+What's that?
+
+[Carnoc Ashbrow] 22:19:45
+The first mission, yeah.
+
+[Ink] 22:19:50
+He was the pilot guy here.
+
+[Ink] 22:20:06
+Alright, so headed back to… company space?
+
+[GM] 22:20:14
+Uh-huh.
+
+[Carnoc Ashbrow] 22:20:15
+Yeah, I guess so. Have we even ever seen the CEO? Would we even be able to get… like, access to the CEO.
+
+[Zeke Sinclair] 22:20:24
+I'm sure we see this picture.
+
+[GM] 22:20:24
+Oh, he… you know exactly who he is, and, like, when you're, you know, in your downtime.
+
+[GM] 22:20:30
+Uh… of, like. Allotted 8 hours of rest a day, um…
+
+[GM] 22:20:37
+You can, you know, fall asleep to the wonderful market reports about your company.
+
+[GM] 22:20:42
+How well it's doing, the CEOs often… you know, featured as a… as a speaker in those reports.
+
+[Zeke Sinclair] 22:20:49
+Remember, we get all the emails, too, you know, like…
+
+[Zeke Sinclair] 22:20:53
+to all employees.
+
+[Zeke Sinclair] 22:20:55
+We have decided to…
+
+[Carnoc Ashbrow] 22:20:55
+Yeah.
+
+[Zeke Sinclair] 22:20:57
+Take away your sick time for your benefit.
+
+[Murderbot V2] 22:21:02
+Like, did you get an email? That said something like that.
+
+[Murderbot V2] 22:21:07
+Today.
+
+[Zeke Sinclair] 22:21:09
+We get them regularly, yeah, you know, like, uh…
+
+[Zeke Sinclair] 22:21:14
+Yeah.
+
+[Dex Miro] 22:21:15
+That'll be some sort of non-informative monthly town hall or something like that.
+
+[Zeke Sinclair] 22:21:20
+Right.
+
+[GM] 22:25:40
+Alright, you guys getting the cryo sleep? You dream about a plan on your months-long voyage.
+
+[GM] 22:25:53
+Murderbot sits and takes some time to reflect on piloting. It really… really wishes that… He could have had that piloting slickware installed. Instead, he has to let this dumb robot.
+
+[Murderbot V2] 22:26:03
+Hold on, I have to talk to you off, because they don't know what I'm doing! They're all asleep!
+
+[Murderbot V2] 22:26:18
+Um, yeah, I just go around checking vitals, making sure everything's fine.
+
+[Murderbot V2] 22:26:23
+And then, all of a sudden, I hear a hissing, and the metal starts to melt!
+
+[Murderbot V2] 22:26:31
+Out pops… out pops a face hugger!
+
+[Dex Miro] 22:26:33
+No…
+
+[GM] 22:26:35
+And it does… it does the song and dance. Hello, my darling! Hello, baby! Hello, my…
+
+[Murderbot V2] 22:26:40
+Hello, my darling room!
+
+[GM] 22:26:46
+Um… I guess that technically wasn't the face hugger, that was the, uh…
+
+[Murderbot V2] 22:26:51
+I, um, the chest burster. I, uh, I, I, I sit next to…
+
+[GM] 22:26:52
+Yeah.
+
+[Zeke Sinclair] 22:26:53
+Be right back, guys.
+
+[Murderbot V2] 22:26:58
+Carnoc, uh, sleep pod, and I gently caress it. Because I know he is…
+
+[GM] 22:27:04
+And you're taunted by the ship's computer about how much more piloting it does than you are.
+
+[Murderbot V2] 22:27:07
+He is the… he is my beginning, he is my end.
+
+[Murderbot V2] 22:27:11
+He is. He is the destroyer.
+
+[Murderbot V2] 22:27:23
+He is my apocalypse.
+
+[Murderbot V2] 22:27:29
+Months and months go by, all I do is look at sweet, sweet Carnoc.
+
+[GM] 22:27:45
+Doing.
+
+[Murderbot V2] 22:27:47
+I tried to do a thing where, like, I try to trip over Carnoc's power… the power cable to the sleep pod.
+
+[Murderbot V2] 22:27:57
+But it's… it's too… it's too sturdy, it doesn't… it doesn't unplug. And I just end up… Breaking my foot, so I have to spend the next couple months repairing it.
+
+[Murderbot V2] 22:28:09
+Using my first aid skills.
+
+[GM] 22:28:22
+Okay, couple… couple weeks out from… the rendezvous point with the rest of the flotilla.
+
+[GM] 22:28:29
+Um… Murderbot goes and, you know.
+
+[GM] 22:28:34
+De-thaws… thaws? I guess not de-thaws. Thaws you guys out of, uh… cryo-freeze.
+
+[GM] 22:28:47
+You have to… everyone makes a body save. I think it's about he's safe.
+
+[GM] 22:28:59
+Cryo sickness. Vitals are preserved. An awakening experience, hangover-type effects. Role or cryo sick, you suffered disadvantage on all…
+
+[GM] 22:29:13
+Okay. I think it's body save. Well, yeah.
+
+[Dex Miro] 22:29:25
+Already safe.
+
+[Murderbot V2] 22:29:39
+What did Carnoc roll?
+
+[Carnoc Ashbrow] 22:29:41
+Uh… a body save for cryo sickness. I rolled bad.
+
+[Murderbot V2] 22:29:47
+Oh, no! I attend to him. Oh, no! The deep freeze is in his tongue! I must pull it out!
+
+[Dex Miro] 22:29:54
+What?
+
+[GM] 22:29:59
+So you can't ever say the word.
+
+[Ink] 22:29:59
+You gotta make sure you're getting
+
+[Dex Miro] 22:30:01
+Yeah, yeah, I get it now.
+
+[Murderbot V2] 22:30:03
+It's frostbitten, his tongue is frostbitten!
+
+[Murderbot V2] 22:30:13
+We must operate immediately. Remember, guys, I know first aid.
+
+[Dex Miro] 22:30:22
+Do you?
+
+[Murderbot V2] 22:30:23
+Yeah, that's one of my train skills.
+
+[GM] 22:30:29
+But also not. It's field medicine, it's actually an expert skill.
+
+[Murderbot V2] 22:30:35
+So… Well, GM, someone's gotta change these player…
+
+[Murderbot V2] 22:30:41
+Player sheets.
+
+[GM] 22:30:42
+Yeah.
+
+[Dex Miro] 22:30:43
+Yeah, yeah.
+
+[Murderbot V2] 22:30:50
+Otherwise, I'm just going off the player sheets.
+
+[GM] 22:30:53
+Mm-hmm.
+
+[GM] 22:31:03
+Maybe it would be easier for me to find if I searched the… call it.
+
+[GM] 22:31:09
+Alright, as far as… Um…
+
+[Murderbot V2] 22:31:11
+GM, you asshole. Now I have this stupid song in my head.
+
+[GM] 22:31:17
+Dex, not… or I should say Dex is not cryo-sick, Carnoc is… ink is… Um, yeah, you're supposed to roll a body save.
+
+[Zeke Sinclair] 22:31:25
+As I've pulled through all something.
+
+[Dex Miro] 22:31:28
+Probably soon
+
+[Zeke Sinclair] 22:31:30
+I just upgraded that by 2.
+
+[Murderbot V2] 22:31:32
+Zeke, what are you eating?
+
+[Zeke Sinclair] 22:31:33
+Surely.
+
+[GM] 22:31:33
+Um… the cryo sickness will eventually wear off, but anyone who fails should take a point of stress.
+
+[Zeke Sinclair] 22:31:40
+No, no
+
+[GM] 22:31:47
+Is, like, spend, like, a… This was 2 weeks out. It's been, like, a week.
+
+[GM] 22:31:52
+Feeling pretty hungover, you drink coffee. Maybe smoke a cigarette or something.
+
+[Murderbot V2] 22:31:59
+Consensual sex.
+
+[GM] 22:32:02
+With yourself… Or your holopet, if you've got one of those.
+
+[Murderbot V2] 22:32:07
+Oh, no! Oh my goodness! What the heck is going on! How did it wake you up for this, guys?
+
+[Dex Miro] 22:32:09
+What?
+
+[Zeke Sinclair] 22:32:10
+Oh, yeah.
+
+[Zeke Sinclair] 22:32:14
+Don't you go through that, though?
+
+[Ink] 22:32:17
+It's a sheep photos!
+
+[Murderbot V2] 22:32:20
+I love fetuses you!
+
+[Ink] 22:32:29
+Obviously, Dex never played the only video game I've ever made.
+
+[Dex Miro] 22:32:31
+No, I know what you're talking about.
+
+[GM] 22:32:34
+It's, you know, uh… SFE is the base… app for your ogre.
+
+[Murderbot V2] 22:32:41
+Awesome! Oh my god!
+
+[Dex Miro] 22:32:41
+There's an acronym?
+
+[GM] 22:32:44
+It's the base app for the OGRE, so in your heads-up display, you can play SFE with your holopet.
+
+[Murderbot V2] 22:32:54
+Oh, Jesus Christ. Oh, so good!
+
+[GM] 22:32:58
+Alright. Uh, you got, like, a week of time, um…
+
+[GM] 22:33:03
+Before you reach the, uh… The rest of the company's, uh, ships.
+
+[Dex Miro] 22:33:14
+So, do we have any idea what's in the case, or did we try to figure it out?
+
+[Dex Miro] 22:33:17
+Or do we just not care?
+
+[Carnoc Ashbrow] 22:33:21
+I mean, it… wasn't it implied it's a bomb or something?
+
+[Dex Miro] 22:33:26
+It was implied.
+
+[Zeke Sinclair] 22:33:27
+Can we… can we try to scan it with something and not open it, but like…
+
+[GM] 22:33:32
+Um… Anyone have a scanner on their sheet of some sort? Bomb scanner?
+
+[Ink] 22:33:42
+You're really gonna suck if we blow ourselves up.
+
+[Murderbot V2] 22:33:42
+Scanner…
+
+[Murderbot V2] 22:33:47
+Wait, what do you guys want to do right now? You want to open…
+
+[Dex Miro] 22:33:49
+I can cut it open, or I can whack it with my spanner. That's what I bring to the table.
+
+[Murderbot V2] 22:33:52
+The suitcase.
+
+[Zeke Sinclair] 22:33:52
+Now, we don't want to… we do not want to open the suitcase.
+
+[Zeke Sinclair] 22:33:56
+We want to look inside the suitcase without opening it. I want to put it in an MRI or something.
+
+[Murderbot V2] 22:34:01
+Does that might not set it off?
+
+[Zeke Sinclair] 22:34:05
+It might not.
+
+[Murderbot V2] 22:34:08
+Hmm, hmm, hmm.
+
+[Dex Miro] 22:34:19
+Is it transmitting anything?
+
+[Murderbot V2] 22:34:22
+I don't have anything that can scan. I can pick up transmissions to see if it's transmitting anything out of the suitcase.
+
+[Murderbot V2] 22:34:35
+But… Hello, my darling! Hello, my love!
+
+[GM] 22:34:35
+Uh, if you get real close to it, you, um, there's some… No.
+
+[GM] 22:34:42
+You get some disruption to your, uh… whatever radio signals that you'd be receiving.
+
+[Murderbot V2] 22:34:49
+Um, there is something emanating from the suitcase. So it is electronic in nature. This is true.
+
+[Dex Miro] 22:34:58
+And it's not just going to explode when I open it up, because the whole point is… whoever we take this to is gonna look at it and say, like, oh, the CEO has to see this.
+
+[Dex Miro] 22:35:09
+Right.
+
+[Ink] 22:35:11
+That's what she said, she'd at least give us some info that would allow us to.
+
+[Ink] 22:35:14
+To convince the CEO to come…
+
+[Dex Miro] 22:35:18
+Right, but it's like, she didn't tell us, right? So, like, we… it just has to be something that's in the case.
+
+[Carnoc Ashbrow] 22:35:19
+Were we just supposed to leave it?
+
+[Carnoc Ashbrow] 22:35:25
+Were we just supposed to leave it in somewhere in a room? We thought the CEO would go to?
+
+[GM] 22:35:37
+You're supposed to leave it on the ship where the CEO is.
+
+[Murderbot V2] 22:35:42
+Well, we need a meeting with the… with the CEO to get all that shit, right?
+
+[Carnoc Ashbrow] 22:35:51
+Or… we can see… Yeah, which ship he arrives on and sneak onto it, or something like that.
+
+[Murderbot V2] 22:35:52
+Or sneak onto it?
+
+[Murderbot V2] 22:35:58
+Ooh, that's a…
+
+[Dex Miro] 22:36:01
+Were we supposed to open it first or not?
+
+[Zeke Sinclair] 22:36:07
+Okay, so…
+
+[GM] 22:36:13
+Um, there's probably a note with it that… implies that you should not open it.
+
+[GM] 22:36:21
+And it also gives you directions in terms of the… the data… that, um…
+
+[GM] 22:36:31
+Was gonna be used for the CEO to… to attract. Them to be present.
+
+[Dex Miro] 22:36:38
+Like, what we should tell them, isn't it?
+
+[GM] 22:36:40
+Yeah. Um, yeah, so there's a note, so it basically has, like, a data stick.
+
+[GM] 22:36:48
+And… it says, don't open the suitcase. Present this data stick.
+
+[GM] 22:36:56
+Um… You'll likely be interrogated.
+
+[GM] 22:37:02
+Um… You want to, like, look at the data on it?
+
+[Zeke Sinclair] 22:37:04
+Can we look at the data spec?
+
+[Zeke Sinclair] 22:37:08
+Yeah.
+
+[GM] 22:37:10
+Um, yeah, you can. Uh, it has…
+
+[GM] 22:37:16
+A number of, essentially, trade routes. That have been planned, um, from…
+
+[GM] 22:37:24
+A false starting point, which you presume is, like. Where they… they would assume Prospero's Dream is.
+
+[GM] 22:37:31
+Um… And so… but the… The trade routes, um…
+
+[Zeke Sinclair] 22:37:31
+Yeah.
+
+[GM] 22:37:41
+Are also probably false as a result of that. But the, um, ship… the…
+
+[GM] 22:37:48
+What do you call it? Like, truckers have them? Like, manifests.
+
+[GM] 22:37:51
+The manifests are, um… related to, like, they have signatures of, like, company.
+
+[GM] 22:37:59
+Um… company names for the ships.
+
+[GM] 22:38:04
+So it's like… it implies that they're… that they're moving the drugs through company ships?
+
+[GM] 22:38:12
+There's additional information on the production of Sycorax.
+
+[GM] 22:38:25
+You're a little bit unsure how much of it is true and how much is false.
+
+[GM] 22:38:32
+Likely it's not the entirety of the production for Sycorax.
+
+[GM] 22:38:45
+There seems to be some sort of high-level communiques within the company.
+
+[GM] 22:39:00
+You recognize some of the names as being middle management and upper management figures. Not C-suite, but just slightly below them.
+
+[Dex Miro] 22:39:18
+And this is the sort of thing that incriminates them as being involved in the Sycorax trade?
+
+[GM] 22:39:25
+Yeah.
+
+[Dex Miro] 22:39:37
+Do we think that part is all real?
+
+[GM] 22:39:40
+Um, probably not, based on everything else that's been presented here as being false.
+
+[Dex Miro] 22:39:50
+Because we kind of thought before that the company was somehow making money off Sycorax.
+
+[GM] 22:39:55
+Yeah. Right now, you're fairly certain that none of this is true.
+
+[GM] 22:40:01
+But because of these sort of internal scandal that this would cause?
+
+[GM] 22:40:08
+Like, that's probably what will draw the attention of… You know, if it is even plausibly true that this is occurring.
+
+[GM] 22:40:16
+The… the CEO is the only one not… incriminated by it, then.
+
+[GM] 22:40:20
+They'll likely want to investigate. And so, likely…
+
+[GM] 22:40:25
+You will be interrogated.
+
+[Dex Miro] 22:40:28
+But we still don't know what's actually in the case, right?
+
+[GM] 22:40:31
+Yeah.
+
+[Dex Miro] 22:40:38
+Alright, so… what do we all do when we get interrogated, then?
+
+[Dex Miro] 22:40:43
+Do we just… See, they forced us to bring this back.
+
+[Murderbot V2] 22:40:54
+Okay, hold on. GM. This suitcase, we don't know what it's gonna do, but we're just gonna place it on the…
+
+[Murderbot V2] 22:41:01
+On the ship, on the CEO's ship, right? Right, and… but we don't know what it's supposed to do. We're thinking it's gonna blow up.
+
+[GM] 22:41:04
+Whatever ship the CEO is on, yeah.
+
+[Murderbot V2] 22:41:11
+And we're gonna get out of there, right? Um.
+
+[GM] 22:41:14
+Mm-hmm. I presume you guys want to get out of there, yeah.
+
+[Murderbot V2] 22:41:19
+And then this data stick is just something that was given to us?
+
+[Murderbot V2] 22:41:24
+I'm just trying to make sense of this again.
+
+[GM] 22:41:26
+Yeah, so the data stick… and the briefcase were placed on your ship.
+
+[GM] 22:41:30
+Presumably by Yandy's people? And so that… she'd mentioned as part of the plan was to.
+
+[Murderbot V2] 22:41:32
+Uh-huh.
+
+[GM] 22:41:40
+Put the briefcase on the CEO's ship. And then…
+
+[GM] 22:41:45
+She would give you something that would attract his attention. Yeah. Though you presume.
+
+[Murderbot V2] 22:41:48
+And that was a data stick. Okay, so… so it's like, we got this data stick.
+
+[Murderbot V2] 22:41:55
+Um, and then just, like. I guess one of us will act like we're… like, we've got backpacks on, or something like that, and have that in there, and then let's just drop it off to the side.
+
+[Murderbot V2] 22:42:05
+As we go and get interrogated. Or something?
+
+[Murderbot V2] 22:42:09
+I don't know how… we haven't… we haven't gone on the ship yet, right?
+
+[Murderbot V2] 22:42:12
+We're still going toward it. Okay, so how do we do this? How do we say… we say, we got a data stick for you, CEO! We need an audience, we need a meeting with you.
+
+[GM] 22:42:12
+No, you're… you're… yeah. You got days before you're there.
+
+[Murderbot V2] 22:42:26
+Yeah, we've got invaluable information about the… the… the, um… the… the production… or, like, you know, the system that's going on over…
+
+[Murderbot V2] 22:42:37
+Over there, and we have… we want to talk to you about the sicker access being… that's over there.
+
+[Murderbot V2] 22:42:43
+Right? No?
+
+[Murderbot V2] 22:42:48
+Anybody?
+
+[Carnoc Ashbrow] 22:42:50
+Sure.
+
+[Ink] 22:42:50
+Um, we're trying to lure them in. Why wouldn't we give it to a lesser person? I guess because we're worried that they're going to take credit? That's why we're going to say we only want to…
+
+[Murderbot V2] 22:42:58
+No, I mean, we just want to get onto that ship.
+
+[Ink] 22:43:02
+Well, but yeah, but yeah, like, our direct manager is gonna say, no, I'll take it to him, right? But we're gonna be like, we don't trust you.
+
+[Dex Miro] 22:43:08
+We have sensitive information, which would be viewed only by somebody of company level, blah blah blah.
+
+[Ink] 22:43:14
+Well, like, the guy in the smoky room, right? He was the one that handed this mission. I assume that we answer to him?
+
+[Dex Miro] 22:43:14
+Right. Yeah.
+
+[GM] 22:43:21
+That would probably be your first contact, yeah.
+
+[Dex Miro] 22:43:24
+Do… do we know if his boss's name is on the list or anything?
+
+[Ink] 22:43:25
+And so I don't know how we're gonna get around him, right? Like… without, I guess, looking suspect, but…
+
+[GM] 22:43:37
+He was not incriminated, it was other people that were higher ranking than him.
+
+[GM] 22:43:54
+You're not entirely sure who his boss is.
+
+[Dex Miro] 22:43:57
+Okay.
+
+[Zeke Sinclair] 22:43:57
+Our job wasn't to, like, try to suck the CEO in, though. Like, they promised that whatever this was would suck the CEO in for us. We just have to go.
+
+[Zeke Sinclair] 22:44:09
+And let it play out, right?
+
+[Murderbot V2] 22:44:11
+Right, our only mission is to get this suitcase onto the CEO's ship.
+
+[Murderbot V2] 22:44:15
+That's it.
+
+[Zeke Sinclair] 22:44:15
+Well, our whole mission is to get it to a company ship, and then they said whatever's on it would attract high-level people to the ship.
+
+[Zeke Sinclair] 22:44:26
+Not necessarily the CEO's ship, right? I mean…
+
+[Dex Miro] 22:44:27
+I mean… I mean, we need to get the CEO and the case on the same ship. It doesn't have to be the CEO's ship, right?
+
+[Zeke Sinclair] 22:44:35
+Yeah. I mean, but, like, we can't do anything to get the… there's nothing we can do to get the CEO there.
+
+[Murderbot V2] 22:44:36
+I see.
+
+[Zeke Sinclair] 22:44:41
+either they're going to want to come based on the data stick or not.
+
+[Murderbot V2] 22:44:44
+The only thing we can do is say, oh, we want to see the CEO.
+
+[Murderbot V2] 22:44:48
+Thus ensuring that the CEO is… in a location, and then… place the suitcase in the same location as where we've believed the CEO is.
+
+[Dex Miro] 22:45:00
+I mean, don't you think they're gonna show up and interrogate us to figure out… if the source of the information is trustworthy or not.
+
+[Murderbot V2] 22:45:05
+Like, who are you, where are you from, or like, what have you been doing?
+
+[Murderbot V2] 22:45:09
+Yeah, debrief us, they're gonna definitely try and debrief us and be like, what's going on right now?
+
+[Murderbot V2] 22:45:15
+Before we even get close. But at least we know where the CEO is in the… I mean, would the CEO even come to us?
+
+[Murderbot V2] 22:45:25
+Before… after… or before the debriefing? Probably not, right?
+
+[Dex Miro] 22:45:30
+So, what's gonna keep them from looking at, uh, Murderbot's Black Box, and then showing us all out the airlock?
+
+[Murderbot V2] 22:45:37
+Oh, that's the other thing, too. They're definitely gonna take me in.
+
+[Zeke Sinclair] 22:45:41
+Why don't you shove your black box out the airlock?
+
+[Murderbot V2] 22:45:45
+And watch me creepily stroke. Carnoc's life pod.
+
+[Murderbot V2] 22:45:52
+But, you know, that's neither here nor there. They'll definitely do a diagnostic and see my panic button's gone, or is differently programmed.
+
+[Ink] 22:46:03
+Murderbot doesn't have to breathe, right?
+
+[Dex Miro] 22:46:07
+We're just gonna leave him in space and come back and get him later?
+
+[Ink] 22:46:11
+Yeah, you knew exactly where I was going. I don't think it's too much risk. I mean, like, it's easy to say we lost our murder bot.
+
+[Murderbot V2] 22:46:18
+Yeah, yeah, Jettison me out the… yeah, yeah, put me outside, yeah.
+
+[Zeke Sinclair] 22:46:19
+Not the worst plan.
+
+[GM] 22:46:23
+He doesn't have to breathe, but he has liquid inside of him.
+
+[Ink] 22:46:23
+He got… Let's say…
+
+[Murderbot V2] 22:46:27
+I'm guessing I have not synthetic, but organic material on me that will probably deteriorate or do something in a vacuum.
+
+[GM] 22:46:34
+Yeah. Could… if you found a new body for him, could you, like, basically download him to a new body after having been out in space? Probably, but…
+
+[Ink] 22:46:35
+Can we put them in our jump ship, and it just sits out there?
+
+[Zeke Sinclair] 22:46:39
+They just left them behind.
+
+[Murderbot V2] 22:46:43
+Oh, I could be re-sleeved! I could be re-sleeved!
+
+[GM] 22:46:45
+Yeah.
+
+[Ink] 22:46:47
+That's expensive. Well, actually, we could probably afford you a criminal body.
+
+[Murderbot V2] 22:46:49
+Very expensive! Oh, yeah, I could be probably put in a very… but then, like, I would lose efficacy of all the different things we just… I just…
+
+[Ink] 22:46:54
+Yeah. After you succeed.
+
+[Murderbot V2] 22:47:00
+Purchase to put on my… Word of my body. What we should have done is re-sleeve me, and then put all the…
+
+[Ink] 22:47:02
+Yeah.
+
+[Ink] 22:47:08
+I think we just left you on… on the… Well, the space station.
+
+[Murderbot V2] 22:47:12
+Well, that… that too! I mean, that's probably another one. Unless they have the ability to remotely… check my black box, which I don't know if they do, but…
+
+[Dex Miro] 22:47:21
+We didn't think so.
+
+[Murderbot V2] 22:47:23
+Yeah.
+
+[Murderbot V2] 22:47:32
+So… yeah… What are you guys thinking?
+
+[Dex Miro] 22:47:38
+So can you just, like, take it out and hide it somewhere? I don't think they're gonna search the whole ship for it.
+
+[Murderbot V2] 22:47:45
+Pick one out and hide it. Oh, I think that's, like, a part of me. Like, I would probably not be functioning.
+
+[Dex Miro] 22:47:45
+Or is that your black box, or is that not something that he can do?
+
+[GM] 22:47:48
+No, no. It's internal to his body, yeah. Right.
+
+[Dex Miro] 22:47:51
+Okay, we would have had to have Babushka remove it before we left.
+
+[Ink] 22:47:54
+Yeah. And they would look suspect anyway. Can we take a detour and drop him off on a planet?
+
+[Dex Miro] 22:47:57
+Yeah.
+
+[GM] 22:48:03
+I mean, they… don't know that you're coming yet? You're still a week out.
+
+[Ink] 22:48:11
+We sure all go back.
+
+[GM] 22:48:11
+You've already made a jump, you need to refuel at this point.
+
+[Ink] 22:48:21
+Okay. Alright, so is there a planet or some place that we can drop off Murderbot?
+
+[GM] 22:48:26
+You're not actually that far from the plant where the Carcs are.
+
+[Dex Miro] 22:48:35
+Oh, no. Well, they're not there anymore, but…
+
+[Ink] 22:48:42
+I mean, I don't see how they… how they don't… just dump his memory.
+
+[Dex Miro] 22:48:48
+Yeah.
+
+[Ink] 22:48:54
+So I think he's gonna have to go to the Carcs.
+
+[GM] 22:48:55
+Okay.
+
+[Ink] 22:49:02
+All right. I say, I don't know how to fly this thing, do I? I don't know.
+
+[Murderbot V2] 22:49:10
+Like, if anything, well, no… Can you… okay, say…
+
+[Murderbot V2] 22:49:16
+The point is to destroy the CEO.
+
+[Murderbot V2] 22:49:22
+And the CEO's ship. Right?
+
+[Murderbot V2] 22:49:26
+Can you put an earpiece in me? And then while I'm being taken to either be interrogated on the CEO's ship.
+
+[Murderbot V2] 22:49:33
+Or I'm gonna say I have very important information. I have this package that I must personally deliver.
+
+[Murderbot V2] 22:49:49
+As well as information on this drive that I must personally deliver.
+
+[Murderbot V2] 22:49:57
+You know, can I just go there? And then Carnoc says the word.
+
+[Carnoc Ashbrow] 22:50:03
+Why? Why, do you want me to say the word?
+
+[Murderbot V2] 22:50:04
+Huh? So I bought the sh…
+
+[Ink] 22:50:10
+Then we're gonna lose our Murderbot.
+
+[Murderbot V2] 22:50:13
+Well, I mean, what's important? Murderbot or the mission?
+
+[Zeke Sinclair] 22:50:16
+Murderbot!
+
+[Ink] 22:50:17
+Well, we already have something that's gonna blow up, so I still say we put you on the Carc planet.
+
+[Murderbot V2] 22:50:23
+No! I don't want to go there! Why would I want to go there?
+
+[Ink] 22:50:25
+But you can blow up or go to the… I wanted to leave them on the station, but for some reason we brought…
+
+[Dex Miro] 22:50:25
+The Carc Planet, there aren't Carcs there anymore.
+
+[Zeke Sinclair] 22:50:27
+I mean, why was you just left them on the station, right? That would have been the easiest.
+
+[Murderbot V2] 22:50:29
+I do not want to go back there.
+
+[GM] 22:50:35
+Um, he was the one that had to be awake while you guys were in your cryo pods.
+
+[Murderbot V2] 22:50:39
+Yeah, I had to… I had to monitor you.
+
+[Ink] 22:50:40
+Oh, that's right, that's right, that's what we need them. I like that reason. Okay.
+
+[GM] 22:50:43
+I did tell you that he would freeze out in space, but you could put him in a vac suit, and he could hang out in space.
+
+[GM] 22:50:52
+In a vac suit.
+
+[Murderbot V2] 22:50:54
+Oh, like a spacesuit? Yeah, okay.
+
+[GM] 22:50:58
+You didn't have to just jettison his normal body out into space, you could…
+
+[Zeke Sinclair] 22:50:58
+What's he gonna do with, like…
+
+[Murderbot V2] 22:51:02
+How long does a vac suit… how much oxygen… well, I guess I don't need oxygen.
+
+[GM] 22:51:08
+You don't need oxygen. You just need to be insulated, essentially, from the vacuum.
+
+[Murderbot V2] 22:51:09
+Okay. Okay, okay, yeah, let's do that then. Let's just… put me out of a vac suit and put me on the outside.
+
+[Murderbot V2] 22:51:20
+Do they have sensors that detect foreign objects next to ships and stuff? The worry is that they're like, why do they have Murderbot outside the ship?
+
+[Ink] 22:51:32
+We're, like, a week out, right? Still, so we're gonna leave you pretty far away.
+
+[Murderbot V2] 22:51:35
+Oh! You see, I'm just gonna be floating out there! Oh, I see how this is. Okay, alright. You fucking animals!
+
+[Ink] 22:51:40
+Yeah, yeah, right.
+
+[Zeke Sinclair] 22:51:40
+I was gonna say, like, what happens when, like, the ship flies away? I don't…
+
+[Dex Miro] 22:51:46
+We're just gonna bungee him to the outside of the ship or something?
+
+[Ink] 22:51:51
+I mean, you can go to the Carc Planet and have fun, there's no Carcs there, or you can float in space.
+
+[GM] 22:52:00
+You could also try to just hide them on the ship, too. I mean, like…
+
+[Murderbot V2] 22:52:04
+Yeah, until they bring in the sensors on board. We could pull up…
+
+[Ink] 22:52:05
+That sounds pretty risky.
+
+[Murderbot V2] 22:52:11
+I could pull a Han Solo Wookiee.
+
+[Ink] 22:52:12
+Here you go. Alright, I play this, uh, this YouTube video for Murderbot. Murderbot, that's… that one's for you.
+
+[Murderbot V2] 22:52:21
+Let's see this…
+
+[Dex Miro] 22:52:26
+And do we have a way to find you again, if we just leave you sitting in the middle of nowhere in space?
+
+[Ink] 22:52:34
+You can play that on loop on your, uh, org. Why you flow into space.
+
+[Murderbot V2] 22:52:38
+While I'm on the planet?
+
+[Ink] 22:53:02
+Oh, yeah, my vote is a vac suit. Out in space, I guess, so…
+
+[Murderbot V2] 22:53:06
+They… is it gonna be like this if I get… Hold on. If I get sent to the planet.
+
+[Murderbot V2] 22:53:13
+Am I gonna end up… Hold on. Shit, why can't I?
+
+[Ink] 22:53:30
+Oh, and to remember the coordinates, right?
+
+[Murderbot V2] 22:53:32
+It put me in a beacon, put a beacon on me or something?
+
+[Murderbot V2] 22:53:38
+Is this the scene on the Carc Planet? Me versus the Carcs?
+
+[Ink] 22:54:02
+Yes, love that movie.
+
+[Ink] 22:54:30
+Four options. We'll hide them on the ship. We let them float in space, we put them on the Carc planet, or we try to hide them on the ship.
+
+[Ink] 22:54:37
+Or sorry, or we don't hide him. Right?
+
+[Dex Miro] 22:54:50
+Yeah, I mean… what do you want to do Murderbot?
+
+[Zeke Sinclair] 22:54:54
+Yeah, it's up to you.
+
+[Murderbot V2] 22:54:56
+It's up to me?
+
+[Zeke Sinclair] 22:54:57
+It's up to you.
+
+[Murderbot V2] 22:55:00
+I mean… I'm all for trying to get to the mission.
+
+[Murderbot V2] 22:55:08
+If my black box jeopardizes it. I don't want to be a part of that, right? I need to get away.
+
+[Murderbot V2] 22:55:18
+I'd like to think I'm more helpful with all the shit inside of me, you know, with all my abilities, but…
+
+[Murderbot V2] 22:55:27
+If I'm mostly a liability because of the company's tech inside me, then, we need to get away.
+
+[Murderbot V2] 22:55:45
+A lot of different things can happen. They can… detect, or, you know, they'll ask me…
+
+[Murderbot V2] 22:55:52
+Or they'll ask you guys where I am. Uh, they could send a ship after me while they're interrogating you.
+
+[Murderbot V2] 22:55:58
+They could, you know, who knows? Like, I don't know if I have a… a beacon inside me in, like, a corporate thing.
+
+[Murderbot V2] 22:56:06
+Maybe that's… we didn't see that when we did the thing. We… we tried to, you know, the…
+
+[Murderbot V2] 22:56:14
+The… with the… with… with them, there was nothing detected anyway, so it doesn't matter.
+
+[GM] 22:56:21
+Um, you do not seem… high priority enough to warrant having a homing beacon installed on you. Like, you're worth blowing up, but you're not worth…
+
+[Murderbot V2] 22:56:30
+Yeah, I mean, if that's the case… Yeah, I'm worth enough to… I'm worth it to blow up just in case something goes awry, but…
+
+[Murderbot V2] 22:56:42
+Obviously, if the thought was to get rid of higher-ups on… the station, then they would have been able to monitor me and listen in on all the conversations and be able to blow up.
+
+[Murderbot V2] 22:56:57
+Whoever the high priority is, and use the panic button that way, but they can't. They can't reach me that way, so… Um…
+
+[Dex Miro] 22:57:06
+And it's not that hard for the… us to explain why you would have gotten into some trouble on the station, because we know they didn't like androids.
+
+[Dex Miro] 22:57:12
+So…
+
+[Murderbot V2] 22:57:13
+Yeah, so… Go ahead.
+
+[Murderbot V2] 22:57:17
+I… yeah, I mean, like I said, if… I, uh, you know, our goal is to complete this mission.
+
+[Ink] 22:57:28
+I've… I've rendered images for all the different scenarios.
+
+[Murderbot V2] 22:57:32
+Uh-huh.
+
+[GM] 22:57:35
+I don't see one of him floating in space. No, no, no. These, like…
+
+[Ink] 22:57:37
+That's the first one there.
+
+[GM] 22:57:42
+He's not flailing nearly enough.
+
+[Dex Miro] 22:57:44
+Oh, without the suit?
+
+[Ink] 22:57:49
+We put his overalls on the outside of his vaccine.
+
+[Dex Miro] 22:57:51
+Yeah.
+
+[GM] 22:57:53
+They all say shake eyes. That one looks kind of like snake eyes, but… and it got it right that it's supposed to be the same number on each one, well…
+
+[Dex Miro] 22:57:57
+Yeah, the snake eye still has fours on it.
+
+[GM] 22:58:05
+Well, it's not even a D6 anymore.
+
+[Dex Miro] 22:58:08
+Yeah, there are two sides in the second one, yeah.
+
+[GM] 22:58:13
+Also, you're starting to look like John Cena.
+
+[Murderbot V2] 22:58:15
+No, I'm totally John Cena here.
+
+[GM] 22:58:23
+Maybe now you're a peacemaker.
+
+[Murderbot V2] 22:58:32
+Yeah… A what?
+
+[Dex Miro] 22:58:38
+We should have had a smuggler's compartment installed on the ship before we left. Flashback!
+
+[Murderbot V2] 22:58:43
+Oh. Uh-huh.
+
+[GM] 22:58:44
+I mean, there's plenty of spaces to hide him.
+
+[Dex Miro] 22:58:48
+Yeah. I mean, is it easy to detect, like…
+
+[Murderbot V2] 22:58:53
+Until they bring the sensors on board.
+
+[Dex Miro] 22:58:53
+Life science for an Android, I don't know how hard that is.
+
+[GM] 22:58:58
+Sorry, what was the question?
+
+[Dex Miro] 22:59:02
+Like, how easy is it for people just to detect that there's an Android there?
+
+[GM] 22:59:07
+It seems… unlikely. I mean, as much as, like, detecting a human, right, like…
+
+[Dex Miro] 22:59:11
+Unless you think you need to… We really have to leave you somewhere Murderbot, why don't you just find a good hiding spot on the ship?
+
+[GM] 22:59:15
+Any kind of, like, noise or, you know, visual indication that.
+
+[GM] 22:59:19
+Someone's hiding, they would detect that, but there's not, like, a scanner. They're not gonna, like… come and scan the whole ship or anything.
+
+[Murderbot V2] 22:59:39
+Up to you guys. I can do that. We're going with option C.
+
+[Carnoc Ashbrow] 22:59:41
+Yeah.
+
+[Dex Miro] 22:59:48
+Option Cena.
+
+[Murderbot V2] 22:59:49
+Option Cena.
+
+[Ink] 22:59:59
+I got some… I got some better images for option A, though.
+
+[GM] 23:00:02
+Mm-hmm. There he is. Not nearly enough Carcs jumping off that planet to get him.
+
+[GM] 23:00:27
+Okay. You're one day out. Any of the last prep you want to do?
+
+[Zeke Sinclair] 23:00:34
+Oh, I wanted to… before we were one day out, I wanted to see if I could design a device by cobbling together things on the ship that would allow me to scan the inside of the briefcase.
+
+[GM] 23:00:45
+You got jury rigging?
+
+[Ink] 23:00:46
+Cool, I do. I got very… Uh-huh.
+
+[Zeke Sinclair] 23:00:46
+Nope, I haven't.
+
+[Zeke Sinclair] 23:00:47
+Alright, maybe he wants to do it.
+
+[Ink] 23:00:57
+It's time to… how do I activate my less liquid?
+
+[GM] 23:01:02
+I mean, presumably the knowledge one is just always sort of running.
+
+[Ink] 23:01:08
+While he's running. Right, like, I can't actually click it unless I give myself scavenging, so I'll just click that and that…
+
+[Ink] 23:01:15
+That's fine, right? So I'm excited.
+
+[Zeke Sinclair] 23:01:15
+How did you put your thing in your character?
+
+[Zeke Sinclair] 23:01:19
+You put your, like, upgrades in your character sheet,
+
+[Ink] 23:01:22
+Well, that was a skill that I learned.
+
+[Murderbot V2] 23:01:24
+You just add them onto the, um… under equipment. That's how I did it.
+
+[Zeke Sinclair] 23:01:24
+Oh,
+
+[Zeke Sinclair] 23:01:29
+Oh, wonderful. Okay.
+
+[Ink] 23:01:35
+Right, so can I just do a jury rigging roll?
+
+[GM] 23:01:38
+Yeah, I think it's probably… uh, intelligence?
+
+[Ink] 23:01:44
+Oh, I don't just go carrying.
+
+[GM] 23:01:44
+Check. No, because jury rigging just adds plus 10 to whatever… Um… whatever, say… or not save, whatever, uh…
+
+[GM] 23:01:56
+What is it called? Ability scores? What are they called? Mothership?
+
+[Ink] 23:02:00
+Okay. So, Intellect advantage.
+
+[GM] 23:02:04
+Yep. No advantage.
+
+[Ink] 23:02:07
+Oh, no advantage. Oh, but the modifier, gotcha. Normal.
+
+[GM] 23:02:10
+Modifier plus 10. Stats. They're just called stats. Stat check.
+
+[Ink] 23:02:13
+Plus 10. Oh, look at that. I jury rigged the crap out of it.
+
+[GM] 23:02:21
+32… You know that your computer, or the computer ship has, um…
+
+[Murderbot V2] 23:02:21
+Mm-hmm
+
+[Ink] 23:02:21
+Then we have a micron. X-ray scanner thing.
+
+[GM] 23:02:30
+A variety of scanning capabilities, and so… you figure out a way to reroute the, uh, scanners inside the ship.
+
+[GM] 23:02:39
+Um… It's in just a very small area of the ship. It's not like…
+
+[GM] 23:02:46
+Something that can be used to extend. Across the entire thing. Um…
+
+[GM] 23:02:52
+You… After scanning it for a bit, um… It's clearly highly radioactive.
+
+[GM] 23:03:01
+Um… Although the, uh…
+
+[GM] 23:03:06
+Space material for what's, um. Producing the radiation is undetectable.
+
+[GM] 23:03:11
+Um… There does seem to be electronic components on the inside of it.
+
+[GM] 23:03:21
+Trying to think of if there's anything else.
+
+[GM] 23:03:29
+Yeah.
+
+[Zeke Sinclair] 23:03:34
+Sounds bad.
+
+[GM] 23:03:37
+The, you know… Um…
+
+[GM] 23:03:42
+It's safe to presume it's probably a nuclear weapon.
+
+[Zeke Sinclair] 23:03:46
+Yeah, we need to get a long way away, guys.
+
+[Murderbot V2] 23:03:48
+Oh my god.
+
+[Dex Miro] 23:03:51
+Well, spaceships are good at getting a long way away, right?
+
+[GM] 23:03:58
+You're muted, Ink.
+
+[Zeke Sinclair] 23:03:59
+We're a clear society for…
+
+[Zeke Sinclair] 23:04:02
+Hmm…
+
+[GM] 23:04:07
+Okay, now you're a day out.
+
+[Dex Miro] 23:04:15
+What are we… what's our story if they interrogate us? It's like, are we gonna tell closer to the truth, or are we gonna…
+
+[Dex Miro] 23:04:24
+Just make up something about how they captured us and forced us to bring us back.
+
+[Zeke Sinclair] 23:04:31
+Right? That's, like, totally the truth, in some sense, like…
+
+[Zeke Sinclair] 23:04:36
+And we want to say we… we successfully completed the mission and extracted this from the…
+
+[Zeke Sinclair] 23:04:42
+the data stick from the…
+
+[Carnoc Ashbrow] 23:04:44
+Yeah, I mean, we could say this is the information on where the Sycorax is… coming from.
+
+[Zeke Sinclair] 23:04:59
+Hmm.
+
+[Dex Miro] 23:05:02
+So we got this information from Bratva, who are the station leaders.
+
+[Dex Miro] 23:05:07
+But we didn't do anything about taking out the leaders ourselves, because that wasn't part of the mission. We were just supposed to identify them, right?
+
+[Ink] 23:05:10
+So we…
+
+[Zeke Sinclair] 23:05:18
+it was optional, right? Like a bonus.
+
+[Dex Miro] 23:05:19
+Yeah. And with all the surveillance on the station, that seems pretty risky.
+
+[Ink] 23:05:19
+It's an option. We're still working our way up the ring.
+
+[Zeke Sinclair] 23:05:24
+But how do we get this from the station leaders? Do we hack into their computer? I mean, they're not just gonna give this to us.
+
+[Ink] 23:05:32
+Yeah, let's say we… we hacked into the computer, it cost us our MurderBot.
+
+[Ink] 23:05:37
+He got fried. Um, we got this information.
+
+[Zeke Sinclair] 23:05:38
+Yeah.
+
+[Ink] 23:05:42
+We don't know if the information's good or not anyway, right? So… We got that information, and with the, yeah, the suitcase we're not talking about, because we're just going to drop that off.
+
+[Ink] 23:05:50
+And we're still working our way up the ranks to try to take out the head, so that's our excuse for why we want to head out.
+
+[Ink] 23:05:55
+And get out of there, right? And go back.
+
+[Zeke Sinclair] 23:06:02
+Um, wait, what do we want to do? Sorry, can you repeat that?
+
+[Ink] 23:06:05
+We want to go back to the space station, essentially. We want an excuse to immediately… we don't want a new mission, necessarily.
+
+[Ink] 23:06:10
+We won't immediately be able to, like, go back on another.
+
+[Ink] 23:06:13
+You know, like, get out of there, right? We're gonna drop this off and be like, hey.
+
+[Ink] 23:06:16
+We're working… we've been working our angle, but we figured you wanted this information.
+
+[Zeke Sinclair] 23:06:19
+Okay, okay, I got it.
+
+[Ink] 23:06:20
+And we're looking to get, you know, some payback too, right? We're greedy little bastards too, so we're like, hey, we wanted some money.
+
+[Zeke Sinclair] 23:06:24
+Right.
+
+[Ink] 23:06:28
+And we got some information, we want to go back for more, you know, we think we can do more.
+
+[Zeke Sinclair] 23:06:32
+Yeah, fair.
+
+[Ink] 23:06:37
+And then we can kind of insist that, you know, we want the… we think this is good enough that the, uh.
+
+[Ink] 23:06:41
+The CEO should give us a, you know, a reward or something.
+
+[Ink] 23:06:48
+We should get a dinner with the CEO. Oh, promotion, that sounds amazing.
+
+[GM] 23:06:50
+Get promotions. Promotion…
+
+[GM] 23:07:01
+Does the story seem firm?
+
+[Zeke Sinclair] 23:07:05
+you know, I'm sure they could find some holes in it.
+
+[Zeke Sinclair] 23:07:13
+who hacked into their computer? Murderbot?
+
+[Ink] 23:07:15
+Murderbot. So if they don't want to ask some questions, they're like, nah, our Murderbot got fried.
+
+[Carnoc Ashbrow] 23:07:20
+Yeah, he used his god mode.
+
+[Ink] 23:07:24
+We have… we have no clue how he did it.
+
+[Zeke Sinclair] 23:07:28
+My battery's running low. I'll be right back.
+
+[GM] 23:08:26
+Shall we initiate docking procedures, even though Zeke's not here? Okay.
+
+[Ink] 23:08:29
+I think that's fair.
+
+[Carnoc Ashbrow] 23:08:32
+Sure.
+
+[GM] 23:08:33
+Um. So you're janky little ship.
+
+[GM] 23:08:39
+Uh, compared to… you know, some of the much bigger.
+
+[GM] 23:08:44
+Class… class… The letters are, uh…
+
+[GM] 23:08:49
+Numbers, I can't remember. I think they're numbers. You're, like, a Class 1 ship.
+
+[GM] 23:08:54
+Is that right? You're afraid, or Class 2. You're Class 2, and you're docking with, like, a… Um…
+
+[GM] 23:09:06
+Class 5 troops ship. Yeah, probably that.
+
+[GM] 23:09:12
+You know, this thing's at least… 10 times bigger, uh, than your ship.
+
+[GM] 23:09:19
+Um… Begins docking on the outside.
+
+[GM] 23:09:25
+Uh… You're in radio communication with the people on board, they just kind of navigate you to, like.
+
+[GM] 23:09:32
+What… what bay to… to connect to. Um…
+
+[Dex Miro] 23:09:39
+Is this the same ship we were on before, or a new one?
+
+[GM] 23:09:41
+Yeah, same ship you run before. Um… they're, like, a couple other ships…
+
+[GM] 23:09:48
+Uh, nearby, uh, but this is the biggest one. Um…
+
+[GM] 23:09:57
+And… You remember as you, uh…
+
+[GM] 23:10:02
+Begin docking, that there are certain protocols for. Uh, company… you know, rules and regulations when, you know, you're not carrying weapons around on the ship.
+
+[GM] 23:10:14
+Um… So, those will need to be stowed on the ship. This particular ship?
+
+[GM] 23:10:22
+Um… That's… you'll go through a decontamination process as well.
+
+[GM] 23:10:30
+The… When you also return, um…
+
+[GM] 23:10:41
+They asked for the manifest of the ship. Uh, which includes, like, the crew.
+
+[GM] 23:10:48
+Um, and so, presumably, you guys don't include the MurderPot. As part of the crew of the ship anymore.
+
+[GM] 23:10:55
+Um. Yeah, so you're, you know, sort of dark emptiness of space, your ship kind of, like.
+
+[GM] 23:11:04
+Connects with this much larger ship. Um…
+
+[GM] 23:11:09
+There's no, like, immediate, um, welcoming party or anything as you… as you disembark.
+
+[GM] 23:11:16
+You, like, the airlock opens up. Um…
+
+[GM] 23:11:21
+You… the, like, the connection actually, like, pretty much directly puts you into, like, a decontamination room.
+
+[GM] 23:11:30
+Um, it's not like Prospero's dream, where it's like. Rough, and you get sprayed with, like, goop and stuff, and, like…
+
+[GM] 23:11:38
+Um, you're able to sort of take your time to unclothe and… you know, go through, like, the… decontamination showers.
+
+[GM] 23:11:46
+Then, you put on your company uniforms you haven't worn in a while.
+
+[GM] 23:11:51
+Ink tries to prop his collar up as much as possible to cover up his vents.
+
+[GM] 23:11:57
+Um, it's possible, though it just does look like you're wearing your suit a little bit weird.
+
+[GM] 23:12:03
+Um… Yeah.
+
+[GM] 23:12:07
+The airlock's locked behind you as you're… as you enter onto the ship.
+
+[GM] 23:12:11
+Um, there you're greeted by… your handler, the smoking man.
+
+[GM] 23:12:17
+Um, and he asks you, like. So how'd it go?
+
+[GM] 23:12:22
+Mission complete.
+
+[Zeke Sinclair] 23:12:26
+Yeah.
+
+[Carnoc Ashbrow] 23:12:27
+Yeah. We got the info you guys wanted.
+
+[Zeke Sinclair] 23:12:29
+Of course.
+
+[GM] 23:12:33
+Um… Okay. Let's go do, uh…
+
+[GM] 23:12:39
+Commission debrief. Um… Presumably, you guys have the suitcase with you?
+
+[GM] 23:12:48
+Is that it right? Okay.
+
+[Dex Miro] 23:12:49
+Yeah, I think we need to bring it with us, yeah.
+
+[Ink] 23:12:49
+Yeah, I got the suitcase.
+
+[Carnoc Ashbrow] 23:12:50
+Yeah.
+
+[GM] 23:12:53
+Um, they're all taken to… a room.
+
+[GM] 23:12:59
+Um, it's… basically, um… just the room with, like, you know, one-way panel of glass, like, it's very clearly, like.
+
+[GM] 23:13:07
+Kind of an interrogation room, like… Um… it has, like, a monitor with a…
+
+[GM] 23:13:15
+A port to be able to, you know. He can… he could take the data stick and upload the data and stuff, so…
+
+[GM] 23:13:20
+Um, it's like, you know, before we get started, would you like to have, you know.
+
+[GM] 23:13:24
+Refreshments… Um, I don't know, when you came out of cryo sleep, you guys seemed like you're probably… you're a little with it, so…
+
+[GM] 23:13:32
+Um, hopefully your cryo sickness has worn off by now.
+
+[GM] 23:13:40
+Uh, for anybody, like, a… A drink, fruit box, fruit juice box…
+
+[Murderbot V2] 23:13:45
+About the Murderbot…
+
+[GM] 23:13:52
+He said, ask them about the Murderbot.
+
+[Murderbot V2] 23:13:54
+Just know where their Murderbot is.
+
+[Dex Miro] 23:14:04
+It doesn't matter about hacking into the speakers on the other ship from… This hiding spot.
+
+[GM] 23:14:08
+It's gonna appear on the little terminal.
+
+[Murderbot V2] 23:14:09
+Subconsciously. Where is Murderbot?
+
+[GM] 23:14:16
+Um… So, he asks, uh.
+
+[GM] 23:14:21
+For the type of evidence that you guys had gathered, he kind of indicates the briefcase, thinking that's… that's what he needs to… Um, you know, basically process.
+
+[Ink] 23:14:33
+Yeah, so we hand them the data stick.
+
+[Zeke Sinclair] 23:14:33
+But the data stick's not in the briefcase, those are separate, right?
+
+[GM] 23:14:36
+It's not. It's separate.
+
+[Zeke Sinclair] 23:14:37
+Yeah, I mean, the evidence is on the data stake.
+
+[Zeke Sinclair] 23:14:42
+Yeah.
+
+[GM] 23:14:43
+Oh, and he, like, kind of seems a little confused for a second, but he takes the data stick and plugs it in the terminal, he boots it up, and he starts… Like, going through and looking through the files and stuff.
+
+[GM] 23:14:54
+Um… And then he, like, quickly, like, glances over his shoulder at you guys.
+
+[GM] 23:14:58
+Is sort of facing the other direction, and he's like. Um, did you review this information?
+
+[Zeke Sinclair] 23:15:04
+We plugged it in, we have no idea if it's accurate.
+
+[GM] 23:15:08
+Yeah, oof, this is… this isn't… This is going… this goes up pretty high. Um…
+
+[GM] 23:15:15
+Why don't you guys wait here? It's gonna be a while.
+
+[GM] 23:15:19
+We're gonna have to wait a while. Um… We're also, you know, just because I need to verify some of this stuff.
+
+[GM] 23:15:27
+Uh, you're… you're gonna have to be… sort of held here. Don't worry.
+
+[GM] 23:15:33
+You know, there'll be a guard at the door, but he can escort you to the bathrooms and stuff, bring food, drink.
+
+[GM] 23:15:38
+Um, but you're gonna have to be sequestered here for… Uh, like, at least half a day.
+
+[GM] 23:15:46
+But if this all turns out to be true. Oh, this is… this is good news, guys. We're all moving up in the world.
+
+[GM] 23:15:53
+You know what? I smell promotions!
+
+[Ink] 23:15:53
+Well, that's awesome.
+
+[Ink] 23:15:59
+Corner office? New spaceship?
+
+[GM] 23:16:02
+Well, I don't think it's getting ahead of yourselves.
+
+[Zeke Sinclair] 23:16:05
+getting paid healthcare.
+
+[Murderbot V2] 23:16:06
+You murder bot!
+
+[GM] 23:16:08
+Uh, well, he points at Zeke's in particular, he's like. You would definitely have your debt relieved. That would be…
+
+[GM] 23:16:14
+Yeah, that's definitely on the table, still.
+
+[Murderbot V2] 23:16:18
+Ask him about the song.
+
+[GM] 23:16:23
+Um… So, he kind of looks to the window, and he makes a signal, a hand signal, um…
+
+[GM] 23:16:29
+And, uh, by the time he leaves the room, you see, as he leaves, there's a… there's somebody, an armed guard, standing out of the… outside the room.
+
+[GM] 23:16:38
+Um…
+
+[Ink] 23:16:40
+I gotta go pee. Um, I'm gonna take the suitcase with me.
+
+[GM] 23:16:44
+Okay.
+
+[Ink] 23:16:47
+And then, uh, just gonna, like, leave the suitcase in the stall or something.
+
+[GM] 23:16:52
+Okay. Yeah, you signal the guard, he walks with you, um… Do you put… leave the suitcase in the stall.
+
+[GM] 23:17:04
+Um… roll a D100.
+
+[Dex Miro] 23:17:10
+And you, like, hide it in the standard corporate drop ceiling or whatever. Is that still on spaceships?
+
+[GM] 23:17:16
+Probably. I mean, it's supposed to be the most depressing environment you could possibly be in.
+
+[Ink] 23:17:20
+Okay. So I totally… I hide it a little bit. I try to make an effort to hide it. I guess, what's the real… say, yeah, 55, that's… that's so good.
+
+[Dex Miro] 23:17:20
+Yeah.
+
+[GM] 23:17:29
+Okay. Do you, like, put it behind the toilet?
+
+[GM] 23:17:39
+Um… All right, you're escorted back to the room.
+
+[GM] 23:17:46
+Um, an hour passes, uh, someone comes by with some… drinks and, like, um… very bland food. It's like…
+
+[GM] 23:17:59
+It's what Ink would always talk about in college, he just wants, like, a protein paste that just, like, you basically… Soil and this…
+
+[Murderbot V2] 23:18:06
+Soylent?
+
+[GM] 23:18:09
+It keeps your… keeps your body moving, gives you all the proper nutrients, but has, like, no flavor or anything. It just…
+
+[Ink] 23:18:15
+My wife was very confused by my fridge. It was just filled with protein drinks and Coke.
+
+[Ink] 23:18:22
+This is not real food, whatever.
+
+[GM] 23:18:28
+Keeps the body moving. Um, yeah.
+
+[GM] 23:18:33
+You find yourselves longing for, uh… the food on Prospero's Dream, and the…
+
+[GM] 23:18:41
+Yeah. There already feels quite oppressive being here.
+
+[GM] 23:18:49
+Um, meanwhile… on the ship.
+
+[GM] 23:18:54
+Murderbot hiding out in its hidey hole. Uh…
+
+[Murderbot V2] 23:19:00
+I am using my OGRE to the fullest extent. There's so much to watch!
+
+[Dex Miro] 23:19:08
+You didn't… you didn't use the station Wi-Fi, did you?
+
+[Murderbot V2] 23:19:12
+Oh, no! Whoops!
+
+[GM] 23:19:18
+Um. Suddenly, you hear something on the ship with you.
+
+[Murderbot V2] 23:19:22
+Oh, shit.
+
+[GM] 23:19:24
+Uh, it sounds like… But, uh… falls, uh, people walking around.
+
+[GM] 23:19:32
+Um… as you listen, you hear two more… um… feet?
+
+[GM] 23:19:37
+Like, pairs of feet, so you think there's, like, 3 people?
+
+[GM] 23:19:41
+On the ship. And then they're kind of just chit-chatting with each other.
+
+[Murderbot V2] 23:19:48
+What are they saying?
+
+[GM] 23:19:50
+They're… one's talking about, like, his wife and kids, and… how he really misses him, but he's got, like, another…
+
+[GM] 23:19:57
+Like, 6 years to pay off on his, uh, on his debt.
+
+[Murderbot V2] 23:19:59
+Oh, Jesus Christ.
+
+[GM] 23:20:02
+Another guy's like, well, that's way better than your wife and kid being.
+
+[GM] 23:20:07
+You know, killed in a… Reaver Raid.
+
+[GM] 23:20:13
+Um, which… He implies what happened to him, but you're also…
+
+[Murderbot V2] 23:20:13
+Oh my god.
+
+[GM] 23:20:19
+There's something tingling your Murderbot sense that maybe this guy's just, like, trying to outdo the previous guy's story.
+
+[Murderbot V2] 23:20:21
+Reavers.
+
+[GM] 23:20:28
+The last person is quiet until they're like, okay, can we… should we focus on the job here?
+
+[GM] 23:20:37
+Um… And you can hear them… sort of, like, going around the ship, and…
+
+[GM] 23:20:44
+Sounds like they're picking things up and putting them into, like.
+
+[GM] 23:20:48
+Buckets, or boxes, or some sort of container? Um… Yeah.
+
+[Murderbot V2] 23:20:57
+Hold on, I'm getting a call. Give me a second.
+
+[GM] 23:21:00
+Sure. Alright, we'll go back to the main room. Um, hours pass.
+
+[GM] 23:21:09
+Uh… and… Smokey Man comes back, um…
+
+[Ink] 23:21:15
+GM, that was Murderbot that was hearing the people walking around and putting stuff in buckets?
+
+[GM] 23:21:19
+Yeah. Um…
+
+[Ink] 23:21:20
+Okay.
+
+[GM] 23:21:33
+So, you're… the… Smoky Man comes back.
+
+[GM] 23:21:38
+And he's like, okay guys. This is… this is… this is really exciting.
+
+[GM] 23:21:45
+It's been run up the chain all the way to the CEO.
+
+[GM] 23:21:47
+It's coming. To review this data.
+
+[GM] 23:21:52
+And… I feel… Pretty good about this, based on what I've seen in here.
+
+[GM] 23:21:58
+That all those people will be fired. And that we can move up.
+
+[GM] 23:22:03
+I really do think we're in line for… like, maybe more than one promotion.
+
+[GM] 23:22:10
+How exciting is that, guys? That's also beyond the scope of what you'll get or receive as a, you know.
+
+[Ink] 23:22:13
+Patient.
+
+[GM] 23:22:20
+That's part of the compensation for the new positions. But your pay may increase.
+
+[GM] 23:22:26
+I don't know. 20 or 30%. That's exciting.
+
+[GM] 23:22:39
+So, just gonna need to wait here a little bit longer.
+
+[GM] 23:22:44
+Uh, and… When he gets here and reviews the data.
+
+[GM] 23:22:49
+It's probably gonna have some questions. Just be relaxed, calm, and professional.
+
+[GM] 23:22:55
+Um, and, you know, I think he… There's a good chance.
+
+[GM] 23:23:02
+It's gonna be pretty excited about what we found. He, like, emphasizes the we.
+
+[GM] 23:23:08
+He's definitely gonna take credit for… worthless.
+
+[GM] 23:23:19
+Um, Ink, the suitcase is, like, well hidden, right? It's, like, not… It's not just sitting next to a toilet, right?
+
+[Ink] 23:23:28
+Here, so I told it to hide it behind a space toilet, right? And this is the first image it gave me.
+
+[Ink] 23:23:34
+So I'm working on it.
+
+[GM] 23:23:47
+Um… Okay.
+
+[GM] 23:23:55
+I think probably, like, 2 or 3 more hours pass. Um…
+
+[GM] 23:24:08
+The, uh… at least… at least 12 hours.
+
+[Dex Miro] 23:24:09
+Who we've met in there, like, an entire day now, or…
+
+[Dex Miro] 23:24:14
+Yeah.
+
+[GM] 23:24:15
+At least 12 hours you've been in here. Um…
+
+[GM] 23:24:23
+Then, uh… the CEO does walk into the room.
+
+[GM] 23:24:30
+Um, the small command's been in and out a couple times, but, like, for the most part, um… He just confirmed.
+
+[Dex Miro] 23:24:35
+Wait, what kind of crazy ship does he have that he can get here in a couple hours and it takes us months?
+
+[GM] 23:24:39
+Well, you presume that maybe he was on one of the other ships.
+
+[GM] 23:24:43
+Not this one. Or maybe he was on this ship, and he just was, you know, you don't know where he was.
+
+[Dex Miro] 23:24:43
+Oh, okay.
+
+[GM] 23:24:49
+But… he's here now. Smoke Command brings them in.
+
+[GM] 23:24:56
+Um… And he basically says, you know.
+
+[GM] 23:25:02
+What's the smoke… does the smoky men have a name? Did I give him a name?
+
+[Dex Miro] 23:25:05
+No, he's just the smoking man.
+
+[GM] 23:25:06
+Alright, his name's now Devin.
+
+[Zeke Sinclair] 23:25:10
+Definitely.
+
+[GM] 23:25:12
+The real… really just taking down a notch the… the mystique of this smoking man. He's just… It's just Devin.
+
+[Zeke Sinclair] 23:25:16
+Really, it really did.
+
+[GM] 23:25:22
+Um… So, he's like, Devin here transmitted all this data to me, uh, uh, you know.
+
+[Zeke Sinclair] 23:25:22
+Bob, the smoking man.
+
+[GM] 23:25:29
+Tell me about your mission. Tell me how it went.
+
+[Zeke Sinclair] 23:25:33
+We lost a good friend.
+
+[GM] 23:25:38
+Your… your… Android? You made friends with the android?
+
+[Zeke Sinclair] 23:25:39
+Yes.
+
+[Zeke Sinclair] 23:25:42
+Of course we did.
+
+[GM] 23:25:44
+That's a bit bizarre.
+
+[Zeke Sinclair] 23:25:48
+Of course we did. He felt human to us.
+
+[GM] 23:25:50
+All right, well, unfortunately, that was company property, so you guys are gonna have to be… that's gonna… come out of your salaries.
+
+[Zeke Sinclair] 23:25:58
+Hmm.
+
+[Zeke Sinclair] 23:25:59
+you know, as the CEO,
+
+[Zeke Sinclair] 23:26:02
+You could set policies that aren't so aggressive.
+
+[GM] 23:26:06
+Yes, but how would we appease our shareholders?
+
+[Zeke Sinclair] 23:26:11
+I probably wouldn't notice the cost of an Android, just saying.
+
+[GM] 23:26:16
+I don't know, but everything's about the bottom line these days.
+
+[Zeke Sinclair] 23:26:22
+David is…
+
+[Ink] 23:26:22
+Well, forget about the bottom line. I think we could go a little bit deeper out there, Prospero's, and maybe even take out the head honcho.
+
+[Ink] 23:26:28
+If you want us to go back undercover.
+
+[GM] 23:26:30
+Huh. Huh. Well, we have the formula, but it does allude to…
+
+[GM] 23:26:37
+A specific ingredient that is hard to come by. I think, perhaps…
+
+[GM] 23:26:43
+Um, if, you know, you kind of… pulls up the data file, and he's like.
+
+[GM] 23:26:49
+Do you know if, you know, this… Oh, what's it called? This is actually me, GM, asking himself this, what's it called?
+
+[GM] 23:27:00
+Um…
+
+[GM] 23:27:14
+The Solarian fruit. Do you know… is this Solarian fruit?
+
+[GM] 23:27:20
+On the station?
+
+[Dex Miro] 23:27:24
+We didn't spend much time talking to… what was his… what was their name? Ukko-Ukka or something?
+
+[Dex Miro] 23:27:31
+Um, but we know this Solarian Church is involved in farming something, and they're the ones manufacturing Sycorax.
+
+[GM] 23:27:44
+Okay. So, it might be there.
+
+[GM] 23:27:49
+What we really need is to get a sample of that Solarian fruit.
+
+[GM] 23:27:54
+And… We can then do a chemical remake of it.
+
+[GM] 23:28:01
+Gonna just… send… make a synthetic version. That's what I need you to go back for.
+
+[GM] 23:28:08
+It wouldn't hurt if you also… destroyed all the evidence so that we didn't have competitors.
+
+[GM] 23:28:15
+So… Yes, there's a mission following this.
+
+[GM] 23:28:21
+And… I'm willing to offer you.
+
+[GM] 23:28:26
+10 months of hazard pay.
+
+[Zeke Sinclair] 23:28:30
+And the cost of one robot.
+
+[Ink] 23:28:35
+Two robots, we want a new one, right?
+
+[Zeke Sinclair] 23:28:37
+That's true, two robots.
+
+[Zeke Sinclair] 23:28:39
+pay for the first one, and we want a second one.
+
+[Ink] 23:28:41
+Bk's muted on a call, an upgraded one.
+
+[GM] 23:28:48
+Um… unfortunately. There's no negotiation in this.
+
+[GM] 23:28:53
+Uh, I can… I can obviously… with these data charts I have, I can easily hire a new team to send them.
+
+[GM] 23:29:03
+Um… I just… I just thought you guys would be willing to take this… this new mission.
+
+[Ink] 23:29:08
+All right, you know, we had to… we had to push.
+
+[Ink] 23:29:11
+Right?
+
+[GM] 23:29:13
+Well, you didn't have to, no, but… you know, I suppose it was worthy of a try. You've been…
+
+[GM] 23:29:20
+Outside the grass with the company for, you know, 6 months, who knows what kind of bad behaviors you learned in that time.
+
+[Ink] 23:29:26
+Come on, you didn't get the CEO by pushing a little bit, without pushing a little bit.
+
+[GM] 23:29:33
+You're right, I did have to kill a few people to get to this position.
+
+[Ink] 23:29:37
+Alright. Well, when are we heading out, then? We'll take the mission.
+
+[GM] 23:29:43
+Um… Just after you tell me a little bit more about your… what else happened here?
+
+[Ink] 23:29:51
+Uh, took us a little bit of time to kind of get the lay of the place.
+
+[Ink] 23:29:55
+Um, eventually, we kind of understood. Where the data was stored, and so we used our Android to hack in there.
+
+[Ink] 23:30:04
+Fortunately, that fried him, but we were able to get the data out.
+
+[Ink] 23:30:08
+And then it was a matter of slipping away. Out of the place without… you're gonna be really… realizing what we had done. Um, so that we could potentially go back.
+
+[Ink] 23:30:18
+And so, that was most of the gist of it. It was mostly just laying low and biding our time until it was right.
+
+[GM] 23:30:27
+So…
+
+[Murderbot V2] 23:30:28
+Murderbot has returned to the keyboard.
+
+[GM] 23:30:33
+Um…
+
+[GM] 23:30:38
+Alright, let's jump back to the ship situation, because I'd like to know how this resolves.
+
+[Murderbot V2] 23:30:43
+So… Okay? Does it seem like they're digging around, like, searching for something, or…
+
+[GM] 23:30:45
+Um…
+
+[GM] 23:30:51
+Yes, but not, like… They seem like they're collecting a lot of things. It's not just…
+
+[Murderbot V2] 23:30:58
+Oh. But personal stuff?
+
+[GM] 23:30:59
+Um, it's not like they're looking for one particular thing.
+
+[Murderbot V2] 23:31:04
+Like, Carnoc's personal diary, and his iPod and stuff like that? That's what they're collecting?
+
+[GM] 23:31:13
+No, you're holding those very tight to you. Um…
+
+[Ink] 23:31:18
+Not touching my poster of my, uh… Sorry, I know.
+
+[GM] 23:31:23
+Do you want to venture out and see if you can't catch a glimpse of what they're collecting?
+
+[Murderbot V2] 23:31:28
+Yeah, I wanna… I'm, like, kinda, like, peeking, you know, just my beady little eyes in between, uh, the, like, a raised… The raised crate.
+
+[Murderbot V2] 23:31:40
+Slightly… So, I look…
+
+[GM] 23:31:42
+Okay. Uh, you see that they're basically collecting all the company property.
+
+[GM] 23:31:47
+Which is… effectively all of your weapons. Uh… all the, all the, uh, things that were effectively on loan.
+
+[Murderbot V2] 23:31:48
+Oh. Oh…
+
+[GM] 23:31:57
+You know, you guys each had, like, a… a certain amount of…
+
+[GM] 23:32:06
+What items and things that they loan to you?
+
+[Murderbot V2] 23:32:08
+Right, does… does this mean, in my knowledge, do I know that this is protocol for them, for any returning group, or is it just… is it protocol for… Um, a group returning that will not go… venture back out again, or is this just…
+
+[Murderbot V2] 23:32:23
+Protocol for cleaning the tools that we brought back, or… Does that ring any bells to me, or is it just… I'm just like, what the fuck are they doing?
+
+[GM] 23:32:33
+Yeah, this… this is protocol for, like, essentially a decommissioned team.
+
+[Murderbot V2] 23:32:39
+Oh… Uh, now, is it decommissioned in a bad way? Like, they're a bad thing, or is it decommissioned? Oh, you're… you're… you're…
+
+[Murderbot V2] 23:32:48
+Job is done, so for this job, you guys are… we're just taking back all the stuff we lent you.
+
+[GM] 23:32:54
+Yeah, the latter.
+
+[Ink] 23:32:55
+Or maybe it's what they do when you're getting a new ship.
+
+[Murderbot V2] 23:32:55
+Okay. Oh, getting upgraded or getting promoted.
+
+[Ink] 23:32:58
+Because you're getting, you know…
+
+[Murderbot V2] 23:33:01
+But I don't know any of that, right? Cause… I wasn't privy to that conversation, so…
+
+[Ink] 23:33:05
+Promotion!
+
+[Murderbot V2] 23:33:08
+Um… I don't know. I have a slight complex of corporate or higher-ups taking away offices and…
+
+[Murderbot V2] 23:33:17
+Taking away, like, stuff they lent out.
+
+[GM] 23:33:22
+One of them picks up Karnak's. Big gun.
+
+[Murderbot V2] 23:33:25
+Oh, that's it. Oh, nobody touches Greta! Nobody touches Wilbur!
+
+[Carnoc Ashbrow] 23:33:26
+Oh… my Wilbur Mark II.
+
+[GM] 23:33:28
+Just like, here, Wilbur Mark II.
+
+[Carnoc Ashbrow] 23:33:37
+That's personal property.
+
+[Murderbot V2] 23:33:40
+Personal fucking property, motherfucker! Um, let's see…
+
+[GM] 23:33:42
+But if I recall correctly that Wilbur, didn't that come off the Carc planet?
+
+[Carnoc Ashbrow] 23:33:47
+Yeah.
+
+[GM] 23:33:48
+That was all of company property there. It's written there on the… on the side of the gun. Company property.
+
+[Murderbot V2] 23:33:57
+Uh, let's see here… Um…
+
+[Murderbot V2] 23:34:04
+I will…
+
+[Murderbot V2] 23:34:11
+Let's see here…
+
+[Murderbot V2] 23:34:17
+Mmm…
+
+[Ink] 23:34:20
+We don't have comms, do we? I have a, uh…
+
+[Murderbot V2] 23:34:22
+No, we don't have comms.
+
+[Ink] 23:34:26
+What you call it? Oh, actually, GM, I have a Sentinel System, no. A looky-loo. So I can pick a non-encrypted bands.
+
+[Murderbot V2] 23:34:38
+Yeah, me too.
+
+[GM] 23:34:38
+Okay.
+
+[Ink] 23:34:43
+Do I pick up anything on the non-encrypted bands?
+
+[GM] 23:34:46
+Sure, yeah, you can cure… I don't know if Murderbot is projecting, that's fine, like, or transmitting, I should say.
+
+[Murderbot V2] 23:34:59
+Um, yeah, I'll… I'll transmit. Um…
+
+[Murderbot V2] 23:35:08
+I'll transmit. They're on the ship! They're looking through your stuff and taking stuff back.
+
+[Murderbot V2] 23:35:15
+What should I do?
+
+[Dex Miro] 23:35:18
+Hopefully we have some codes.
+
+[Murderbot V2] 23:35:23
+Uh, I'm gonna stay put.
+
+[Ink] 23:35:31
+So we're… we're trapped in this room right now.
+
+[GM] 23:35:33
+Yeah.
+
+[Ink] 23:35:37
+Okay, so now we understand the situation that we're getting decommissioned, so we're being fed bullshit, right?
+
+[GM] 23:35:44
+Um, not necessarily. I mean, it might just be that, like, maybe you are getting an upgraded ship, and, like, you are getting promoted, and so, like.
+
+[GM] 23:35:52
+You know, technically you completed your mission. Maybe they're just transferring your stuff to a new ship.
+
+[Ink] 23:36:01
+They want to surprise us. They, um, okay, so I can't communicate back with Murderbot, can I?
+
+[Murderbot V2] 23:36:03
+Does it seem like they're bi… they're… they're… they're…
+
+[GM] 23:36:09
+No, uh… Not unless you have a way of transmitting. He… he can transmit, because he's a robot.
+
+[Ink] 23:36:15
+Yeah.
+
+[Murderbot V2] 23:36:16
+Um, does it… Does it seem like they're taking the story? Like, does it seem like they're happy? Or, I mean, like, or does it seem like, huh, they're a little…
+
+[Murderbot V2] 23:36:29
+Skeptical, or what's the deal?
+
+[GM] 23:36:33
+Um… Well, unfortunately.
+
+[Ink] 23:36:35
+Can… can I…
+
+[Murderbot V2] 23:36:36
+No, no, well, okay, yeah, sorry, never mind. Why did I ask that question?
+
+[GM] 23:36:37
+That… that part… that… that part is… That part of the story, yeah.
+
+[Murderbot V2] 23:36:42
+I'm sorry, I'm sorry, alright. Um…
+
+[Ink] 23:36:44
+Wait, can I… can I deploy my tattletale?
+
+[Murderbot V2] 23:36:48
+What is a tattletale?
+
+[GM] 23:36:50
+I mean, that…
+
+[Ink] 23:36:51
+Patchable audio surveillance bug, which can be traced up to what 100 kilometers within 100… meter area.
+
+[GM] 23:36:58
+Yeah, you'll have to describe these things to me, because I have no idea what anything is.
+
+[GM] 23:37:04
+My familiarity with mothership is such that even the… Even, like, the smallest bits of data, I'm like.
+
+[GM] 23:37:12
+I don't have it memorized like D&D.
+
+[Ink] 23:37:14
+I don't get that, can be traced up to 100 kilometers to within… oh, gotcha, I could trace it, I see.
+
+[Ink] 23:37:21
+So can I… can I, uh, place the… Yeah, can I deploy my tattletale? When, like, when they open the door? Like, when I go to… I'm gonna go out to go to the bathroom?
+
+[Ink] 23:37:30
+Again, I'm gonna deploy my tattletale to go… try to listen in on, uh…
+
+[GM] 23:37:30
+Mm-hmm, sure.
+
+[Ink] 23:37:37
+What they're saying about us?
+
+[GM] 23:37:40
+Sure. Um…
+
+[GM] 23:37:48
+So this is in the conversation prior. To… the CEO actually coming in, which would be that…
+
+[GM] 23:37:58
+Essentially… there's a little bit of skepticism about the…
+
+[GM] 23:38:04
+Accuracy or validity of the data? Um, but they're not willing to…
+
+[GM] 23:38:11
+Essentially take the chance of it being… Correct? Or wrong, I should say? I guess the…
+
+[GM] 23:38:17
+They want to… they definitely want to verify it, and if it's true.
+
+[GM] 23:38:20
+That's a good thing in a lot of ways. Um, not only will they find.
+
+[GM] 23:38:27
+Do they have the, uh, essentially production? Of Sycorax in hand, but they also have…
+
+[GM] 23:38:34
+A number of folks that… Um, they've outed some corruption within the company.
+
+[GM] 23:38:42
+Um… which is… um, you know, beneficial to…
+
+[GM] 23:38:48
+You know, being promoted. So the CEO is not the… you know, the CEO of the entire company. It's of a particular syndicate.
+
+[Ink] 23:38:56
+Okay.
+
+[GM] 23:38:56
+And so, you know, he could be… potentially promoted as well. Like, there is space to move up still in the company.
+
+[GM] 23:39:04
+Um… So…
+
+[GM] 23:39:11
+Really kind of comes down to whether or not they believe the story that you guys are telling.
+
+[GM] 23:39:16
+Um, as to verify the… the data.
+
+[Ink] 23:39:21
+So, no information about… why they might be clearing out our ship.
+
+[GM] 23:39:26
+No.
+
+[Murderbot V2] 23:39:28
+Do I send, like, overhear them say anything? Like, I can't… why are we moving this shit right now? Or, like, these guys are fucked.
+
+[Murderbot V2] 23:39:36
+Nothing like that.
+
+[GM] 23:39:37
+No, but they are admiring, you know, how much cool shit you guys have.
+
+[Murderbot V2] 23:39:42
+Oh, goddammit.
+
+[Ink] 23:39:44
+Are they, like, putting it all in one giant bag? Like… Or…
+
+[GM] 23:39:45
+Like… No, no. It's, like, 3 different bins. It's like the, um…
+
+[GM] 23:39:53
+When they go around and collect, like, towels. Yeah, it's like that one that you can push around on a cart, and it's like…
+
+[Murderbot V2] 23:40:00
+Does it seem like they're just throwing everything in one pile, like, not really taking care to… Oh, 3 different… sorry, sorry, sorry.
+
+[GM] 23:40:02
+No, no, it's 3 different bins. Yeah, each one of them has, like, a roller bin, and they just, like, go in, they collect stuff, and they throw it in there.
+
+[Murderbot V2] 23:40:07
+No, no, no.
+
+[Ink] 23:40:13
+They're labeled, like, Zeke and Ink. And…
+
+[GM] 23:40:13
+Um…
+
+[Murderbot V2] 23:40:15
+Yeah, that's what I mean. Are they, like… Okay, so they're all just throwing it in just, like, a one…
+
+[GM] 23:40:18
+Oh, no. No, they're not.
+
+[Murderbot V2] 23:40:23
+Essentially 3 different piles, but one big pile. Okay, so it seems like they're just gonna throw the shit out.
+
+[GM] 23:40:26
+Yeah.
+
+[Murderbot V2] 23:40:30
+Guys?
+
+[Ink] 23:40:33
+Yeah, totally.
+
+[GM] 23:40:34
+Yeah, you see… you see their, uh… they're, like, jumpsuits, and you know that they're part of the, uh…
+
+[Murderbot V2] 23:40:43
+The waste management squad.
+
+[GM] 23:40:44
+But… Well, they're not… they're, like, repurposing.
+
+[Murderbot V2] 23:40:50
+Oh, okay. Yeah, alright, so this is… this is… they're throwing shit out, and you guys are in danger, so I need to… I need to do something here, huh?
+
+[GM] 23:40:50
+Division.
+
+[Murderbot V2] 23:41:01
+Um… Okay, well, I'm just gonna try to sneak out… Um… undetected, kind of like, see if I can get behind one of…
+
+[Murderbot V2] 23:41:10
+One of them isolated if the other two are, you know, off doing something else, or if they're in separate sections. I kind of want to, like, get to one that's… isolated.
+
+[GM] 23:41:22
+Mm-hmm. Sure.
+
+[Murderbot V2] 23:41:23
+Are they wearing suits where, like, they can't see their faces? Like, like I'm wearing… like, I would wear a suit… oh.
+
+[GM] 23:41:27
+No, no, no, they're wearing, like, like, you know… Company clothing, company-issued clothing.
+
+[Murderbot V2] 23:41:32
+Gotcha.
+
+[GM] 23:41:36
+It might say… it might say on the backside, like, repurposing squad.
+
+[Ink] 23:41:36
+You can see in my… you can see them in my picture.
+
+[Murderbot V2] 23:41:40
+Gotcha.
+
+[GM] 23:41:44
+Ink, what'd you say?
+
+[Ink] 23:41:45
+As you can see them in my picture, Murderbot.
+
+[Murderbot V2] 23:41:50
+Nice. Alright.
+
+[Zeke Sinclair] 23:41:50
+Okay, sorry, I'm probably gonna go to bed here in, like, 5 minutes or so.
+
+[GM] 23:41:54
+Okay.
+
+[Zeke Sinclair] 23:41:55
+I'm tired.
+
+[Murderbot V2] 23:41:56
+Um, do you guys want to schedule?
+
+[Murderbot V2] 23:42:02
+Real quick, Zeke?
+
+[Zeke Sinclair] 23:42:04
+Um, sure, let me grab my phone.
+
+[Ink] 23:42:13
+Can you find the… can you find the suitcase of my new bathroom picture?
+
+[GM] 23:42:21
+Did you just upload it?
+
+[Ink] 23:42:22
+Uh, no, it's before… It's at… it's before the picture where he's watching robots.
+
+[GM] 23:42:27
+Oh, okay.
+
+[Ink] 23:42:28
+Telling.
+
+[Dex Miro] 23:42:29
+Oh, it has the three seashells.
+
+[Zeke Sinclair] 23:42:33
+I have 3 seashells.
+
+[GM] 23:42:36
+Um… I mean, is it that thing that's, like, in the corner next to the window?
+
+[Ink] 23:42:41
+I actually have no clue, I told the AI to hide it, so… I just… I just wanted to draw attention to the three seashells, so…
+
+[GM] 23:42:44
+It's just…
+
+[Dex Miro] 23:42:44
+Apparently, it hit it really well.
+
+[GM] 23:44:15
+Okay. Before Zeke goes…
+
+[GM] 23:44:22
+So… Back in the room and sort of sped up to… like, the current moment of Ink explaining what happened.
+
+[GM] 23:44:32
+Um… Inc. Was saying all those things, but those weren't the words coming out of his mouth.
+
+[GM] 23:44:38
+Instead, he was like, yeah, our murder bot's hidden on the ship.
+
+[GM] 23:44:42
+Is not destroyed. Uh… And…
+
+[GM] 23:44:49
+It just starts spewing out a bunch of true stuff.
+
+[Murderbot V2] 23:44:53
+Wait, who did? What!
+
+[Ink] 23:44:53
+The fuck? I do?
+
+[Dex Miro] 23:44:54
+What?
+
+[GM] 23:44:55
+Yeah. And the, uh, the CO turns to… to… Um… the, uh…
+
+[Ink] 23:44:57
+Come with me.
+
+[GM] 23:45:05
+The smoking man says, boy, that… sodium pentothal really works wonders, doesn't it?
+
+[GM] 23:45:12
+And that's where we'll leave it.
+
+[Murderbot V2] 23:45:14
+What! What questions happened!
+
+[Carnoc Ashbrow] 23:45:14
+Did they drug us? What'd you drink while we were in there?
+
+[Zeke Sinclair] 23:45:15
+When did you finish?
+
+[Murderbot V2] 23:45:21
+You drank something? Whoa…
+
+[Ink] 23:45:22
+No…
+
+[GM] 23:45:22
+He had a juice box.
+
+[Zeke Sinclair] 23:45:24
+Oh, I thought about having one of those. I'm glad I didn't.
+
+[Murderbot V2] 23:45:26
+This is a sinister, sinister company. Damn. Truth Serum in juice boxes?
+
+[Murderbot V2] 23:45:38
+Man, their children must be fucking crazy by now. Like, what the fuck is going on?
+
+[Murderbot V2] 23:45:46
+That's craziness.
+
+[Zeke Sinclair] 23:46:21
+As I hear Ink start to tell lots of truths, I play the Zeke song at full volume.
+
+[Zeke Sinclair] 23:46:27
+Nice speakers, no one can hear them say anything.
+
+[Zeke Sinclair] 23:46:30
+There you go.
+
+[Murderbot V2] 23:46:31
+We are absolutely knackered. Just properly screwed.
+
+[GM] 23:46:32
+Is this a cyberware you've got installed? It's an internal boombox? Okay.
+
+[Zeke Sinclair] 23:46:34
+Yeah, yeah.
+
+[Zeke Sinclair] 23:46:36
+internal boombox, yep.
+
+[Murderbot V2] 23:46:40
+Oh my god.
+
+[Dex Miro] 23:47:07
+It looks like we're having a great time in that interrogation room.
+
+[Murderbot V2] 23:47:11
+Wait, are they, like, isolated, you guys, in different rooms, or no?
+
+[GM] 23:47:15
+No, no, they're all together. Yeah. They wanted to make sure someone at least drank a juice box.
+
+[Murderbot V2] 23:47:16
+Oh, they're all in one room.
+
+[Murderbot V2] 23:47:22
+Damn.
+
+[Murderbot V2] 23:47:27
+Ink and his juice. He just had to… just had to grab one of them.
+
+[Ink] 23:47:32
+I mean, they get to just put it in our food, they've been feeding us, too, so, like, I don't feel so bad.
+
+[Murderbot V2] 23:47:35
+Well, that too. I could put it in everything, anything.
+
+[GM] 23:47:36
+Yeah. Yeah. Yeah. Yeah, Zeke says that he didn't take anything, but it's like…
+
+[GM] 23:47:43
+It's 12 hours, man. Someone's gonna get hungry, someone's gonna get thirsty, like… you're gonna… They're gonna bring you something that, you know, maybe it's not super appealing.
+
+[Dex Miro] 23:47:47
+Yeah.
+
+[GM] 23:47:52
+But… you're gonna eat, you're gonna drink.
+
+[Murderbot V2] 23:47:57
+Yeah, that's for sure.
+
+[Murderbot V2] 23:48:16
+Well, that took a turn. I don't know where to come from here, but…
+
+[Ink] 23:48:21
+Alright, just say the magic word, and make…
+
+[Murderbot V2] 23:48:23
+I know. Well, that just blows up our shit. Yeah.
+
+[GM] 23:48:29
+Murderbot's nowhere near you guys.
+
+[Ink] 23:48:32
+At least they will find him.
+
+[Murderbot V2] 23:48:35
+Yeah, all you guys are gonna do is blow up a bunch of, uh… parts guys. And I bet you they were contractors, you know? They probably don't even work for the company.
+
+[Ink] 23:48:45
+How much was it to upload my consciousness to the…
+
+[Murderbot V2] 23:48:52
+Yeah, these guys are probably… they probably weren't even, you know, they're probably not even, uh… employees… They're probably just… just contractors to clean out offices, clean out ships, you know?
+
+[Murderbot V2] 23:49:05
+We don't want to throw them… we don't want to blow them up.
+
+[Murderbot V2] 23:49:09
+Or do we?
+
+[Ink] 23:49:12
+They're still connected to the Matrix.
+
+[GM] 23:49:15
+Yeah, anyone could be Agent Smith.
+
+[Murderbot V2] 23:49:17
+Yeah, that's true, too.
+
+[Ink] 23:49:27
+Yeah. Should've put the murderbot in space.
+
+[Murderbot V2] 23:49:33
+No, then I can't come in to help you guys, dude!
+
+[Ink] 23:49:37
+I'm not getting much help when they find you.
+
+[Murderbot V2] 23:49:39
+I mean, I'm just… it sounds like I'm gonna have to be, like, killing my way through or something.
+
+[Murderbot V2] 23:49:45
+I think you guys are in big, big, big trouble right now.
+
+[Ink] 23:49:50
+Well, especially when they grab you and they download your black box.
+
+[Dex Miro] 23:49:50
+Yeah.
+
+[Murderbot V2] 23:49:54
+I think it's a foregone conclusion. I think… I think… Um, they've already come to a conclusion, alright, well.
+
+[Murderbot V2] 23:50:01
+You know, these guys are… expend… they're fungible, so we're… We'll just go with the next team to… to fail, and just go from there, and just next teaming, next team, it doesn't matter to them.
+
+[Murderbot V2] 23:50:13
+We need to… We need to set off that suitcase and run.
+
+[Murderbot V2] 23:50:20
+That's what we need to do. But… We need to figure out how to do that.
+
+[Ink] 23:50:26
+I mean, it is totally worth it. Download, download.
+
+[Ink] 23:50:37
+Uh, why does AI take forever?
+
+[Ink] 23:50:56
+There you go.
+
+[Murderbot V2] 23:51:17
+Thank God!
+
+[Murderbot V2] 23:51:29
+So good! Why is that so good?
+
+[Dex Miro] 23:51:33
+One of the space.
+
+[GM] 23:51:41
+Carnoc's so frowny.
+
+[Murderbot V2] 23:51:41
+Oh, man…
+
+[Ink] 23:51:46
+But I just told them that they're taking his, uh… favorite gun.
+
+[Murderbot V2] 23:51:52
+Do you see… do you see Dex's guy? Dex's guy's like, what the fuck?
+
+[GM] 23:51:53
+Dex looks immediately uncomfortable.
+
+[Murderbot V2] 23:51:57
+Fuck?
+
+[GM] 23:51:59
+He just looks deeply uncomfortable with what's going on.
+
+[Dex Miro] 23:51:59
+Yeah.
+
+[Murderbot V2] 23:52:03
+It's… Stupid Zeke is just like, yes.
+
+[GM] 23:52:10
+You just… yeah.
+
+[Murderbot V2] 23:52:15
+Carnoc's like, oh, shit, we're gonna have to start shooting now.
+
+[Carnoc Ashbrow] 23:52:16
+Yeah.
+
+[Dex Miro] 23:52:21
+Yeah, we don't have our weapons with us, right? So…
+
+[Murderbot V2] 23:52:21
+Oh, man.
+
+[GM] 23:52:24
+Nope.
+
+[Murderbot V2] 23:52:27
+You can look at his face, he's like, I should have brought my gun.
+
+[GM] 23:52:32
+I will remark to… Wilbur Mark 2!
+
+[Murderbot V2] 23:52:34
+Fuck. God damn it.
+
+[Carnoc Ashbrow] 23:52:35
+Should have hit it behind the bulkhead somewhere.
+
+[Dex Miro] 23:52:38
+So, silly question, uh, how has the CEO been opening the doors?
+
+[GM] 23:52:45
+Um… I mean, they've just kind of been walking in and out of this room.
+
+[Dex Miro] 23:52:51
+Okay. So, like, could we have just walked out in the door, would have opened, or none?
+
+[GM] 23:52:56
+Um…
+
+[GM] 23:53:01
+At this moment, like, you know that there is a, like, keypad for the door, so it can be locked.
+
+[Dex Miro] 23:53:08
+Okay. Anyways, we guess we shouldn't do anything else before next time anyways, so…
+
+[GM] 23:53:09
+Um, yeah.
+
+[GM] 23:53:14
+Yeah. I mean, I'm happy to answer a few questions if it helps you, sort of, like, think through what you want to do.
+
+[GM] 23:53:22
+Come next, uh, session.
+
+[Dex Miro] 23:53:34
+I don't know, I was just trying to think of if there was anything useful I could do with my mods, but… Like, do I have to tell you if I want to…
+
+[Dex Miro] 23:53:44
+Record people's conversations.
+
+[GM] 23:53:48
+Um…
+
+[Ink] 23:53:49
+You're hoping your voice activating the door?
+
+[Dex Miro] 23:53:50
+Like, for… Yeah, something like that.
+
+[GM] 23:53:55
+No, uh, I mean…
+
+[Ink] 23:53:57
+Carmax has got, like, weapons in his arms, right?
+
+[GM] 23:54:01
+I guess in some… within… I guess, within reason.
+
+[Murderbot V2] 23:54:02
+Oh, his new mods?
+
+[GM] 23:54:08
+I think it's fine. So, like, in this situation, if you wanted to, like, record the CEO's voice, you definitely could have done that.
+
+[GM] 23:54:13
+I think probably a situation where you're like. And I'm not saying that you would do this, but, like, you know, like, oh, 10 months ago, I recorded somebody else's voice so that I could use that now. It'd be like…
+
+[Dex Miro] 23:54:13
+Yeah.
+
+[Dex Miro] 23:54:23
+Right. Yeah.
+
+[GM] 23:54:24
+Yeah, that wouldn't… that wouldn't make a ton of sense. But, you know, he's sitting there talking to you, like.
+
+[GM] 23:54:31
+You know, um… you could probably pick up the fact that something is going on between, like.
+
+[GM] 23:54:40
+Just from… ink, in his reaction, not just to the truth serum, but also to, like, hearing Murderbot.
+
+[GM] 23:54:48
+Talk about, like, what's going on on the ship. Um…
+
+[Murderbot V2] 23:54:51
+I found what Murderbot's gonna do next session.
+
+[Murderbot V2] 23:54:59
+I hope you guys enjoy.
+
+[Dex Miro] 23:55:02
+I love how it keeps calling him Murderbot in the… Transcript.
+
+[GM] 23:55:14
+It just…
+
+[Murderbot V2] 23:55:16
+I don't know what he's shooting, but… That's about my accuracy.
+
+[GM] 23:55:33
+It's just notes. Suiting up everything.
+
+[Murderbot V2] 23:55:40
+What is he doing?
+
+[GM] 23:55:43
+Just into the air at the end.
+
+[Murderbot V2] 23:55:57
+Yep, that's gonna be me, guys!
+
+[Murderbot V2] 23:56:34
+Oh, what's the… what is this? What is this? Oh, boy.
+
+[Murderbot V2] 23:56:58
+Blue hair, blue hair is telling Carnoc what to say. Oh, man. Alright, guys, I'm out.
+
+[Dex Miro] 23:57:07
+How everyone worships itself. What is wrong with all of this?
+
+[Ink] 23:57:07
+Genetic… No, it'd be good.
+
+[Dex Miro] 23:57:16
+That's incredible, that's right, love you.
+
+[Ink] 23:57:18
+Everyone worships me. Carnoc was supposed to say they took his big gun, sorry, Carnoc.
+
+[Dex Miro] 23:57:23
+I am the hero of deoxygenated town. Everyone works. Took my big gun, what is wrong with all of this?
+
+[Carnoc Ashbrow] 23:57:24
+Yeah.
+
+[Carnoc Ashbrow] 23:57:33
+Who said what is wrong with all of you?
+
+[Ink] 23:57:35
+It was supposed to be DEX that says that. And you, unfortunately, Carnoc says, like, you're supposed to… Carnoc's supposed to say, they took my big gun.
+
+[Dex Miro] 23:57:38
+One version. Took my big gun…
+
+[Carnoc Ashbrow] 23:57:38
+Yeah.
+
+[Dex Miro] 23:57:46
+Yeah, well, both. I mean, Carnoc's mouth is moving, but so is Ink's.
+
+[Ink] 23:57:51
+Yeah.
+
+[Dex Miro] 23:57:54
+What's wrong with all of this?
+
+[Dex Miro] 23:57:58
+Yeah, so I get why it's so hard to… make, like, a short movie with these AI-generated videos now, because it never… it can't even handle, like, the right person speaking.
+
+[Ink] 23:58:26
+Yeah, yeah, to get it just right. It's just… I guess if you really wanted something like that, you would… I would isolate each one of them, and…
+
+[Ink] 23:58:34
+Then splice it together. Right, like, I can zoom in on, like, Carnoc, and then it would… that's… he's the only person in the scene, so then it would have…
+
+[Ink] 23:58:42
+Make sure he talks correctly.
+
+[Ink] 23:58:49
+It'll just be a lot of work, though.
+
+[Ink] 23:59:00
+We're gonna have to fight our way out of this.
+
+[Dex Miro] 23:59:06
+I don't know how that's gonna go, but I'm not sure that there's a whole lot of other options.
+
+[Ink] 23:59:11
+Man, I had the idea of… because in interrogation, I didn't, you know, thought that might be rough, that really what we needed to be able to always do is tell the truth, but the truth is what we want them to know.
+
+[Ink] 23:59:22
+And us scanning that, um, bomb case. Wasn't very helpful either.
+
+[Ink] 23:59:28
+And of course, I'm the one that's ink's the one running his mouth, and he's the one that knows what's in the bomb case.
+
+[Ink] 23:59:33
+Plus hit the bottom case.
+
+[Dex Miro] 23:59:39
+Maybe they won't ask you about it? I don't think we're that lucky.
+
+[Ink] 23:59:42
+I don't know. Um… Well, yeah, because it seemed like I just all of a sudden offered up a bunch of truth, is what GM said, that the androids have…
+
+[Dex Miro] 23:59:50
+Yeah. You just started…
+
+[Ink] 23:59:51
+They didn't ask me about any of that stuff.
+
+[Dex Miro] 23:59:55
+Including other things that we didn't want you to.
+
+[Ink] 00:00:00
+Alright, here's another video, let's see if this works. They took my big gun. Oh, what is wrong with all of you? The android is hiding on the ship!
+
+[Ink] 00:00:09
+I am the hero of deoxygenated town. Everyone worships me. They took my big gun. Oh, what is wrong?
+
+[Ink] 00:00:17
+He totally messed it up. It's not fair. Oh, it's… it works here. It's funny, though.
+
+[Dex Miro] 00:00:21
+Now the order's all wrong, or is it still the wrong people, too?
+
+[Dex Miro] 00:00:43
+I think God, long, long. Android is hiding on the ship!
+
+[Dex Miro] 00:00:47
+I'm the hero of the oxygenated town. Everyone worship me.
+
+[Dex Miro] 00:01:04
+I think God. Android is hiding on the ship.
+
+[Dex Miro] 00:01:07
+I am the hero of kiosk and Natal challenges. Yeah, well…
+
+[Ink] 00:01:18
+Uh, to do it the hard way.
+
+[Dex Miro] 00:01:36
+So you can't, like, get it to… generate one video with, like, camera cuts in it or anything, can you?
+
+[Ink] 00:01:43
+Um, I might be able to, but maybe I can… I can only give it… two images, an end and a start image with the tool I'm using.
+
+[Dex Miro] 00:01:53
+Okay.
