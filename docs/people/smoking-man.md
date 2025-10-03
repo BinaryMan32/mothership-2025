@@ -1,5 +1,5 @@
 ---
-linkPattern: [Ss]moking [Mm]an|Devin
+linkPattern: "[Ss]moking [Mm]an|Devin"
 ---
 # Smoking Man (Devin)
 
