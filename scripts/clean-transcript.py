@@ -40,11 +40,11 @@ def replace_names(file_in, file_out, name_mapping):
             return before + name_out + after
         return replace
 
-    for line_in in file_in:
+    for num, line_in in enumerate(file_in):
         if line_in.startswith('['):
             line_out, n = long_regex.subn(replacer(long_names), line_in)
             if n != 1:
-                raise ValueError(f'Unable to replace name in {line_in!r}')
+                raise ValueError(f'Unable to replace name in line {num + 1}: {line_in!r}')
         else:
             line_out = short_regex.sub(replacer(short_names), line_in)
         file_out.write(line_out)
