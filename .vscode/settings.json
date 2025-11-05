@@ -8,6 +8,8 @@
     "Bratva",
     "Brookman",
     "Brunhilda",
+    "callsign",
+    "canyonheavy",
     "Carc",
     "Carcinization",
     "Carcs",
@@ -15,6 +17,7 @@
     "cloakskin",
     "Cryo",
     "cyberware",
+    "Cylons",
     "Dunright",
     "Edem",
     "Espernetic",
@@ -34,6 +37,7 @@
     "Jenson",
     "Kawaguchi",
     "looky",
+    "Loshi",
     "Lumatat",
     "mothership",
     "Murderbot",
@@ -46,6 +50,7 @@
     "Semenov",
     "Skillslick",
     "Skillslicks",
+    "Slickshot",
     "Slicksocket",
     "slickware",
     "Sobol",
@@ -63,6 +68,7 @@
     "Underhill",
     "Woohoo",
     "Wookiee",
-    "Yandy"
+    "Yandy",
+    "Zhuangzi"
   ]
 }
