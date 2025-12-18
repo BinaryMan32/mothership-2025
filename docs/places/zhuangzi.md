@@ -1,5 +1,5 @@
 ---
-linkPattern: [Zz]huangzi
+linkPattern: "[Zz]huangzi"
 ---
 # Zhuangzi
 
