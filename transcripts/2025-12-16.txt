@@ -617,7 +617,7 @@ No, I'm saying, but they… they both go to…
 doesn't… are we… we're at 60F and 60G, right? That's the decision we're making right now, GM, or no?
 
 [GM] 22:07:32
-During your N61C.
+You're in 61C.
 
 [Ink] 22:07:34
 Oh, gotcha. Oh, never mind. Okay, so we're not here near as far as I thought.
@@ -678,231 +678,6 @@ To the… nope, they glow the same amount of brightness being around you.
 
 [Murderbot V2] 22:09:17
 Okay.
-
-[GM] 22:09:21
-Um…
-
-[Zeke Sinclair] 22:09:24
-Hey guys! Sorry I'm late.
-
-[Ink] 22:09:27
-Hey! Hi.
-
-[Murderbot V2] 22:09:27
-Zeke!
-
-[Dex Miro] 22:09:28
-Ah.
-
-[Carnoc Ashbrow] 22:09:29
-My symptoms.
-
-[Murderbot V2] 22:09:32
-I saw Zeke in person.
-
-[GM] 22:09:34
-Um… You saw him in person, he's real?
-
-[Ink] 22:09:35
-Did you…
-
-[Murderbot V2] 22:09:37
-Yeah.
-
-[Zeke Sinclair] 22:09:38
-real. Murderbot…
-
-[Zeke Sinclair] 22:09:40
-bought me a super fancy dinner.
-
-[Murderbot V2] 22:09:42
-I didn't buy you… I didn't buy you Jack, man.
-
-[Zeke Sinclair] 22:09:44
-He's awesome.
-
-[Murderbot V2] 22:09:46
-Um…
-
-[Murderbot V2] 22:09:48
-Did you…
-
-[Murderbot V2] 22:09:51
-Well, I don't know, we could talk about that later. Um…
-
-[Murderbot V2] 22:09:55
-What's going on? Hey, we are on the ship, er, not the ship, what do we call it? We are on the…
-
-[Ink] 22:10:02
-Zeke, if you navigate to the chat, you can see the… depictions are pretty up-to-date.
-
-[GM] 22:10:03
-The deep, or…
-
-[Zeke Sinclair] 22:10:08
-Alright, let's see…
-
-[Zeke Sinclair] 22:10:18
-Wait, the chat in Roll20?
-
-[Ink] 22:10:20
-No, not… sorry, not Zoom.
-
-[Murderbot V2] 22:10:21
-No, in, um…
-
-[Zeke Sinclair] 22:10:22
-I don't see anything in the chat in Zoom.
-
-[Murderbot V2] 22:10:24
-In Zoom?
-
-[Ink] 22:10:26
-Oh, really? You don't see the history? Oh, that's… that stinks.
-
-[Zeke Sinclair] 22:10:27
-No.
-
-[Murderbot V2] 22:10:28
-Oh, he doesn't get it because he's…
-
-[Murderbot V2] 22:10:32
-Interesting.
-
-[Murderbot V2] 22:10:35
-Intresando.
-
-[Ink] 22:10:37
-GM, can I share my screen?
-
-[GM] 22:10:41
-I have approved sharing of screens.
-
-[Ink] 22:10:45
-Alright.
-
-[Ink] 22:10:49
-Let's see, oh, my screens are 8K, let me make the smaller one.
-
-[Ink] 22:11:18
-You guys see my screen now?
-
-[Zeke Sinclair] 22:11:20
-I see it.
-
-[GM] 22:11:20
-It's kind of blank, but yeah.
-
-[Zeke Sinclair] 22:11:22
-you know.
-
-[Ink] 22:11:23
-Alright, so… Start with… let's see, there's not an order, sorry.
-
-[Ink] 22:11:36
-Oh, of course, yeah, this picture, but… Um… Alright, so we… took the ship and we docked it to CloudBank.
-
-[Zeke Sinclair] 22:11:47
-Okay.
-
-[Ink] 22:11:47
-So we left. Um, we had… took a little… we went to floor, um, 6 is where we decided to go.
-
-[Ink] 22:11:55
-As we're guided, it looks like it's the place where the bell used to be attached.
-
-[Ink] 22:11:58
-Um, because that would… which… the bell is the thruster that was removed from the station, so the station can't really go anywhere.
-
-[Ink] 22:12:05
-Um, we went into room 61E, which was giant.
-
-[Ink] 22:12:09
-And the only way out of it was… and there was no gravity, so there flow… the first picture didn't have you in it, so I had to add Zeke back in there.
-
-[Murderbot V2] 22:12:16
-Hey, do I have to add Mickey Mouse ears to my sheet?
-
-[Ink] 22:12:18
-Uh…
-
-[GM] 22:12:23
-No, apparently it's… the function is a liar. It's a liar.
-
-[Ink] 22:12:24
-Absolutely. That's right. Can't do it yet.
-
-[Ink] 22:12:28
-Um, and then we get to a room, and we see an override panel with a comically large red button on it.
-
-[Ink] 22:12:35
-And a suit that was there for, like, a maintenance area. We didn't really mess with that.
-
-[Ink] 22:12:39
-And then, ink, use the welder to… burn through a locked airlock so that we could go into the larger room of 61C.
-
-[Ink] 22:12:47
-And then the first thing we saw in there was another override pan… or another panel that wasn't override panel, where's that one?
-
-[Ink] 22:12:55
-Um… another panel. And… Uh, Murderbot decided that he wanted to open the panel up, and he found crystals.
-
-[Ink] 22:13:05
-And he was so excited about the crystals. And he showed them to… oh, where's that? Yeah, he showed them Carnoc, who was not amused.
-
-[Zeke Sinclair] 22:13:14
-Very excited.
-
-[Ink] 22:13:17
-And that's where we are. Oh, well, actually, we just saw… big room… reactor room with lots of nuclear things, and uh… It says, don't shoot in this room, but I don't have a picture of that yet.
-
-[Zeke Sinclair] 22:13:28
-Alright, cool.
-
-[Ink] 22:13:29
-Totally up to speed.
-
-[GM] 22:13:32
-And Zeke, you missed last time that, um, besides Arcady that they met on the bell, they also met a woman named Noriko.
-
-[GM] 22:13:39
-And she talks a lot about this… entity called the Minotaur that the.
-
-[GM] 22:13:44
-AI on the station. called Monarch, was keeping, um… In a labyrinth?
-
-[GM] 22:13:53
-And, uh, the crew convinced Noriko to join them, so… There's a bald-headed woman.
-
-[Zeke Sinclair] 22:13:53
-I'm a player.
-
-[Zeke Sinclair] 22:14:00
-I was about to ask who that woman was.
-
-[Zeke Sinclair] 22:14:02
-So…
-
-[GM] 22:14:04
-Yeah.
-
-[Murderbot V2] 22:14:05
-is a bit…
-
-[Murderbot V2] 22:14:08
-Crazy.
-
-[Dex Miro] 22:14:19
-And I just uploaded the map, so if you want to reference that in your browser.
-
-[Dex Miro] 22:14:24
-That's…
-
-[Zeke Sinclair] 22:14:26
-Alright, cool.
-
-[Zeke Sinclair] 22:14:29
-Oh, nice.
 
 [GM] 22:14:36
 So yeah, there's a bunch of, uh… nuclear reactors… In here, um… There's still no light?
@@ -4124,22 +3899,19 @@ Um, so the weapons are… Uh, kind of tied together.
 Um… And they're pulled along as well.
 
 [GM] 23:39:50
-Um… to take you into the next room… And, let's see, 5090…
+Um… to take you into the next room… And, let's see, 59D…
 
 [GM] 23:40:01
-90… Uh, in this room, there's a bunch of… dials and readouts of pressure and atmospheric.
+In this room, there's a bunch of dials and readouts of pressure and atmospheric monitoring.
 
 [GM] 23:40:13
-Monitoring… everything seems to be pretty good.
+Everything seems to be pretty good.
 
 [GM] 23:40:17
 Um, there's a yellow alert. sort of flashing.
 
-[GM] 23:40:22
-Um…
-
 [GM] 23:40:27
-as they sort of pull you by one of the councils, uh, you catch a glimpse of the alert.
+as they sort of pull you by one of the consoles, uh, you catch a glimpse of the alert.
 
 [GM] 23:40:33
 Uh, it seems to imply that some of the, uh… atmospheric containers were… damaged?
