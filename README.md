@@ -38,9 +38,19 @@ sudo apt install pre-commit
 pre-commit install
 ```
 
-## Linking to character names
+## Renaming Images
 
-To replace all occurrences of a character's name which are not already linked with a link to the character's page, use a **Regular Expression**
+Command to rename all `*.png` files to:
 
-- **Search**: `(?<=^|[^[(-/])\b(Dex)`
-- **Replace**: `[$1](dex-miro.md)`
+- add leading `0` to files starting with a non-zero digit
+- replace all sequences of spaces and `-` with a single `-`
+
+```sh
+rename -e 's/^([1-9])[ -]/0\1-/;' -e 's/[ -]+/-/g;' *.png
+```
+
+Requires `rename` package:
+
+```sh
+sudo apt install rename
+```
