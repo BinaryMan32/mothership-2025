@@ -42,15 +42,23 @@ pre-commit install
 
 Command to rename all `*.png` files to:
 
+- change all characters to lower case
 - add leading `0` to files starting with a non-zero digit
 - replace all sequences of spaces and `-` with a single `-`
 
 ```sh
-rename -e 's/^([1-9])[ -]/0\1-/;' -e 's/[ -]+/-/g;' *.png
+rename -e 'y/A-Z/a-z/;' -e 's/^([1-9])[ -]/0\1-/;' -e 's/[ -]+/-/g;' *.(png|jpg)
 ```
 
 Requires `rename` package:
 
 ```sh
 sudo apt install rename
+```
+
+## Resizing Images
+
+```sh
+mkdir reduced
+for x in full/*.(png|jpg); do convert "$x" -resize '800x800>' reduced/$(basename "$x"); done
 ```
