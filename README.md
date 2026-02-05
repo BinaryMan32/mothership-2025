@@ -62,3 +62,17 @@ sudo apt install rename
 mkdir reduced
 for x in full/*.(png|jpg); do convert "$x" -resize '800x800>' reduced/$(basename "$x"); done
 ```
+
+## Embedding All Images
+
+Fills the clipboard with text to embed all images in the current directory.
+Paste into a scratch file and cut and paste as you add captions.
+
+```sh
+for img in *.(png|jpg); do
+echo "\![](./${img})
+/// caption
+///
+"
+done | xclip
+```
