@@ -40,14 +40,14 @@ pre-commit install
 
 ## Renaming Images
 
-Command to rename all `*.png` files to:
+Command to rename image files to:
 
 - change all characters to lower case
 - add leading `0` to files starting with a non-zero digit
 - replace all sequences of spaces and `-` with a single `-`
 
 ```sh
-rename -e 'y/A-Z/a-z/;' -e 's/^([1-9])[ -]/0\1-/;' -e 's/[ -]+/-/g;' *.(png|jpg)
+rename -e 'y/A-Z/a-z/;' -e 's/^([1-9])[ -]/0\1-/;' -e 's/[ -]+/-/g;' full/*.@(png|jpg)
 ```
 
 Requires `rename` package:
@@ -60,7 +60,13 @@ sudo apt install rename
 
 ```sh
 mkdir reduced
-for x in full/*.(png|jpg); do convert "$x" -resize '800x800>' reduced/$(basename "$x"); done
+for x in full/*.@(png|jpg); do convert "$x" -resize '800x800>' reduced/$(basename "$x"); done
+```
+
+Requires `imagemagick` or `graphicsmagick`, which can be installed with:
+
+```sh
+sudo apt install graphicsmagick-imagemagick-compat
 ```
 
 ## Embedding All Images
@@ -69,7 +75,7 @@ Fills the clipboard with text to embed all images in the current directory.
 Paste into a scratch file and cut and paste as you add captions.
 
 ```sh
-for img in *.(png|jpg); do
+for img in *.@(png|jpg); do
 echo "\![](./${img})
 /// caption
 ///
