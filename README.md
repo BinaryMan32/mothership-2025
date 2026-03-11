@@ -76,7 +76,7 @@ Paste into a scratch file and cut and paste as you add captions.
 
 ```sh
 for img in *.@(png|jpg); do
-echo "\![](./${img})
+echo '![]'"(./${img})
 /// caption
 ///
 "
