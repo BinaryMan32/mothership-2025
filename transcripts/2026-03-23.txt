@@ -1,0 +1,4943 @@
+[GM] 21:43:36
+sort of not really necessarily a choke point per se, but like just not a lot of maneuverability in this room.
+
+[GM] 21:43:40
+besides sort of all the. Networking materials, like the cables and… electronics and stuff. Uh, you find a… Torn loose pouch.
+
+[GM] 21:43:52
+Hanging from a cable. sort of like looks like it's drifting in a current.
+
+[GM] 21:44:00
+Must be just some sort of air current or something from a cable.
+
+[Ink] 21:44:16
+Well, these are cars at the end of the description.
+
+[GM] 21:44:19
+That was the end of the description. Just the there's a.
+
+[GM] 21:44:23
+Ouch hanging from a cable. It's pretty tight in here. There's not a lot of space.
+
+[Ink] 21:44:27
+Gotcha. Look at any danger to go grab that pouch?
+
+[GM] 21:44:32
+No. You don't sense anything. Okay, Grub Pouch.
+
+[Ink] 21:44:34
+I guess I will try to grab that.
+
+[GM] 21:44:39
+There feels like there's something inside.
+
+[Dex Miro] 21:44:39
+or which room was this again? What room are we at?
+
+[GM] 21:44:44
+We're in 33 E. elephant.
+
+[Ink] 21:44:45
+Uh, 30. elephant.
+
+[Ink] 21:44:50
+for echo. Um, I guess I'll look inside the pouch.
+
+[GM] 21:44:56
+Inside, you see a med scanner. I think someone in the party has a med scanner, but.
+
+[GM] 21:45:02
+It's a med scanner.
+
+[Murderbot V2] 21:45:02
+Is that different from the scanner that…
+
+[Zeke Sinclair] 21:45:03
+Zeke.
+
+[Murderbot V2] 21:45:05
+Ink's carrying right now?
+
+[Murderbot V2] 21:45:07
+Oh, okay.
+
+[GM] 21:45:07
+Yes.
+
+[Ink] 21:45:11
+Love it.
+
+[Ink] 21:45:16
+Um, can I carry that along with the thing I'm sharing, or are going to hand it off to somebody else?
+
+[Murderbot V2] 21:45:19
+Was it really heavy?
+
+[GM] 21:45:20
+No, no, it's… it's small. It's like a tricorder. Yeah.
+
+[Murderbot V2] 21:45:22
+Oh, it's like a tricorder?
+
+[Murderbot V2] 21:45:25
+Oh, there we go!
+
+[Ink] 21:45:25
+Gotcha. Who's, uh… who's best equipped to use the rescue model?
+
+[Murderbot V2] 21:45:33
+Hi, Zeke.
+
+[Ink] 21:45:35
+I got first aid, but he's got biology, right?
+
+[Zeke Sinclair] 21:45:36
+Huh?
+
+[Carnoc Ashbrow] 21:45:41
+I have no medical school.
+
+[GM] 21:45:44
+Zeke definitely has experience with med scanners.
+
+[Ink] 21:45:48
+Gotcha. So I'm gonna hand it to you, Zeke.
+
+[Zeke Sinclair] 21:45:49
+Yeah, I do. Thank you. Always wanted a new med scanner.
+
+[GM] 21:45:59
+It's gonna help for this paper he's writing.
+
+[Ink] 21:46:06
+All right, um… I think… Alright, so we have a choice, right? 3, 3D or 33 E as in boy.
+
+[Ink] 21:46:19
+Um, let's go to… let's go to B as boy.
+
+[GM] 21:46:24
+Area 3B. It's a… empty, pristine.
+
+[Ink] 21:46:25
+The furnace is just not sound like much fun.
+
+[GM] 21:46:32
+Room, uh, it's huge. It's also 0 G. It smells like wet iron in here. You notice that.
+
+[GM] 21:46:41
+The walls are covered with racks and handles, um… And… Karnak tells you that this is a gym.
+
+[Ink] 21:46:54
+Oh. Okay. Anything to investigate now?
+
+[GM] 21:47:01
+Uh, you float around in here for a while.
+
+[GM] 21:47:06
+You don't notice anything in particular.
+
+[Ink] 21:47:13
+Alright, how about 33C?
+
+[GM] 21:47:18
+Okay. Load on over to this much smaller room, still 0G.
+
+[GM] 21:47:24
+Um, inside… you see an improvised cryo cryo pod bay.
+
+[GM] 21:47:32
+So, basically, it looks like someone moved 10 cryo pods into this space.
+
+[GM] 21:47:38
+and jury-rigged cabling to. hook them up.
+
+[GM] 21:47:45
+Um, so there's just, like, all kinds of cabling run around like almost like vines.
+
+[GM] 21:47:52
+Um… Um…
+
+[Dex Miro] 21:47:56
+They occupied it. Yeah.
+
+[Carnoc Ashbrow] 21:47:56
+Is there anybody in the tripods? Are they occupied?
+
+[GM] 21:48:00
+All right. How many cryo pods are occupied?
+
+[GM] 21:48:17
+or are occupied.
+
+[Ink] 21:48:22
+Um, would we be able to use the Android scanner that I have?
+
+[Ink] 21:48:26
+on people in cryo stasis?
+
+[Murderbot V2] 21:48:30
+We should.
+
+[GM] 21:48:30
+Uh, you… have to have direct contact with them.
+
+[Murderbot V2] 21:48:34
+Oh…
+
+[GM] 21:48:35
+But that being said, it does take a while for cryo sleep to wear off.
+
+[Murderbot V2] 21:48:40
+Oh, so when we open them up, then as they're thawing?
+
+[Murderbot V2] 21:48:44
+We can use it on them.
+
+[GM] 21:48:44
+Mm-hmm.
+
+[Dex Miro] 21:48:48
+Although statistically they're fairly likely to puke on you when they wake up suddenly, so…
+
+[Dex Miro] 21:48:55
+Just be careful.
+
+[Dex Miro] 21:49:06
+But we could maybe… I guess we could wake it up one at a time and scan them as we do it.
+
+[Murderbot V2] 21:49:11
+Yeah, contingency, can we throw them back into cryo before they fully thaw?
+
+[Ink] 21:49:17
+I like the idea. Well, I actually have an Indian indication of how long they've been in crime.
+
+[Murderbot V2] 21:49:25
+Oh, what do the readings say? Is there anything on the…
+
+[GM] 21:49:26
+Um…
+
+[Murderbot V2] 21:49:29
+Screens.
+
+[Dex Miro] 21:49:31
+Can the medical scanner help us?
+
+[Ink] 21:49:33
+Oh, there we go. It says they're in cryo. Oh.
+
+[Murderbot V2] 21:49:34
+There you go. We got all the tools we need!
+
+[GM] 21:49:41
+Hmm. Um… Yeah, uh, it's… they've all been sort of placed in the cryo at the same time and all since.
+
+[GM] 21:49:54
+Uh, having been since the, um… whatever awakening of the AI and the takeover of the station.
+
+[GM] 21:50:05
+which I can't remember if I said like it's been like.
+
+[GM] 21:50:08
+A year or two, the station's been like this?
+
+[GM] 21:50:12
+I can't remember.
+
+[Ink] 21:50:14
+So we believe it's been… so the AI took over, and then these guys are put in cryo pods as a consequence of it. Okay. So it's not like these were free.
+
+[GM] 21:50:20
+Yeah. Yeah.
+
+[Ink] 21:50:24
+Yeah, pre-that. I guess I don't. I don't see any advantage to letting them out other than if they're waiting on somebody to save them.
+
+[Ink] 21:50:36
+If they're Androids, they won't be much help to us.
+
+[Ink] 21:50:42
+Um, do we see any identification on them through the cryo thing? Like, you know, this is wearing name tags, I don't know.
+
+[GM] 21:50:50
+Uh, no. Nothing that really… identifies them by name.
+
+[GM] 21:50:58
+a few of them like most of them have civilian type clothing on.
+
+[GM] 21:51:02
+Um, but there's one that has military fatigues on.
+
+[Ink] 21:51:11
+Recognize him any notes that say like, you know, wake us up. If you're human.
+
+[GM] 21:51:22
+Uh… no, nothing… nothing like that.
+
+[Murderbot V2] 21:51:27
+Or any notes that say, do not un…
+
+[Murderbot V2] 21:51:30
+Un-Cryo, or do not wake up, do not leave?
+
+[Murderbot V2] 21:51:33
+Transportation for prisoners, or…?
+
+[Murderbot V2] 21:51:36
+Ne'er-do-wells?
+
+[GM] 21:51:38
+Nope. Nope, nothing like that.
+
+[Murderbot V2] 21:51:39
+Son of a bitch. Can I feel the walls to see if anything's in braille?
+
+[GM] 21:51:50
+Um… Sure. You find nothing that that has anything written in Braille.
+
+[Murderbot V2] 21:52:00
+Unsurprised. Alright, which one do we want to go with first? Can we look… are they, like, all frosted over, you said, or no?
+
+[Murderbot V2] 21:52:07
+We can't… we can't look into them, or…?
+
+[GM] 21:52:09
+No, you can see into them. It just there's.
+
+[Murderbot V2] 21:52:11
+How many males, how many females?
+
+[GM] 21:52:15
+50 50. Therefore.
+
+[Murderbot V2] 21:52:15
+Oh. How many total again?
+
+[Murderbot V2] 21:52:19
+4 total. So 2-2.
+
+[Murderbot V2] 21:52:23
+Um…
+
+[Ink] 21:52:25
+What's the advantage of… so, the other… the other… there's 10 cryo pods, right? So 6 are unoccupied. Do they look like they were damaged or just never used?
+
+[GM] 21:52:34
+They're not damaged. They just don't have anyone in them. I don't know if they're never been used, but they certainly aren't being used, and they seem like they would work.
+
+[Ink] 21:52:39
+Gotcha. Yeah. Now I… if I would say, as if were there 10 originally when these guys went in there, and 6 got up and left, and… So what are they… who are they waiting to wake them up?
+
+[Ink] 21:52:55
+Would it automatically wake up at a certain point to cryo pods?
+
+[Dex Miro] 21:53:00
+Is there a countdown on there, is what you're asking?
+
+[GM] 21:53:02
+No, there's… there's no… no countdown, doesn't seem like there's any way for these people to trigger them with themselves waking up.
+
+[Ink] 21:53:03
+Yeah.
+
+[Dex Miro] 21:53:04
+doesn't.
+
+[GM] 21:53:11
+They have to be woken up from somebody on the outside.
+
+[Ink] 21:53:15
+So, it looks like they intended to be woken up externally, or somebody put them in there against their will.
+
+[GM] 21:53:20
+Yeah.
+
+[Ink] 21:53:30
+Um, okay, so you said one military guy, and then three civilians?
+
+[GM] 21:53:34
+Mm-hmm.
+
+[Ink] 21:53:38
+the hallway from 33C to 36A is fairly long.
+
+[GM] 21:53:44
+33C to 36a. I don't think it's necessarily too scale.
+
+[GM] 21:53:55
+Let me check what 36A is.
+
+[Murderbot V2] 21:54:02
+Ink, what are you thinking? You don't want to open these people up, or…?
+
+[Ink] 21:54:06
+I just wonder if we should investigate the rest of this, this direction first before we do. I don't know.
+
+[Zeke Sinclair] 21:54:09
+Wanted to say that. Actually, like… I still… Yeah.
+
+[GM] 21:54:15
+Yeah, I think it… Yeah, maybe it is a bit longer of a hallway.
+
+[Zeke Sinclair] 21:54:22
+Okay.
+
+[Ink] 21:54:23
+Alright, so we don't wanna… we don't want to wake up the military guy, right? Because he'd be scarier potentially.
+
+[Ink] 21:54:28
+It's civilians, is there anything specific about… you said the half male, half female. The military guy is male, so then there's one other male and two females. They're civilians?
+
+[GM] 21:54:41
+There's… Two female civilians, one male civilian.
+
+[Ink] 21:54:47
+So we don't have any indication of who would be the leader, or the rank, or anything like that, or who would be in charge.
+
+[Ink] 21:55:01
+Oh, let's just wake up the civilian guy and scan him before he… Melts, like you said?
+
+[GM] 21:55:09
+Okay. Pop open… the cryo pod.
+
+[Ink] 21:55:12
+Zeke's ready.
+
+[GM] 21:55:18
+It… after you, like, can see him and… In its entirety, you see that he's wearing… Uh, an outfit that seems very familiar, uh, based on… Some of the androids or other… it looks like maybe he was a staff.
+
+[GM] 21:55:33
+on this on the station. And you quickly… go about trying to scan him.
+
+[GM] 21:55:42
+Um…
+
+[Carnoc Ashbrow] 21:55:48
+Does the cryo pod have any like control panel where we can see, like, how long it's been active, how long someone's been in it, or whatever?
+
+[GM] 21:55:56
+No, nothing like that. But you do determine that he is indeed an android.
+
+[Carnoc Ashbrow] 21:56:07
+Yep.
+
+[Ink] 21:56:08
+So he's still sleeping?
+
+[GM] 21:56:10
+Yeah, but you don't feel like you have much time before it wakes up.
+
+[Ink] 21:56:14
+Do we want to shove them back in the crock pot?
+
+[Murderbot V2] 21:56:16
+Yes? Wait, can I download, like, anything off of this guy? Um…
+
+[Carnoc Ashbrow] 21:56:18
+Yeah, probably.
+
+[Murderbot V2] 21:56:22
+Before he wakes up, or no? Like…
+
+[GM] 21:56:25
+You can remove his core. Logic core.
+
+[Dex Miro] 21:56:31
+So he's like a standard Android, not like a special AI Android?
+
+[GM] 21:56:37
+No, it looks like a special AI one like he he looks fully human.
+
+[GM] 21:56:42
+Um… Yeah, indiscernible from some of the other androids you've are indiscernible from a person not like many of the androids that you've seen.
+
+[Murderbot V2] 21:56:46
+Shove them back in!
+
+[Dex Miro] 21:56:54
+Well, he might not even know he's an android.
+
+[Murderbot V2] 21:56:55
+No.
+
+[Ink] 21:56:59
+Uh, we jump back in here, back on.
+
+[GM] 21:57:03
+Sure.
+
+[Ink] 21:57:05
+Let's do that. Let's make up another one.
+
+[GM] 21:57:09
+All right. You wake up another one.
+
+[Murderbot V2] 21:57:11
+scanning?
+
+[GM] 21:57:15
+When you get to see them. and sort of their entirety. They look like they've got like lab clothing on like maybe they're a researcher of some kind.
+
+[GM] 21:57:25
+Um…
+
+[GM] 21:57:29
+scan them. They're also an Android.
+
+[Murderbot V2] 21:57:33
+Shove them back in!
+
+[Ink] 21:57:36
+And put them back to sleep right now, I guess. And that was a male or female.
+
+[Dex Miro] 21:57:38
+This is…
+
+[GM] 21:57:40
+That was female.
+
+[Ink] 21:57:42
+Okay.
+
+[Ink] 21:57:46
+Let's do the, uh, I guess the next email.
+
+[Murderbot V2] 21:57:48
+Yeah, the other two.
+
+[GM] 21:57:49
+Okay.
+
+[Dex Miro] 21:57:50
+I'm pretty sure they're both going to be Androids, but let's check.
+
+[Murderbot V2] 21:57:51
+I'm guessing. I'm guessing they're all fit.
+
+[Ink] 21:57:53
+We don't know unless we check, yeah.
+
+[Dex Miro] 21:57:55
+Yeah.
+
+[Murderbot V2] 21:57:56
+Just have to be thorough.
+
+[GM] 21:57:56
+Right. You open up another one, you see that actually they wear the armor of a troubleshooter.
+
+[GM] 21:58:07
+You scan them, and it turns out they're also an Android.
+
+[Ink] 21:58:14
+Get back to sleep. And then the last one?
+
+[GM] 21:58:16
+Last one's the one on military fatigues.
+
+[Ink] 21:58:19
+Okay.
+
+[GM] 21:58:22
+You're opening that one, though. Okay, you open it up, scan them. And they are also an android.
+
+[Ink] 21:58:23
+Yeah, sure.
+
+[Ink] 21:58:33
+I guess put him back to sleep. Okay, so they're all Androids. They're all replaced by the AI.
+
+[Dex Miro] 21:58:43
+So do we think that anybody that's an Android can just be taken over by Monarch as long as they're in certain areas?
+
+[Ink] 21:58:53
+Good day.
+
+[Zeke Sinclair] 21:58:56
+Oh, that was, like, the default, like, all the Androids were controlled by Monarch Homes.
+
+[Dex Miro] 21:59:00
+Yeah. Like, wasn't Hank an Android?
+
+[Ink] 21:59:05
+Yeah, inclusive, but so it seems like it was at least replaced by… monarch, right?
+
+[Dex Miro] 21:59:07
+Yeah.
+
+[Ink] 21:59:12
+But he's controlling them all, and he doesn't talk back to us through them or anything like that.
+
+[Ink] 21:59:18
+And you can lose control of them when they went to, I guess, that one area through 29A or something like that.
+
+[Ink] 21:59:24
+If that was this thing. But then why did he have him do all kinds of crazy things?
+
+[Ink] 21:59:35
+And I guess they should be able to work independently.
+
+[Ink] 21:59:39
+Okay.
+
+[Ink] 21:59:47
+We want to wake these guys up and talk to them when they haven't have any information.
+
+[Murderbot V2] 21:59:55
+Which one?
+
+[Ink] 22:00:00
+So we have a worker guy that was dressed like a… a member of the station, right? Lab lady, troubleshooter lady, and a military guy, right? I get that right, GM?
+
+[GM] 22:00:08
+Mm-hmm. Yep.
+
+[Murderbot V2] 22:00:12
+Lab coat?
+
+[Ink] 22:00:13
+and a troubleshooter… Really?
+
+[Murderbot V2] 22:00:15
+Troubleshooter's gonna be guns a-blazing, no?
+
+[Ink] 22:00:21
+What's the troubleshooter do?
+
+[Murderbot V2] 22:00:22
+Troubleshooter was the one
+
+[GM] 22:00:22
+troubleshooter is like, hey, we're Androids, and then they start shooting at you.
+
+[Murderbot V2] 22:00:28
+I have a little bit of PTSD from that. I was about to… I was about to pull a logic cord before anybody saw, but…
+
+[Ink] 22:00:31
+Okay, guys.
+
+[Murderbot V2] 22:00:37
+I thought the better of it.
+
+[Ink] 22:00:39
+and the worker guy looks like he worked for the… on the station before it got taken over.
+
+[GM] 22:00:44
+Yeah.
+
+[Ink] 22:00:47
+Yeah, so either work regardless of the ladies, but I don't know, but troubleshooters.
+
+[Murderbot V2] 22:00:49
+Let's do… let's do a lab coat.
+
+[Ink] 22:00:52
+Okay, lab coat.
+
+[Murderbot V2] 22:00:54
+Alright, what are… let's see… Rock, Paper, Scissors, shoot.
+
+[Ink] 22:00:59
+It sounds fine, but…
+
+[Murderbot V2] 22:01:00
+Alright, let's do LabCoat.
+
+[GM] 22:01:04
+Okay, so you open up the… Cryo pod with the person with the lab coat.
+
+[GM] 22:01:11
+And you wait till she wakes up.
+
+[GM] 22:01:18
+I think she's gonna make a some sort of… Saving through.
+
+[GM] 22:01:27
+Um, she succeeds, so she's not as groggy as like most of you are when you come out of cryo sleep.
+
+[Zeke Sinclair] 22:01:31
+So that's probably.
+
+[GM] 22:01:37
+Um…
+
+[GM] 22:01:41
+Uh, she's like, uh, who… who are you?
+
+[Ink] 22:01:48
+Um, divers, right? We're divers?
+
+[Murderbot V2] 22:01:51
+I ain't saying a goddamn thing.
+
+[Zeke Sinclair] 22:01:53
+What did you say?
+
+[Ink] 22:01:58
+I think we're divers. Yeah, here to troubleshoot the international shoot.
+
+[GM] 22:01:59
+Here.
+
+[Zeke Sinclair] 22:02:00
+Divers.
+
+[Ink] 22:02:07
+Investigate things on the station.
+
+[GM] 22:02:11
+She, uh, kind of squints at you all. Like, the… It's dark in here, uh, so you guys, like, have your flashlights and such sort of trained on her.
+
+[GM] 22:02:23
+Um… And she's like, I… But you're not the diver that I was with, right?
+
+[Ink] 22:02:34
+no, I don't think so. Right? We're definitely not the diver you're with.
+
+[Dex Miro] 22:02:34
+What?
+
+[Carnoc Ashbrow] 22:02:38
+Oh, yeah. How long ago did you come here?
+
+[GM] 22:02:42
+I don't… I don't know, how long have I been in there?
+
+[Ink] 22:02:45
+what start date was it?
+
+[GM] 22:02:49
+Um… She basically tells you, you put together quickly that it's, she has been there.
+
+[Murderbot V2] 22:02:50
+We have no idea.
+
+[GM] 22:02:58
+She came here 6 months ago.
+
+[Ink] 22:03:02
+We have her look at the other people in the cryo stations and see if she recognizes them.
+
+[Murderbot V2] 22:03:07
+That's a good idea.
+
+[GM] 22:03:09
+Uh, she does not recognize any of them.
+
+[Murderbot V2] 22:03:11
+Oh, snap.
+
+[Ink] 22:03:18
+Um, what was she doing here?
+
+[GM] 22:03:20
+Uh, she was doing research on Androids. And, um… She was put into this cryo pod.
+
+[GM] 22:03:31
+by the diver that she had hired to. to bring her here.
+
+[Murderbot V2] 22:03:37
+What was their name?
+
+[GM] 22:03:42
+Thelonius.
+
+[Murderbot V2] 22:03:46
+You made that up!
+
+[GM] 22:03:49
+Yeah, sure did.
+
+[Murderbot V2] 22:03:52
+Why are you being evasive? We're just asking if we… we're just wondering if we met him or not.
+
+[GM] 22:03:58
+Um…
+
+[GM] 22:04:03
+She's like, well, thanks for for waking me up, because otherwise I might have been in there for God knows how long.
+
+[Zeke Sinclair] 22:04:05
+Excellent.
+
+[Ink] 22:04:14
+Um, what did you find out about Androids?
+
+[Zeke Sinclair] 22:04:15
+Okay.
+
+[GM] 22:04:17
+Well, nothing other than they're trying to murder me on the station.
+
+[GM] 22:04:23
+Um… My my research was on whether or not I could ascertain whether they have souls.
+
+[Murderbot V2] 22:04:29
+What?
+
+[GM] 22:04:31
+Yeah, because… I had heard rumor about the AI on the station being hyper intelligent, and I wanted to see.
+
+[GM] 22:04:40
+What sorts of evolutions of AI there had been on the station to the point of what we might characterize as.
+
+[GM] 22:04:50
+You know, what… autonomy and therefore maybe even something akin to a soul.
+
+[Murderbot V2] 22:05:00
+How far'd you get with your research?
+
+[GM] 22:05:02
+Not very far.
+
+[Murderbot V2] 22:05:05
+Okay.
+
+[Murderbot V2] 22:05:07
+Could you tell? Do you think you can tell just by looking at someone?
+
+[GM] 22:05:10
+if they're an android? No.
+
+[Murderbot V2] 22:05:11
+Yeah. Okay.
+
+[GM] 22:05:14
+Not here at least. That's awesome. Well, I'm just saying that the the androids in the station are different than other androids.
+
+[Murderbot V2] 22:05:15
+What, where would you have to go?
+
+[Murderbot V2] 22:05:22
+Mm.
+
+[GM] 22:05:24
+You know, you, I can tell that you're a Mark 5.
+
+[Murderbot V2] 22:05:28
+Uh, what… how would you… why did…
+
+[Murderbot V2] 22:05:31
+Who… what?
+
+[GM] 22:05:32
+I've seen hundreds of your kind. I think I do know you.
+
+[Murderbot V2] 22:05:35
+You don't know me!
+
+[Murderbot V2] 22:05:38
+You shut your mouth.
+
+[Murderbot V2] 22:05:42
+Oh, damn. She's got me pegged.
+
+[GM] 22:05:42
+Murderbot version two.
+
+[Murderbot V2] 22:05:48
+Oh, God. I like this one.
+
+[GM] 22:05:48
+You like being pegged.
+
+[GM] 22:05:54
+It's in your design, it's not your fault.
+
+[Dex Miro] 22:05:58
+Did we ask your name?
+
+[Murderbot V2] 22:05:59
+Oh, BTW, what's the… what's the code word that…
+
+[Murderbot V2] 22:06:06
+seats to blow me the fuck out.
+
+[GM] 22:06:08
+Her name is Bernice.
+
+[Murderbot V2] 22:06:10
+Oh, boom!
+
+[Ink] 22:06:19
+All right, I guess, uh… You can open up the, uh… we did a lab quilt ladies, and I'll do the troubleshoot lady.
+
+[Dex Miro] 22:06:27
+the way, do we? Do we want to?
+
+[Ink] 22:06:27
+No, we don't like to troubleshoot lead. We want the worker guy.
+
+[Dex Miro] 22:06:31
+color.
+
+[Ink] 22:06:33
+No, she won't believe us. And then what's she gonna do? Freak out?
+
+[Ink] 22:06:42
+I guess we have Bernice, what do you want to do now?
+
+[GM] 22:06:45
+Get off the station, I think. That's awesome crazy things while I was here.
+
+[Ink] 22:06:48
+Okay.
+
+[GM] 22:06:52
+I'm happy to leave.
+
+[Murderbot V2] 22:06:54
+Who are you working for?
+
+[Dex Miro] 22:06:55
+Right, so you said Thelonius has put you in cryo against your will. Do you know what happened to him?
+
+[GM] 22:06:58
+Yes. No idea.
+
+[Dex Miro] 22:07:02
+But was he acting strange or anything? you know, before the putting you in against your will.
+
+[GM] 22:07:06
+Um, I mean… my whole whole experience on the station has been just strange. So.
+
+[Dex Miro] 22:07:14
+I can't argue with that.
+
+[Murderbot V2] 22:07:22
+Who are you working for? How are you dispatched here?
+
+[Dex Miro] 22:07:26
+She hired a diver.
+
+[Murderbot V2] 22:07:28
+No, I was just, like, working for a company or anything, or…?
+
+[GM] 22:07:31
+No, I kinda had to go rogue to get access to this place. I was in a different Android research group for the company, but when I heard about this station, I was intrigued enough that I decide.
+
+[Murderbot V2] 22:07:34
+Oh, Jesus.
+
+[GM] 22:07:46
+That could make probably quite a bit of money understanding the nature of Androids.
+
+[GM] 22:07:51
+Um, in a, in a free market scenario, so…
+
+[Murderbot V2] 22:07:54
+Interesting.
+
+[GM] 22:07:58
+Yeah, the company would not appreciate knowing that I'm here.
+
+[Ink] 22:08:12
+All right. Let's wake up the worker guy.
+
+[GM] 22:08:17
+Okay. You wake up the worker guy.
+
+[GM] 22:08:24
+He comes out sick as a dog. You just immediately vomits on the floor.
+
+[GM] 22:08:35
+Well, actually, he vomits and it floats in space, I should say.
+
+[Ink] 22:08:40
+Mm-hmm.
+
+[GM] 22:08:41
+Um… He's like, oh, oh God.
+
+[GM] 22:08:46
+Oh, I feel like death.
+
+[Ink] 22:08:56
+What's your name? Yeah.
+
+[Zeke Sinclair] 22:08:56
+Whoa.
+
+[GM] 22:08:59
+No.
+
+[Dex Miro] 22:09:00
+Can we give him something? I forget if there's anything I can do.
+
+[GM] 22:09:03
+Uh, yes, stimpack can bring him out of cryo sickness.
+
+[Dex Miro] 22:09:08
+Okay, good.
+
+[Dex Miro] 22:09:12
+I don't know who took the 3 skin packs we got, but.
+
+[GM] 22:09:13
+You see?
+
+[Ink] 22:09:18
+I think I said one of them, I'll give them a stint back.
+
+[GM] 22:09:22
+He's like, oh, thanks. My name. My name's.
+
+[GM] 22:09:29
+Where's the name? He doesn't remember his name. He doesn't remember.
+
+[Ink] 22:09:31
+I'm done to step one submit. What I always just sit back on for them. How long you been here, worker guy? What's your name?
+
+[GM] 22:09:39
+It's like, I don't I don't remember. Yeah, doesn't he has, he has.
+
+[Ink] 22:09:42
+He doesn't remember his name, you said? Of course.
+
+[Dex Miro] 22:09:45
+What do you remember?
+
+[GM] 22:09:47
+Nothing.
+
+[Ink] 22:09:48
+I'm gonna call him Steve.
+
+[Murderbot V2] 22:09:50
+Who is your daddy, and what does he do?
+
+[GM] 22:09:53
+I don't remember if I have a dad. Oh, he's got amnesia.
+
+[Ink] 22:09:57
+Do you remember anything? Okay. Alright. Well, your name is Steve right now until you remember and stick with us.
+
+[Murderbot V2] 22:09:59
+Oh, no.
+
+[GM] 22:10:06
+Okay. Right.
+
+[Ink] 22:10:08
+Hopefully you weren't sent out sabers because, you know, they've got…
+
+[Ink] 22:10:20
+Alright, let's, uh… what do we want, military guy or troubleshooting the lady.
+
+[Ink] 22:10:31
+Okay, military guy. Is he, uh… is he disarmed? He's not, like, got fright grenades shoved in a… Coffee cup somewhere?
+
+[GM] 22:10:40
+Um, you open up his thing, and you see he is not on, uh, unarmed.
+
+[GM] 22:10:46
+He has arms.
+
+[Ink] 22:10:47
+All right, can we take his arms before we, uh…
+
+[GM] 22:10:52
+Yeah, you can… you can disarm before he fully wakes up.
+
+[Zeke Sinclair] 22:10:53
+Yeah.
+
+[Ink] 22:10:56
+Yeah. take his wallet too.
+
+[GM] 22:11:07
+Um…
+
+[GM] 22:11:12
+What is this usually a body save?
+
+[GM] 22:11:17
+All right, he wakes up, he is not cryo sick.
+
+[GM] 22:11:25
+It's like. Where… where are my weapons at?
+
+[GM] 22:11:30
+It's like the 1st thing he checks for.
+
+[Ink] 22:11:34
+Hey, what's your name?
+
+[GM] 22:11:38
+Chad. Chad.
+
+[Murderbot V2] 22:11:39
+Chad?
+
+[Zeke Sinclair] 22:11:42
+Hi, Chad.
+
+[Ink] 22:11:43
+What are you doing on the stations, Chad?
+
+[GM] 22:11:46
+I'm a bounty hunter.
+
+[Ink] 22:11:49
+What do you… what's your bounty right now?
+
+[GM] 22:11:52
+Um, looking for a… a scientist.
+
+[Ink] 22:11:57
+I just mean what?
+
+[Zeke Sinclair] 22:11:59
+Not named Zeke.
+
+[GM] 22:11:59
+I don't. I don't know the name.
+
+[Murderbot V2] 22:12:02
+then how would you know if you've already found them?
+
+[Ink] 22:12:03
+What do they look like?
+
+[GM] 22:12:06
+How would I know if I found them? Oh, I know I know what they look like.
+
+[Murderbot V2] 22:12:07
+Yeah.
+
+[Murderbot V2] 22:12:09
+We're just looking for any scientist?
+
+[Dex Miro] 22:12:10
+We're both holding the story.
+
+[Murderbot V2] 22:12:13
+What?
+
+[Carnoc Ashbrow] 22:12:13
+Do you have a picture of them you can show us?
+
+[GM] 22:12:15
+No. Yeah, I just memorized the picture.
+
+[Murderbot V2] 22:12:15
+It's just in your head?
+
+[Murderbot V2] 22:12:20
+Okay, gotcha. A female?
+
+[Murderbot V2] 22:12:22
+Mail?
+
+[Ink] 22:12:22
+Can you describe them to me?
+
+[GM] 22:12:25
+Uh, it is a woman.
+
+[Ink] 22:12:29
+It doesn't look like this lady in a lab coat over here?
+
+[Murderbot V2] 22:12:30
+Uh, have you met?
+
+[GM] 22:12:36
+He's like, well, I was hoping you'd wait till I got, uh… giving back my gun, and he, like, lunges at her, uh, grabs hold of her and snaps her neck.
+
+[Murderbot V2] 22:12:46
+What the fuck?!
+
+[Ink] 22:12:51
+Let's do that, Chad?
+
+[GM] 22:12:54
+Were me a way to do that, just told you it was my bounty.
+
+[Murderbot V2] 22:12:56
+Well, you don't kill your bounties, you get taken back for the bounty money!
+
+[Ink] 22:12:57
+Well, I mean, isn't there a higher bounty for bringing her back alive?
+
+[GM] 22:13:02
+Dead or alive, buddy.
+
+[Murderbot V2] 22:13:03
+You're coming with me!
+
+[Ink] 22:13:04
+Alright. Okay.
+
+[Murderbot V2] 22:13:09
+Ah, Jesus Christ.
+
+[Ink] 22:13:10
+Well, I guess put your bounty on your back while we wake up these other people.
+
+[GM] 22:13:15
+Thanks.
+
+[Murderbot V2] 22:13:20
+Chad.
+
+[Ink] 22:13:23
+and yet.
+
+[Dex Miro] 22:13:32
+Wait, so then… Did Chad just notice the scientists or did one of you point at her? I missed that.
+
+[GM] 22:13:32
+You're waking up to the troubleshooter?
+
+[GM] 22:13:38
+They definitely, like, turned and was like, do you look… do you look like that?
+
+[Dex Miro] 22:13:41
+Okay, yeah.
+
+[Murderbot V2] 22:13:41
+I mean, she's gonna see it sooner or later, either way, we're gonna be unprepared for what he was gonna do.
+
+[GM] 22:14:01
+You wake up the troubleshooter. Yeah, I was gonna say the troubleshooter is also armed.
+
+[Ink] 22:14:03
+Yeah, and just harm her if she's arm. Yeah, go ahead. Don't let Chad see that.
+
+[GM] 22:14:08
+They just have like small arms. They have a like.
+
+[Ink] 22:14:12
+That doesn't get… that doesn't get those.
+
+[GM] 22:14:14
+He had a pistol or revolver, and then she had a smg.
+
+[Ink] 22:14:19
+Trying to keep your eye on that, Chad guy.
+
+[GM] 22:14:30
+also wakes up without cryo sickness.
+
+[Murderbot V2] 22:14:36
+Without cryo sickness?
+
+[GM] 22:14:38
+Yeah. She's doing okay.
+
+[GM] 22:14:45
+Uh, she's like, great rescuers. Are any of you troubleshooters?
+
+[Ink] 22:14:52
+No, I'm just divers. Preview reports you?
+
+[GM] 22:14:54
+Okay, I need to report in. I… Uh, for commander Kilroy.
+
+[Ink] 22:15:01
+Alright, we're gonna contact her in a minute. I got the… we are taking orders from her. She's here with us.
+
+[GM] 22:15:06
+Okay, sounds good.
+
+[Ink] 22:15:09
+Keep an eye on it. He just snap that lady's neck over there.
+
+[GM] 22:15:13
+I don't care. I just need to get just got to check in my.
+
+[Ink] 22:15:16
+He will when he snaps your neck.
+
+[GM] 22:15:20
+I'll assume that he had a reason for it. Otherwise, you guys would have killed him.
+
+[Ink] 22:15:25
+It was…
+
+[Murderbot V2] 22:15:26
+You'll care what I tell you to care!
+
+[Zeke Sinclair] 22:15:27
+Um…
+
+[Murderbot V2] 22:15:29
+I have… the death sentence in four systems!
+
+[Ink] 22:15:31
+Whenever we try to kill things is.
+
+[Ink] 22:15:41
+Alright, so everybody's awake now. One person's dead. a chance.
+
+[Murderbot V2] 22:15:45
+Aye, aye, aye.
+
+[GM] 22:15:46
+So, like, can I can have my weapon back on account of their dangerous fucking androids all over this place?
+
+[Ink] 22:15:53
+Even if it's trustworthy. Sure, why not? What can go wrong with that? I'll let… I'll let Jackson decide that he's the one that makes those decisions.
+
+[Ink] 22:16:09
+He's very stoic, doesn't he?
+
+[GM] 22:16:11
+Yeah, she waits patiently, staring at Karnak to see if he's gonna.
+
+[GM] 22:16:16
+Authorized her getting her weapon back.
+
+[Carnoc Ashbrow] 22:16:20
+I suppose so. She doesn't see.
+
+[Dex Miro] 22:16:20
+That was the troubleshooter asking, not Chad.
+
+[Carnoc Ashbrow] 22:16:24
+Seems threatening.
+
+[GM] 22:16:26
+Chad Chad seems fine now that he's got his kill.
+
+[Dex Miro] 22:16:29
+Welcome.
+
+[GM] 22:16:31
+Um… Yeah, she you guys hand her smg back to her. She seems.
+
+[GM] 22:16:37
+She, like, checks the magazine and make sure that there's one in the chamber.
+
+[GM] 22:16:44
+I like some fools hunting. Now I haven't checked the.
+
+[GM] 22:16:49
+put a bullet in the chamber.
+
+[Murderbot V2] 22:16:52
+Before shooting. That innocent deer!
+
+[Ink] 22:16:53
+Seems such an important thing to do. Right? He's still out there prancing around. He's good. Don't worry, I think you can bambi.
+
+[Murderbot V2] 22:17:01
+No, I bet you that guy who took you out to hunts was like, I'm gonna get that motherfucking deer.
+
+[Ink] 22:17:18
+All right, let's head to 36a.
+
+[GM] 22:17:19
+Um…
+
+[Murderbot V2] 22:17:23
+Let's do it.
+
+[GM] 22:17:25
+Noriko starts talking to everybody about the the minotaur and how great he is and how she found him and how she's gonna.
+
+[Murderbot V2] 22:17:31
+Shut up, Noriko!
+
+[GM] 22:17:33
+I was gonna come, you know, save the universe.
+
+[GM] 22:17:37
+which way did you go?
+
+[Ink] 22:17:40
+go 36.
+
+[GM] 22:17:42
+Okay.
+
+[Zeke Sinclair] 22:17:44
+Okay.
+
+[Dex Miro] 22:17:44
+I appreciate the hear and understand the Minotaur's gospel?
+
+[Ink] 22:17:44
+What was it? What was…
+
+[GM] 22:17:50
+I… I don't recall. We can roll for it if we want, but… I don't remember.
+
+[Dex Miro] 22:17:52
+I don't know.
+
+[Dex Miro] 22:17:59
+But anyway, she was pretty obsessed with them before that happened even, so… I'm not saying that out loud.
+
+[GM] 22:18:02
+Yeah.
+
+[Dex Miro] 22:18:08
+Everyone else.
+
+[GM] 22:18:08
+All right. 36A is a mess of mechanical arms, molds, and chemical baths.
+
+[GM] 22:18:17
+you see. Well, yeah, it's it's dark in the room, and it's 0 G, but… As you shine your lights around and stuff, and you feel this sort of, like, heat in the room that's unlike other rooms. Big…
+
+[GM] 22:18:33
+Um… molds shaped.
+
+[GM] 22:18:37
+like human bones. Uh, and you see the room sort of processing, um… liquid metal in these molds.
+
+[GM] 22:18:46
+Uh, which then are spun and dunked into chemical baths for rapid cooling.
+
+[GM] 22:18:52
+Um… The heat is, you can tell pretty quickly.
+
+[GM] 22:18:57
+is emanating from these giant vats of liquid metal.
+
+[GM] 22:19:03
+Um…
+
+[GM] 22:19:07
+Well, most of the bones seem to emulate human structures. You also see shapes and sizes that are not human in nature.
+
+[GM] 22:19:19
+Let me see like a dog skull. Human skull.
+
+[GM] 22:19:27
+Yeah.
+
+[GM] 22:19:37
+Zeke tells you that the baths are liquid nitrogen.
+
+[Zeke Sinclair] 22:19:45
+Ice cream with that.
+
+[Dex Miro] 22:19:47
+What?
+
+[Zeke Sinclair] 22:19:53
+Or add liquid nitrogen ice cream.
+
+[Dex Miro] 22:19:56
+No.
+
+[GM] 22:20:06
+He tells you that it'll turn into ice cream if you fall in the bath of liquid nitrogen.
+
+[Zeke Sinclair] 22:20:13
+15.
+
+[Ink] 22:20:15
+What do we think this place is for?
+
+[Zeke Sinclair] 22:20:21
+and go see if they have any ice cream.
+
+[Ink] 22:20:26
+Okay.
+
+[Dex Miro] 22:20:29
+Right, so… But this is weird, right? Because… The one guy that… I forget who did the autopsy on, like, didn't have metal bones.
+
+[GM] 22:20:50
+True.
+
+[Dex Miro] 22:21:03
+Do we think some of the different AIs have their own?
+
+[Dex Miro] 22:21:09
+Android manufacturing facilities.
+
+[Dex Miro] 22:21:13
+And they do it in kind of different ways. I don't know.
+
+[GM] 22:21:19
+Well, majority of the parts look like some of the security androids and such that you've seen.
+
+[Dex Miro] 22:21:19
+You said it.
+
+[Zeke Sinclair] 22:21:20
+What do the parts look like
+
+[Dex Miro] 22:21:25
+Okay.
+
+[GM] 22:21:25
+Thus far, like the… the I think it was the forgotten, where you could tell that they were androids, but they… were mostly humanoid otherwise.
+
+[Dex Miro] 22:21:37
+Okay. So this rule.
+
+[Dex Miro] 22:21:43
+Standard like murder butt kind of Android sword, not even that sophisticated.
+
+[GM] 22:21:47
+Yeah, basically.
+
+[Ink] 22:21:56
+What's the troubleshooter lady's name?
+
+[GM] 22:21:59
+Tatiana.
+
+[Ink] 22:22:14
+We can look around this room. So are we any danger in this room? It's just… as long as we stay out of the… liquid metal.
+
+[GM] 22:22:23
+And the nitrogen baths. Yeah, both probably could instantly. So you definitely want to stay away from them.
+
+[Ink] 22:22:26
+The nitrogen baths.
+
+[Ink] 22:22:36
+We'll look around if there's any trinkets that we might want.
+
+[GM] 22:22:45
+not the nothing you could see.
+
+[Ink] 22:22:50
+All right. About 36 B.
+
+[GM] 22:22:54
+Okay. It's a much smaller room, uh… Smells of molten plastic and charred wood.
+
+[GM] 22:23:06
+Um… you see that floor to ceiling. There's a mound of metallic foam.
+
+[GM] 22:23:14
+on the walls are scorch marks. And there are coolant exhaust vents in the ceiling.
+
+[Ink] 22:23:31
+Anything of interest to us in here?
+
+[GM] 22:23:39
+Carnoc's got military training. He tells you the scorch marks on the wall are from a flamethrower.
+
+[GM] 22:23:47
+Um…
+
+[GM] 22:23:58
+and… I think that the mound of metallic foam was maybe used as.
+
+[GM] 22:24:08
+possibly a… Fire suppressant.
+
+[Ink] 22:24:16
+So somebody is a flamethrower and then put it out to fire.
+
+[Dex Miro] 22:24:35
+Like, is there any way to scan the pile of foam to see if there's something inside of it?
+
+[GM] 22:24:42
+Um… I don't know. Do you guys have a thing that might do that kind of scan?
+
+[Dex Miro] 22:24:48
+Can the medical scanner do it? Well, I guess it depends on what we think is inside of it.
+
+[Ink] 22:24:49
+the tricorder.
+
+[GM] 22:24:50
+the med scanner. Yeah, I mean, you can try using the med scanner. It doesn't pick up anything living inside of it.
+
+[Ink] 22:25:25
+I kind of feel bad that we got Bernice.
+
+[Dex Miro] 22:25:29
+Oh. We killed grenades.
+
+[GM] 22:25:30
+Keep feeling bad about getting these NPCs killed, man.
+
+[Ink] 22:25:33
+I guess she's a robot, so it doesn't matter.
+
+[Dex Miro] 22:25:33
+Yeah.
+
+[Ink] 22:25:37
+Bruce is long dead. Okay.
+
+[Ink] 22:25:44
+I don't feel bad, but I don't. I'm just playing my role.
+
+[GM] 22:25:51
+Chad tells you he doesn't feel bad about it.
+
+[Ink] 22:25:54
+No, no. Yeah. That worries me.
+
+[Dex Miro] 22:25:55
+That doesn't surprise me.
+
+[Dex Miro] 22:26:01
+What? They probably didn't get paid to kill us.
+
+[GM] 22:26:08
+Tatiana looks around this room and says. If I recall correctly, this is not the way off the ship. We we should probably… Turn around and look for another exit.
+
+[Murderbot V2] 22:26:20
+How would you know?
+
+[GM] 22:26:21
+Because I tried to commit as much of the ship's layout to memory before I left on my mission.
+
+[Ink] 22:26:21
+All right, let's hit 36.
+
+[Ink] 22:26:27
+Alright, 36, then.
+
+[GM] 22:26:33
+alright. The door to 36C is locked.
+
+[Ink] 22:26:40
+Well, I got the key.
+
+[GM] 22:26:42
+All right. Um, you pull out… your, uh… Was it flame cutter? What would we call these things?
+
+[Ink] 22:26:53
+points at torch right at some kind of welding torch.
+
+[GM] 22:26:56
+welding torch. That's the word I was looking for.
+
+[GM] 22:27:01
+Um… Okay.
+
+[GM] 22:27:08
+Chakra.
+
+[Ink] 22:27:09
+I just got a… throttles on ChatGPT for generating images too quickly.
+
+[GM] 22:27:20
+Okay, um… You'll get the door open.
+
+[GM] 22:27:29
+It's a…
+
+[GM] 22:27:34
+Large chamber. It's got strange phone cones dreading from the walls.
+
+[GM] 22:27:41
+Surrounding a parade of metallic bones.
+
+[Murderbot V2] 22:27:49
+What the fuck?
+
+[Zeke Sinclair] 22:27:55
+place gets weirder and weirder.
+
+[Ink] 22:27:58
+All right, anything of interest around here?
+
+[GM] 22:28:02
+You enter the room… You notice that.
+
+[GM] 22:28:09
+being sort of piped in this room. From you don't know where are is all… kinds of imaginable sounds.
+
+[GM] 22:28:18
+Ranging from angelic horses to guttural roars to robotic blips.
+
+[GM] 22:28:25
+You take one stress.
+
+[Zeke Sinclair] 22:28:30
+All good.
+
+[GM] 22:28:30
+Nope, just just… Ink's character.
+
+[GM] 22:28:37
+Just ink.
+
+[Ink] 22:28:40
+All right. blinds continue to. Okay, so I guess I turn back around and say as room will stress you out.
+
+[Ink] 22:28:51
+Waste reclamation. It just doesn't sound as much fun. What's going to be in there?
+
+[Ink] 22:29:00
+skeleton works. Oh, that makes a lot of sense.
+
+[Ink] 22:29:05
+So I can't see where the sounds are coming from. I can't stop them. Anyone else that comes in the room will be stressed like me, right?
+
+[GM] 22:29:11
+Well, now that they know that there's all this audio being piped in that probably can just create some sort of.
+
+[Ink] 22:29:18
+Thank you. Oh, that's you. All right. We've got the cotton?
+
+[GM] 22:29:20
+method to prevent you from hearing all of it.
+
+[Ink] 22:29:26
+Yeah. So plug your ears.
+
+[GM] 22:29:34
+Okay. You guys plug their your ears and you float into the room.
+
+[Ink] 22:29:45
+Can we float over to 36D?
+
+[GM] 22:29:49
+36B. Wait, D, D, D.
+
+[Ink] 22:29:51
+DDD is.
+
+[GM] 22:29:55
+360, um, open the door. stretched across this room is razor cables like everywhere.
+
+[GM] 22:30:07
+Um, they're seemingly unattached to the walls, they're just kind of floating.
+
+[GM] 22:30:16
+The the razors are are pretty tiny. Um… You know, it's like, kind of like that material that, like, replaced barbed wire. It's got, like, the little.
+
+[Ink] 22:30:28
+Yeah.
+
+[Ink] 22:30:33
+So it's fast.
+
+[GM] 22:30:37
+What'd you say? I believe, yes.
+
+[Ink] 22:30:38
+It's Ferris.
+
+[Ink] 22:30:45
+Right. Can I jury rigged some electromagnet? Something in the other room? I don't know.
+
+[GM] 22:30:52
+What's your power source?
+
+[Ink] 22:30:57
+I'll see. Dex's battery.
+
+[Dex Miro] 22:30:58
+I don't know if I'm lugging this battery around.
+
+[Ink] 22:31:01
+Yeah.
+
+[Dex Miro] 22:31:04
+I mean, whatever you're doing, I'm not going to stand next to it when you turn it on.
+
+[Ink] 22:31:11
+I need some wire in a ferrous core, don't I?
+
+[Ink] 22:31:15
+There's all kinds of metal bones.
+
+[GM] 22:31:20
+Yeah, well, you find, you go back and you grab some of the metal bones.
+
+[GM] 22:31:26
+You notice pretty quickly, given your, your background. Uh, that this is actually aluminum.
+
+[Dex Miro] 22:31:35
+the bones.
+
+[GM] 22:31:36
+the bones are aluminum.
+
+[Ink] 22:31:38
+I need an iron core, don't I, for my electric.
+
+[GM] 22:31:41
+Yeah.
+
+[Ink] 22:31:48
+I started throwing bones at the, uh… Razor wire.
+
+[GM] 22:31:55
+Sure, you're just, like, trying to tangle them up into a ball.
+
+[Ink] 22:31:58
+Yeah, I just kind of knocked them out of the way, so we can get to the door to 36E.
+
+[Ink] 22:32:04
+Oh, actually, there's a… there's a vent shaft, a duct shaft in 36 B.
+
+[GM] 22:32:10
+There is.
+
+[Ink] 22:32:15
+Can I go investigate that before I start screwing with reservoir?
+
+[GM] 22:32:19
+Sure. It should be easy enough to remove the, uh… Uh, vent access panel.
+
+[GM] 22:32:30
+You can tell, though, that the, uh… Well, wait, are you wearing a vac suit or a hazard suit?
+
+[Ink] 22:32:40
+Um, what are the two do I got on? We got brand new ones.
+
+[Ink] 22:32:48
+Lost my vaccine behind, so I have… Oh, but not shoot on, because we replaced my hazard suit with a VAC suit that was found in there. So I get a vac suit AP3.
+
+[GM] 22:32:58
+Okay. Um… Are you consistently using the 0 2 access for your vac suit, or do you have like your helmet off most of the time?
+
+[Ink] 22:33:10
+It seems like we've been rocking around with our helmet on.
+
+[GM] 22:33:12
+with your helmet on.
+
+[Ink] 22:33:14
+I don't know what what's, uh… Seems like we've been walking around with them off, haven't we?
+
+[GM] 22:33:20
+I don't know. I'm asking. You get to decide.
+
+[Murderbot V2] 22:33:23
+We keep them on all the time.
+
+[Dex Miro] 22:33:24
+Good. What? Would we just have put our helmets on in order to clog our ears for the previous room or?
+
+[Murderbot V2] 22:33:30
+Yes.
+
+[Ink] 22:33:31
+I like that. That's definitely why I have my helmet on.
+
+[Murderbot V2] 22:33:32
+Totally.
+
+[Dex Miro] 22:33:34
+I mean, you might have taken it back off after you left that room again, though.
+
+[Murderbot V2] 22:33:37
+You shut your mouth.
+
+[Ink] 22:33:38
+No, I was so stressed that I wouldn't take it back off. But to keep it on, I just don't know when those noises are gonna come back. I got my helmet on.
+
+[Murderbot V2] 22:33:41
+With your…
+
+[GM] 22:33:46
+Okay. Get your helmet on. Um, you remove the paneling.
+
+[Murderbot V2] 22:33:49
+And because of that, you die!
+
+[Ink] 22:33:50
+Thank you.
+
+[GM] 22:33:53
+Do you go into. Do you go through to one of the rooms on the other side?
+
+[Ink] 22:33:59
+So, I do sit through there. And it looks safe if I look down in there.
+
+[GM] 22:34:02
+Yeah, yeah. I mean, it's cramped. You don't see anything indicating that it'd be extremely dangerous. 0 G. So.
+
+[GM] 22:34:11
+It's not bad to navigate.
+
+[Ink] 22:34:14
+All right. So I got 37 C and 37B.
+
+[Ink] 22:34:19
+37 B is what I'll go towards.
+
+[GM] 22:34:24
+You go towards 37 B. Um, you get to the other side, you kind of just kick out the, uh… the panel on the other side.
+
+[GM] 22:34:37
+There's inside you see like kind of like a shimmering and glimmering in the in the air.
+
+[GM] 22:34:48
+Um…
+
+[GM] 22:34:57
+and you notice you figure out that these like that's a.
+
+[GM] 22:35:01
+dust cloud, essentially, of, um… metal particulate.
+
+[GM] 22:35:06
+It's like real fine, though.
+
+[Ink] 22:35:12
+Okay, I see anything else?
+
+[GM] 22:35:17
+Given that you're wearing your your vac suit, you're not terribly worried about, like, breathing this stuff in or getting in your eyes or anything. You pop your head through.
+
+[GM] 22:35:25
+And you see a huge sanding wheel. That's used to smooth aluminum bones.
+
+[GM] 22:35:33
+So the metal particulate you think is coming from basically that sanding process.
+
+[Murderbot V2] 22:35:41
+Sanding bones?
+
+[Dex Miro] 22:35:43
+Is it on the automated thing, and it's just…
+
+[GM] 22:35:46
+Yep. Just sand and bones.
+
+[Murderbot V2] 22:35:48
+Jesus. The fuck?
+
+[Dex Miro] 22:35:51
+like recycling kind of thing, or.
+
+[GM] 22:35:55
+No, I was just making them real smooth, real nice.
+
+[Dex Miro] 22:35:57
+Okay. Oh, it's the end of the the finishing process.
+
+[GM] 22:36:02
+Maybe.
+
+[Ink] 22:36:04
+Um, so do I… We gotta, we gotta… we'll get to the room with 10 new.
+
+[Zeke Sinclair] 22:36:05
+Just start blowing some of these places up. I mean, they can use Android.
+
+[Zeke Sinclair] 22:36:11
+Hmm?
+
+[Ink] 22:36:12
+Yeah. We'll get to the room with the nuke in a minute, right?
+
+[Murderbot V2] 22:36:14
+Well, every room that you're in with me is a nuke.
+
+[Ink] 22:36:18
+That's true.
+
+[Ink] 22:36:22
+Um, do I think I should go back to the vent to get to 37C, or am I safe to travel through 37B to get to 37C?
+
+[GM] 22:36:32
+Um, you should be able to get out of this room fine, and… Uh, but yeah, the there's no… Direct connection from 37B to 37C. You have to kind of go in a roundabout way.
+
+[Ink] 22:36:46
+Oh, there isn't. Okay, right, there's no door between them. Okay, well then I'll crawl back to the vent and then look at 37C through the vent.
+
+[GM] 22:36:55
+Yeah. Um, once again, you kick out the… ceiling tile access, whatever.
+
+[GM] 22:37:11
+It's steamy in this room. Um… you're… Visibility is near zero because.
+
+[GM] 22:37:24
+You're you just fogs up the. your helmet right away. Your light really can't even penetrate deep into the room.
+
+[Ink] 22:37:36
+Gotcha. And it, uh, feels like this team is continually being produced.
+
+[GM] 22:37:43
+Um, there's a moment where the… it starts to disappear or dissipate a little bit.
+
+[GM] 22:37:48
+Uh, and then there's sort of this roar.
+
+[GM] 22:37:56
+and you hear the sort of hissing noise of steam being produced, and then it kind of like steams back up.
+
+[Ink] 22:38:03
+all right. So then can I go through 37 B to the hallway that connects to 38 A and 37A, and all that.
+
+[GM] 22:38:11
+Sure.
+
+[Ink] 22:38:19
+So once there, I want to go to 38C and peek in the door there first.
+
+[GM] 22:38:26
+38 C.
+
+[GM] 22:38:32
+Um…
+
+[GM] 22:38:48
+Mm-hmm. All right. Once again, 0 G.
+
+[GM] 22:38:58
+you crack open the door carefully. Looking inside… Uh, you see frameworks loaded with metallic skeletons being dragged from.
+
+[GM] 22:39:10
+Ceiling to floor. Um, as you kind of watch this process.
+
+[GM] 22:39:17
+You notice that there are. Spider drones scuttling about.
+
+[GM] 22:39:24
+moving the the skeletons up and down. They basically use some sort of webbing, not unlike what the, uh… Hunter had been using, but a much smaller scale. These are.
+
+[GM] 22:39:37
+tiny in comparison to the Hunter.
+
+[Ink] 22:39:42
+I will go ahead and close the door there.
+
+[Ink] 22:39:46
+They didn't see me, right?
+
+[GM] 22:39:48
+They made no indication that they saw you.
+
+[Ink] 22:39:52
+Um, peaking to 37A. Mm-hmm.
+
+[GM] 22:39:55
+37 A.
+
+[GM] 22:40:07
+Um, there's a huge vent that dominates the north wall.
+
+[GM] 22:40:13
+Um… In the center of the chamber is a machine.
+
+[GM] 22:40:23
+limp sacs like deflated lungs covering much of the surface.
+
+[Ink] 22:40:34
+Lymph sacks, what are the sacs made of?
+
+[GM] 22:40:38
+from… This distance looks like maybe some kind of leather material.
+
+[Ink] 22:40:54
+The fence shares a wall with… 36E, or 37B.
+
+[GM] 22:41:00
+37 B.
+
+[Ink] 22:41:04
+Is this room filled with aluminum as well?
+
+[GM] 22:41:07
+No.
+
+[Ink] 22:41:13
+Okay. So I should have seen this vents on the other side when I went through 37B.
+
+[Zeke Sinclair] 22:41:15
+Okay.
+
+[GM] 22:41:20
+Um… Not necessarily. I mean, it's not… Yeah, it's not super noticeable.
+
+[GM] 22:41:28
+It's possible it was on the other side of the… Whatchamacallit the sanding machine.
+
+[Ink] 22:41:34
+Okay.
+
+[Ink] 22:41:39
+Um, so any indication of what's going to be in these sacks probably just phones.
+
+[GM] 22:41:46
+Uh, do you approach it to examine it further?
+
+[Ink] 22:41:50
+They look dangerous at all in there?
+
+[GM] 22:41:53
+Super dangerous. No, I'm kidding.
+
+[Ink] 22:41:56
+Any, like, spider motherfuckers? Yeah, sure, why not? I'm gonna poke this freaking sacks.
+
+[GM] 22:41:59
+Alright, you go up to the sacks. the sacks are some sort of inflatable bag.
+
+[Ink] 22:42:00
+examine them first, I guess.
+
+[GM] 22:42:07
+Um, and you can tell that there's, like, many layers of material inside them.
+
+[GM] 22:42:14
+Um, they probably, you know, sort of inflate like.
+
+[GM] 22:42:17
+giant balloons almost.
+
+[GM] 22:42:23
+And then whatever is passing through probably like. is almost filtered by these layers?
+
+[Ink] 22:42:36
+Okay, so nothing really for valuable for me.
+
+[Ink] 22:42:47
+And the stats are pretty big.
+
+[GM] 22:42:49
+Yeah, they're pretty big.
+
+[Ink] 22:42:52
+All right, I guess I'll go and check out 36 app.
+
+[GM] 22:42:56
+36F.
+
+[GM] 22:43:02
+Open the room, small room. Um, there's dirty cubicles, uh, the walls are covered with passable watercolors. There's a large tool cabinet against the wall in the back.
+
+[GM] 22:43:15
+Um… Yeah.
+
+[Ink] 22:43:22
+And I'll go through the tool cabin.
+
+[GM] 22:43:24
+You open up the tool cabinet. Inside, you see a giant.
+
+[GM] 22:43:28
+sledgehammer has written on the side of it turbo sludge.
+
+[Ink] 22:43:44
+I wish. Sorry.
+
+[GM] 22:43:48
+36F.
+
+[Ink] 22:43:52
+Can I carry turbo switch?
+
+[GM] 22:43:55
+It requires 2 hands, and it is heavy. I mean, it's not heavy right now, because you're in 0g. But.
+
+[Murderbot V2] 22:43:58
+Do we need turbo sludge?
+
+[Ink] 22:44:01
+I don't know. Who knows when you need a turbo splash.
+
+[Ink] 22:44:04
+Sounds like something that Jax might be able to use on.
+
+[GM] 22:44:08
+between the thing you're carrying on your back and this, you won't be able to, like, use any kind of ranged weapon while holding this.
+
+[Ink] 22:44:16
+Gotcha. Like, can I just push around in Zero-G in front of me? I guess for the moment?
+
+[GM] 22:44:23
+Sure. You won't have much control over it, you know, might go flying into a molten vat of aluminum.
+
+[Ink] 22:44:32
+That's true. I'll, uh, I'll tie rope to it like a tomahawk, you know?
+
+[Dex Miro] 22:44:34
+Don't do that.
+
+[Ink] 22:44:42
+Um, alright, I'll peek into 36. I'll leave Turbo Sledge there. Was there… see, sorry, what else was in this room?
+
+[GM] 22:44:50
+That was pretty much it. There's a cubicle, but… cubicles uninteresting.
+
+[Ink] 22:44:51
+Um…
+
+[Ink] 22:45:04
+Alright, then I'm taking the 368, leave turbo switch there right now.
+
+[GM] 22:45:09
+Okay.
+
+[Dex Miro] 22:45:09
+Turbo sludge probably isn't an artifact then. It's just somebody's favorite toy.
+
+[Ink] 22:45:15
+It's true. The most expensive sledgehammer in the verse.
+
+[Dex Miro] 22:45:19
+Yeah. I mean, is it made of a conducting material?
+
+[Ink] 22:45:20
+I just left it there.
+
+[GM] 22:45:22
+36 C.
+
+[Ink] 22:45:26
+E.
+
+[GM] 22:45:28
+Turbo Sledge. It is… No. It it does have some sort of like.
+
+[Dex Miro] 22:45:30
+Yeah.
+
+[Dex Miro] 22:45:35
+No.
+
+[Ink] 22:45:35
+It's not fair.
+
+[GM] 22:45:38
+compressor on it, um… You may even have a small.
+
+[GM] 22:45:44
+Either battery, yeah, probably a battery pack on it.
+
+[Ink] 22:45:47
+I don't know. Okay, I might come back for TurboSlip something out of TurboSledge.
+
+[Ink] 22:45:58
+336E is an elephant. Very cool. Yeah, I don't want to go 360. Again, it has the icky noises.
+
+[GM] 22:46:00
+Oh, 36 E.
+
+[GM] 22:46:05
+Um… tight chamber weighs above a massive turbine.
+
+[GM] 22:46:13
+And you see the pool of a nuclear reactor.
+
+[Ink] 22:46:22
+of a nuclear reactor.
+
+[GM] 22:46:24
+Yeah, this is a nuclear generator in this room.
+
+[Ink] 22:46:29
+She's sitting in 36 E, huh?
+
+[GM] 22:46:31
+Yep.
+
+[Ink] 22:46:40
+a nuclear generators. So we're thinking that this is the power source for the station?
+
+[Dex Miro] 22:46:46
+Didn't we find another room like this earlier that's smaller? This is smaller than that one.
+
+[GM] 22:46:47
+uh…
+
+[Ink] 22:46:50
+It seemed… it seemed like on floor 6, when we were first here, that we had something that was generating power.
+
+[GM] 22:46:57
+You can fully believe, given the scale of this station, that it's possible that there's more than one nuclear reactor on this station.
+
+[Zeke Sinclair] 22:46:57
+It's fully blink.
+
+[Ink] 22:47:03
+All right. Can I jerry rig it to be able to shut it off, or to shut off the safeties and make it overload?
+
+[GM] 22:47:14
+Mm-hmm.
+
+[Dex Miro] 22:47:16
+You're keeping track of which these buttons do which, right?
+
+[Ink] 22:47:19
+I just have one for all of them, yeah. It's a big red button, don't worry.
+
+[Dex Miro] 22:47:21
+Oh, okay, that's even better.
+
+[GM] 22:47:33
+Uh, what do you want the button to be able to do?
+
+[Ink] 22:47:36
+I want to be able to either turn it off so that.
+
+[Ink] 22:47:43
+I just want one thing. All I want to do is set it into credit… into critical. Um, well… Okay, so I would just disengage the safety system, so it would go critical, stop producing power and melt down. That's essentially.
+
+[GM] 22:47:47
+Yep, that can be that can be that can happen.
+
+[Ink] 22:47:59
+My end objective. If I wanted to.
+
+[Ink] 22:48:10
+Do I need to roll this better?
+
+[GM] 22:48:13
+Nope. You've done this before.
+
+[Ink] 22:48:18
+Okay. license.
+
+[Dex Miro] 22:48:18
+We don't know of any of the things you've done actually work though.
+
+[Ink] 22:48:24
+But I'm level 10 jerry rigging.
+
+[Ink] 22:48:30
+and jury rigging. All right. So. They're either.
+
+[Dex Miro] 22:48:32
+I still don't know which is which.
+
+[Ink] 22:48:37
+to think it's what John Cusack does. Um, 38, did I look into 38 yet?
+
+[GM] 22:48:45
+30E? No, not as far as I know.
+
+[Ink] 22:48:48
+All right, let's go peek into 38E.
+
+[GM] 22:48:56
+38 E. It's a maze of elevated rails ridden by glowing auto forges.
+
+[GM] 22:49:07
+you can see how, like some of the bones are being regularly added to the forges which are coffin sized carts on rails housing robotic arms, surgical tools, and.
+
+[Zeke Sinclair] 22:49:11
+slow.
+
+[GM] 22:49:20
+a hot forge in the center. So effectively these things are.
+
+[GM] 22:49:24
+burning down or melting down the rejected materials and or any of just.
+
+[GM] 22:49:31
+Just materials that have been, you know, collected. Um… Yeah, you notice… something floating in the room, right? This is 0g. I'm pretty sure. Yep, 0 G.
+
+[GM] 22:49:48
+Um…
+
+[GM] 22:50:09
+There's an Android corpse. Um…
+
+[Ink] 22:50:20
+You know, safely get to the corpse.
+
+[GM] 22:50:25
+Yeah… let me… let me hold on a second.
+
+[Dex Miro] 22:50:27
+Got to fight the auto forges for it though, right? Before they recycle it.
+
+[Dex Miro] 22:50:32
+or maybe not.
+
+[Ink] 22:50:33
+Oh, he's…
+
+[GM] 22:50:33
+Yeah, it, I mean… There's a chance you get you would get harmed in this.
+
+[Ink] 22:50:43
+awesome at zero G.
+
+[GM] 22:50:47
+You are awesome in 0g.
+
+[GM] 22:50:51
+Go ahead and try and make a break for the Android corpse.
+
+[Ink] 22:50:56
+Beat is what I put all my hit points, or my special points into as well.
+
+[Ink] 22:51:02
+Can I identify the android corpse at all if… and, like, see his face? If I knew him, would I recognize him?
+
+[Ink] 22:51:08
+Looks like me, of course, right? That'd be awesome.
+
+[GM] 22:51:11
+Yeah. It does look like you. Yes.
+
+[Ink] 22:51:14
+Well, I definitely gotta get you on now. I'm questioning the nature of my, uh… Yeah, I'll make a break for using 0g speed as the, uh… Thank you.
+
+[Dex Miro] 22:51:15
+Wait, really?
+
+[Murderbot V2] 22:51:16
+Oh my god.
+
+[GM] 22:51:41
+Okay.
+
+[Ink] 22:51:45
+Um, as far as, you know, looking through the room.
+
+[Ink] 22:51:48
+I don't have anything yet to okay. So I'm just navigating with 0 my Gog stills, right?
+
+[GM] 22:51:55
+Yeah.
+
+[GM] 22:52:04
+Okay. You were grabbed by one of the things.
+
+[GM] 22:52:10
+make a body save.
+
+[GM] 22:52:19
+You resist getting. thrown into one of the auto forges.
+
+[Zeke Sinclair] 22:52:21
+Thanks.
+
+[Dex Miro] 22:52:35
+Good job.
+
+[GM] 22:52:37
+Uh, the other body gets grabbed. Do you have a you have a chance to try and… Get it away from one of the grabbers.
+
+[Ink] 22:52:42
+Oh, no.
+
+[GM] 22:52:51
+Um, I'll let you use either… Make a body safe if you want, or use.
+
+[GM] 22:52:57
+Here's zero G. Yeah, you can make a zero G speed.
+
+[Ink] 22:52:59
+I've got zero G speed again, if that's okay. I'll use.
+
+[Ink] 22:53:03
+Okay. Actually, do strength.
+
+[GM] 22:53:11
+It's up to you.
+
+[Ink] 22:53:15
+Okay.
+
+[GM] 22:53:16
+All right. You go to try and grab your Android self away from, uh… From the, uh, the grabber, but it pulls it into the forge and just melts it down.
+
+[Ink] 22:53:39
+Oh, there's no way out of this room.
+
+[GM] 22:53:44
+What are we in? Yeah. No, you notice that there's apparently a vent in the ceiling.
+
+[Ink] 22:53:44
+38 E. Alright.
+
+[Ink] 22:53:52
+Oh, would it lead to 37C or somewhere else?
+
+[GM] 22:53:57
+Uh, not sure until you go up into the vent.
+
+[Ink] 22:54:00
+Alright, I'll go check out the VIN.
+
+[GM] 22:54:03
+Okay. You pull the vent cover off. It looks like it heads west.
+
+[Ink] 22:54:22
+West means 38. Okay, I want to go through that.
+
+[GM] 22:54:24
+Yep.
+
+[GM] 22:54:33
+Yeah. All right. 38 D.
+
+[GM] 22:54:42
+Uh, in this room, you see bones and lumps of titanium float.
+
+[GM] 22:54:46
+foam float throughout the room, which is dominated by a pair of shoots.
+
+[GM] 22:54:53
+amongst the chaos you hear a buzz of 100.
+
+[GM] 22:55:00
+or hundreds of bees. and you notice, then… that there are these… I mean, they're not tiny. They're not like the size of a bee. They're much larger than that, but they're also not as big as these other spider things in the other room. So they're probably like maybe a little bit smaller than fist sized.
+
+[Murderbot V2] 22:55:03
+Whoa.
+
+[Zeke Sinclair] 22:55:24
+Thanks.
+
+[GM] 22:55:24
+be drones. buzzing around.
+
+[GM] 22:55:28
+Um, they snatch up bones and then inject them with something.
+
+[GM] 22:55:32
+Uh, so, like, the… they use their, like, stinger to be able to inject stuff into them.
+
+[Zeke Sinclair] 22:55:32
+Okay.
+
+[GM] 22:55:39
+into the bone.
+
+[Ink] 22:55:44
+It looks like they're not really noticing me or anything.
+
+[Zeke Sinclair] 22:55:46
+It looks like.
+
+[GM] 22:55:48
+What's that? No, they're not paying attention to you at all.
+
+[Ink] 22:55:49
+They're not really noticing me if bees or anything like that.
+
+[Ink] 22:56:01
+Um…
+
+[GM] 22:56:01
+Okay. They do fly through a doorway into another room to the west.
+
+[Ink] 22:56:05
+Alright.
+
+[GM] 22:56:11
+When they're done filling the bones, they throw them… Uh, down a chute that heads to the south?
+
+[Ink] 22:56:37
+Um… I guess I've had enough funds, so I'm gonna grab the sledgehammer and make my way back to 360.
+
+[GM] 22:56:44
+Yeah. You make your way back.
+
+[Ink] 22:56:46
+So I gotta go… Yeah.
+
+[GM] 22:56:56
+Oh, man. You show up with that turbo sledge.
+
+[GM] 22:57:00
+You know what's better than a spanner? Turbo sludge.
+
+[Dex Miro] 22:57:03
+Yeah.
+
+[Ink] 22:57:06
+on it before I give it to to to Dex.
+
+[GM] 22:57:09
+Do you have time to what? Yeah, absolutely. Absolutely.
+
+[Ink] 22:57:11
+Did I have time to put a bow on it before I give it to Dex? I find something like that.
+
+[GM] 22:57:17
+you have a you have a little bit of clothing that looks exactly like yours that tore off of your Android form.
+
+[Ink] 22:57:24
+Perfect. Awesome.
+
+[GM] 22:57:25
+You, like, fashion into a bow to be put on there.
+
+[GM] 22:57:30
+Um… Turbo Sledge does 4010 damage.
+
+[Dex Miro] 22:57:37
+Only once and might rip my arms off, or what?
+
+[GM] 22:57:42
+Kind of. It requires a strength check to use it, or you lose control.
+
+[Dex Miro] 22:57:47
+Yeah.
+
+[GM] 22:57:48
+Dex, how'd you predict on a critical success of using it, the victim is sent flying for an extra 1d10 damage.
+
+[GM] 22:57:59
+On a critical failure, your arms are dislocated.
+
+[Murderbot V2] 22:58:04
+Oh, dear God.
+
+[Dex Miro] 22:58:04
+Okay.
+
+[Dex Miro] 22:58:11
+Still seems like a good thing to have around if you need it.
+
+[GM] 22:58:14
+Everyone needs a turbo sledge.
+
+[Dex Miro] 22:58:17
+Yeah, all right. Is this going to?
+
+[Dex Miro] 22:58:21
+be very awkward to carry.
+
+[GM] 22:58:24
+Um… You're not carrying anything heavy on your back right now, right?
+
+[Dex Miro] 22:58:29
+No, but I am kind of dragging this battery around in case we need it.
+
+[GM] 22:58:33
+Oh, yeah, it's going to be a little bit awkward to have both that and be carrying this battery around.
+
+[Dex Miro] 22:58:39
+Alright, do you guys think we need this battery anymore?
+
+[Ink] 22:58:42
+I'll take the battery.
+
+[Dex Miro] 22:58:45
+But you've already got the heavy backpack thing, right?
+
+[Ink] 22:58:47
+Oh, that's right. Shoot. Um… Who's not here? Karnak, you want to carry something?
+
+[Carnoc Ashbrow] 22:58:54
+You can carry it if you want.
+
+[GM] 22:59:01
+We're giving Karnak to carry.
+
+[Ink] 22:59:03
+Um, is Carnoc stronger than me?
+
+[Dex Miro] 22:59:07
+I mean, Dex has taken the turbo sledge.
+
+[Ink] 22:59:10
+Yeah, Jack said the turbo sludge, so it's either the battery or the backpack with the radio in it.
+
+[Carnoc Ashbrow] 22:59:15
+Let's drink this 38.
+
+[Ink] 22:59:17
+My strength is 45. Okay, I'll try to heavier thing.
+
+[Zeke Sinclair] 22:59:22
+I take a stress whenever I carry something heavy.
+
+[Ink] 22:59:25
+All right, I'll give you the battery.
+
+[GM] 22:59:32
+Battery is definitely heavier between the 2 of those things.
+
+[Ink] 22:59:35
+Oh, it's okay.
+
+[GM] 22:59:44
+Tatiana says, can we? please try to find an exit. It's been like a couple hours.
+
+[Ink] 22:59:51
+All right, um… Let's head back to 33B.
+
+[GM] 22:59:57
+Yep.
+
+[Ink] 22:59:58
+and then Tatiana can take the lead into 33A, because she's so eager.
+
+[GM] 23:00:05
+You gave her her weapon back, right?
+
+[Ink] 23:00:07
+Yes. Is she going to need it, GM?
+
+[GM] 23:00:12
+I'm just… I was just making sure. I didn't remember correctly.
+
+[GM] 23:00:16
+33a. You see a set of three interlocking sterile white chambers. All doors hermetically sealed.
+
+[GM] 23:00:29
+there are camera lenses and speakers, studs on the walls.
+
+[GM] 23:00:34
+Um…
+
+[Ink] 23:00:46
+Three interlocking…
+
+[GM] 23:00:53
+Alright, you can freely leave this room, um, unless you're trying to enter 41a.
+
+[GM] 23:01:01
+You can go in any. You could go towards 32f or down to 33d if you wanted.
+
+[Ink] 23:01:07
+You know, we have we done 33d yet?
+
+[GM] 23:01:10
+Uh, I do not recall you going to 33d.
+
+[Ink] 23:01:14
+those apprentices know I speak to them. Okay. All right, I guess I want to sneak into 33d.
+
+[GM] 23:01:24
+All right. 33d. See, 8 monolithic industrial furnaces glowing orange in the dark.
+
+[GM] 23:01:34
+The furnaces are surrounded by electric candles.
+
+[Ink] 23:01:44
+I'll let 3 candles around a furnace.
+
+[GM] 23:01:45
+Yeah, I mean, you can investigate them a little bit more if you want.
+
+[Ink] 23:01:49
+Yeah, I'll take a moment.
+
+[GM] 23:01:51
+Right? You float into the room, you see that each is a finger, an android finger that has been outfitted with an orange LED on the tip.
+
+[GM] 23:02:02
+Uh, on the face of each furnace. Dubbed in Greece as a painting of a human figure suffering.
+
+[GM] 23:02:10
+This motif is repeated on each of them. Make a fear save.
+
+[Ink] 23:02:16
+English. Oh.
+
+[Ink] 23:02:28
+I just pissed my pants.
+
+[GM] 23:02:31
+All right, you take one stress.
+
+[GM] 23:02:39
+Um… But you do notice.
+
+[GM] 23:02:44
+near…
+
+[GM] 23:02:51
+Near one of the furnaces. a set of samples of.
+
+[GM] 23:03:00
+Heavy materials. Like, basically metal alloys in a set of like.
+
+[GM] 23:03:06
+few different sampling jars or something.
+
+[Ink] 23:03:13
+and I put those in my backpack?
+
+[GM] 23:03:17
+Yes.
+
+[Ink] 23:03:23
+All right. Mental sampling jobs.
+
+[GM] 23:03:31
+This is how it reads this heavy material samples of metal alloys.
+
+[GM] 23:03:37
+I assume, though, they're just like metal alloys. inlet.
+
+[Ink] 23:03:43
+They're indestructible, worth millions of credits.
+
+[Murderbot V2] 23:03:45
+Hmm.
+
+[GM] 23:03:47
+Yeah, true, but…
+
+[Ink] 23:03:56
+So it's totally worth peeing my pants for.
+
+[GM] 23:04:10
+Yeah.
+
+[Ink] 23:04:14
+For instance, what are the furnaces doing?
+
+[GM] 23:04:19
+They're glowing in the dark.
+
+[Ink] 23:04:22
+Like, are they powering something? What's the purpose of them?
+
+[GM] 23:04:24
+you suspect that maybe these samples were forged in these furnaces, maybe.
+
+[Ink] 23:04:32
+Gotcha.
+
+[Ink] 23:04:45
+Uh, so I peak in 31C.
+
+[GM] 23:04:48
+31 c.
+
+[GM] 23:04:57
+Uh, and 31c. This is a smaller room. Floating glass splinters from the computer monitors.
+
+[Murderbot V2] 23:05:05
+Jeez.
+
+[GM] 23:05:07
+blocking seats and mag table. Above the table floats an android corpse, its face smashed.
+
+[GM] 23:05:18
+Do you have pathology?
+
+[Ink] 23:05:23
+do. Why do I have messages? I do have pathology.
+
+[GM] 23:05:26
+You do have pathology? All right. You can tell that the.
+
+[Ink] 23:05:28
+I have pathology, yeah.
+
+[GM] 23:05:34
+Face smashing was from a self-inflicted blunt force trauma.
+
+[Murderbot V2] 23:05:37
+Oh, my God.
+
+[Murderbot V2] 23:05:43
+did it to himself.
+
+[Murderbot V2] 23:05:48
+Suicide?
+
+[Murderbot V2] 23:05:54
+or Monarch?
+
+[Murderbot V2] 23:05:57
+Commanded?
+
+[Ink] 23:06:00
+No.
+
+[Ink] 23:06:12
+Do we want to go out to this 332F or through 31 D?
+
+[Ink] 23:06:21
+Let's go to 31 E.
+
+[GM] 23:06:24
+31 E like elephant. Large room, and 0 G. It's dark.
+
+[Ink] 23:06:26
+Yes, he is an out.
+
+[GM] 23:06:34
+That's a gargantuan sewer sloping downwards through the darkness.
+
+[GM] 23:06:40
+where fluid drains, although I'm not sure what's forcing the fluid to drain.
+
+[GM] 23:06:46
+Uh, you see sort of floating freely in the air, droplets of a violently orange fluid.
+
+[GM] 23:06:54
+They freely merge and split from one another.
+
+[Ink] 23:06:59
+Oh, it's a little dangerous.
+
+[GM] 23:07:01
+It looks pretty cool. You think if Hank were here, he would definitely try, like, eating some.
+
+[Ink] 23:07:20
+So I think that would hurt me if I touched that stuff.
+
+[GM] 23:07:24
+Um, not in your hazard suit slash back suit.
+
+[GM] 23:07:30
+You might not want direct skin-to-skin contact on on that.
+
+[Ink] 23:07:38
+So I can make my way through this room.
+
+[Ink] 23:07:41
+To the hallway. For 31F, G, and B.
+
+[GM] 23:07:46
+Yeah.
+
+[Ink] 23:07:51
+Alright, I want to hit the 31F.
+
+[GM] 23:07:53
+31F smaller room, also in 0 G. You see bullet holes riddling the wall.
+
+[GM] 23:08:03
+And then. nearby.
+
+[GM] 23:08:08
+wall. There's a bundle of android heads bound by steel wire.
+
+[Ink] 23:08:15
+Of course, thanks.
+
+[Ink] 23:08:24
+Anything else about the room?
+
+[Ink] 23:08:29
+Like, what kind of what's what this room was for?
+
+[Dex Miro] 23:08:39
+Do any of these Android heads resemble anyone?
+
+[GM] 23:08:40
+That's. No, these are more like.
+
+[GM] 23:08:45
+even lower quality Android. They just don't even have like faces. They're just, like… old old Android forms where it's like you definitely know they're an Android.
+
+[Dex Miro] 23:08:58
+Right. So did Inc tell anybody about his doppelganger android?
+
+[Ink] 23:09:02
+I totally saw about all my adventures here. And believe me, though, I love it.
+
+[Ink] 23:09:08
+They were so wild about ants and bees.
+
+[Murderbot V2] 23:09:18
+Wait, it's not operational, right?
+
+[Dex Miro] 23:09:25
+Okay. We'll never get a chance to look at it.
+
+[Murderbot V2] 23:09:26
+No?
+
+[Murderbot V2] 23:09:31
+Well, yeah, I guess if you did.
+
+[Ink] 23:09:39
+I saved my good role for not getting thrown into the furnace myself.
+
+[Dex Miro] 23:09:45
+I mean, that makes sense.
+
+[Ink] 23:09:56
+Which room had the smashed robot, or the smashed android that was out there even seat?
+
+[GM] 23:10:00
+The one where it smashed its own face. 31 31C.
+
+[Ink] 23:10:03
+Yeah.
+
+[GM] 23:10:21
+By the way, the name of 31F is cement alcove. So I don't know if it's really like fully a room, but.
+
+[Ink] 23:10:22
+Great.
+
+[Ink] 23:10:47
+and 31E had the floating orange sludge.
+
+[GM] 23:10:51
+Yeah. By the way, is everyone traveling together is is just Ink going off exploring by himself.
+
+[Zeke Sinclair] 23:10:57
+And it's just leaving. Yeah.
+
+[Murderbot V2] 23:10:57
+I thought we were, like, going with him.
+
+[Ink] 23:10:58
+Awesome.
+
+[Murderbot V2] 23:10:59
+No?
+
+[GM] 23:11:01
+Um, well, I'm mostly concerned about anybody with not a vac suit traveling through the area with the orange sludge in it.
+
+[Murderbot V2] 23:11:08
+Are we all wearing VAC suits?
+
+[GM] 23:11:11
+Well, there you have 3 NPCs with you that do not have suits.
+
+[Dex Miro] 23:11:12
+We didn't have one.
+
+[Murderbot V2] 23:11:15
+Oh.
+
+[GM] 23:11:15
+Actually, make that four, you got Noriko, the guy who doesn't remember anything, Tatiana and Chad.
+
+[Zeke Sinclair] 23:11:24
+I'm not a big fan of NPCs in our organization.
+
+[Dex Miro] 23:11:28
+You said you're not a big fan of that.
+
+[Murderbot V2] 23:11:28
+I guess the ones without fax suits aren't following?
+
+[Ink] 23:11:29
+We had the six… We found six vac suits in, um… In 33F, right?
+
+[GM] 23:11:36
+Yeah, in the tool shed.
+
+[Murderbot V2] 23:11:36
+Yeah.
+
+[Ink] 23:11:38
+And I guess we gave Noriko one of them and the 5 of us. So we all have vac suits. Our 3 new people don't, so they're gonna have to stay behind and sit outside in 31 D, right?
+
+[GM] 23:11:53
+Yeah, I think it's in 31b.
+
+[Ink] 23:11:57
+No, I mean, D is involved. Dog.
+
+[GM] 23:12:00
+No, dog. Yes.
+
+[Ink] 23:12:05
+So that was the last room, I think, that was… She actually was…
+
+[Ink] 23:12:21
+The room was a furnace 33 feet.
+
+[Ink] 23:12:32
+All right, um… So any… the skeleton's float on the wall.
+
+[Ink] 23:12:40
+or just riddle the wall in the bullet holes. Nothing, nothing here of value.
+
+[GM] 23:12:45
+and 31 f. No.
+
+[Ink] 23:12:49
+Okay, I'll go to 31H.
+
+[GM] 23:12:54
+Okay. As you open the door, the heads begin screaming, begging, pleading, laughing, and singing.
+
+[GM] 23:13:04
+Uh, make a fierce with disadvantage everybody that's here, which is everybody but… the the 3 NPCs.
+
+[Dex Miro] 23:13:15
+So they didn't go into the room with the orange liquid, they decided to.
+
+[Zeke Sinclair] 23:13:16
+Is there anything?
+
+[Ink] 23:13:22
+I totally do.
+
+[Dex Miro] 23:13:26
+You said fear, right?
+
+[GM] 23:13:28
+Fear with disadvantage. So Zeke, you'll need to make another one as well Murderbot.
+
+[Zeke Sinclair] 23:13:28
+Whoa… Of disappearing.
+
+[Murderbot V2] 23:13:29
+Oh,
+
+[Zeke Sinclair] 23:13:32
+I was so brave.
+
+[Murderbot V2] 23:13:34
+That's messed up, man. This was a legit roll, bro.
+
+[Ink] 23:13:39
+How's your target 72, Dana?
+
+[GM] 23:13:43
+He's an android.
+
+[Dex Miro] 23:13:44
+Disadvantage means twice the chance of crit, doesn't it?
+
+[Ink] 23:13:47
+Yeah. Oh, nice job DJ. Yeah, critical success. That means he comforts all of us, GM.
+
+[Zeke Sinclair] 23:13:48
+No, not very bright now.
+
+[Murderbot V2] 23:13:50
+I'm an android.
+
+[Murderbot V2] 23:13:54
+Listen to my voice…
+
+[Dex Miro] 23:13:55
+What this disadvantage means the critical success doesn't happen, right?
+
+[GM] 23:13:55
+Um…
+
+[Murderbot V2] 23:13:58
+Follow my voice.
+
+[Zeke Sinclair] 23:13:59
+What do you want here?
+
+[Ink] 23:13:59
+Oh, shoot, that's right, disadvantage.
+
+[Murderbot V2] 23:14:00
+Nothing to be afraid of.
+
+[Dex Miro] 23:14:01
+Well, actually, how does that work? Because, like, he succeeded on both of them, but… Would you have to get two critical successes in order to actually get a critical success with disadvantage?
+
+[Murderbot V2] 23:14:03
+Everything okay?
+
+[Ink] 23:14:08
+Yeah, we don't get to hear those.
+
+[Murderbot V2] 23:14:17
+You're okay…
+
+[GM] 23:14:18
+I don't know.
+
+[Zeke Sinclair] 23:14:19
+shower.
+
+[GM] 23:14:26
+Okay. So, yeah, if you failed, you take one stress.
+
+[GM] 23:14:32
+Murder bot says this is. This is a an alarm. Something's coming.
+
+[Dex Miro] 23:14:43
+So they just all started like talking, singing random things or what?
+
+[GM] 23:14:47
+Yeah. I'll be back in a second.
+
+[Ink] 23:14:52
+Do you think something's coming from 31H, because that's the door I just opened?
+
+[Zeke Sinclair] 23:15:43
+No.
+
+[Murderbot V2] 23:15:46
+Join!
+
+[GM] 23:15:47
+All right. I'm back.
+
+[Ink] 23:16:05
+Um, we're in 31F right now, and I just opened the door to 31H, right?
+
+[GM] 23:16:09
+Yeah.
+
+[Ink] 23:16:10
+And I can see in the 31H.
+
+[GM] 23:16:13
+Yes, you see a tall, narrow space with a 90 meter steel fan spinning at.
+
+[GM] 23:16:20
+A 3,000 RPM. It's really fast.
+
+[Ink] 23:16:26
+like Willy Wonka.
+
+[GM] 23:16:29
+Um…
+
+[Ink] 23:16:36
+That seems worse than level. Like, we're gonna get sucked in.
+
+[GM] 23:16:45
+Um…
+
+[GM] 23:16:48
+I don't. It doesn't say anything about like it altering the.
+
+[GM] 23:16:53
+airflow.
+
+[GM] 23:16:58
+I guess maybe maybe it's like.
+
+[GM] 23:17:03
+Just for the purposes of air circulation in the station.
+
+[GM] 23:17:07
+The name of the room is huge fan. You've you've got you've found a huge fan of yours.
+
+[GM] 23:17:17
+Yeah, I have no idea.
+
+[GM] 23:17:26
+It's not going to suck you in. It doesn't say it sucks you in.
+
+[GM] 23:17:31
+Um… So it's not gonna suck you in.
+
+[Dex Miro] 23:17:33
+I mean.
+
+[Ink] 23:17:36
+So it couldn't pass through here to 32A.
+
+[Dex Miro] 23:17:38
+A 90 meter fence bidding at 3,000 Rpm has got to do something.
+
+[GM] 23:17:43
+Right? I'm just gonna assume it's, like, in a direction that doesn't directly affect like maybe if you enter the room, then it like affects you.
+
+[Dex Miro] 23:17:52
+Yeah.
+
+[GM] 23:17:57
+Mm-hmm. Uh, the only way that you can access 32a is by stopping the fan, though.
+
+[Ink] 23:18:14
+Interesting. Does any power source for it, like wires to it or anything like that, a control pen?
+
+[GM] 23:18:23
+Um…
+
+[GM] 23:18:30
+There are definitely wires running to it. It's got to be powered somehow. It can't just be spinning freely.
+
+[Zeke Sinclair] 23:18:37
+start cutting some of them.
+
+[Ink] 23:18:40
+Yeah. Can I do really get so I can turn the fan off on.
+
+[GM] 23:18:49
+can you jerry rig it?
+
+[Ink] 23:18:50
+I wanna… I wanna be able to turn the fan off and on.
+
+[GM] 23:18:54
+the Warriors are not. not near you.
+
+[Ink] 23:18:55
+Thanks, that's right.
+
+[GM] 23:18:59
+So they run to the thing.
+
+[Ink] 23:19:01
+Yeah, can I go and investigate wires without getting chopped up?
+
+[GM] 23:19:05
+No. you would probably get chopped up if you tried to.
+
+[Ink] 23:19:06
+I get chopped up.
+
+[GM] 23:19:12
+to go into the room to try and mess with the wires.
+
+[Ink] 23:19:14
+Oh, the wire's on the other side of the thing.
+
+[GM] 23:19:17
+Yeah, yeah.
+
+[Zeke Sinclair] 23:19:18
+I like the fan blocks the door.
+
+[GM] 23:19:22
+Well, fan blocks access to 32A. Um…
+
+[GM] 23:19:29
+I would say it's probably probably take you about a good majority of this room.
+
+[Ink] 23:19:30
+In the past.
+
+[GM] 23:19:37
+If you enter the room, you'll get sucked into the fan probably.
+
+[GM] 23:19:42
+and the wires are not immediately next to this.
+
+[Zeke Sinclair] 23:19:44
+Okay.
+
+[GM] 23:19:47
+the store.
+
+[Zeke Sinclair] 23:19:49
+Can we throw an NPC into the fan? Do we think that'll stop the thing?
+
+[Murderbot V2] 23:19:53
+Oh my god!
+
+[GM] 23:19:55
+You certainly could.
+
+[Murderbot V2] 23:19:58
+Which one?
+
+[Ink] 23:19:59
+Um, kind of throw on the heads, can I throw the alarming heads into the fans?
+
+[GM] 23:20:03
+Sure.
+
+[Murderbot V2] 23:20:06
+No…
+
+[GM] 23:20:15
+Are you kidding me?
+
+[GM] 23:20:20
+Huh. Okay. That's strange.
+
+[Dex Miro] 23:20:25
+Are the heads still going, making noise?
+
+[GM] 23:20:27
+No, no, no, they turned off. Shortly after they started going.
+
+[GM] 23:20:33
+Um, you go turn around and, um… to go grab the heads.
+
+[GM] 23:20:45
+You hear coming down the hallway. sort of at the it's already past the juncture, and you.
+
+[GM] 23:20:56
+noise, like, metal scraping on metal. You shine your light down the hallway.
+
+[GM] 23:21:04
+And… let me see if I can find a picture of mine.
+
+[GM] 23:21:08
+you see humanoid figure, but his fingers are. shaped like blades. And they're.
+
+[GM] 23:21:21
+like a couple feet long each. Yep.
+
+[Dex Miro] 23:21:24
+beat.
+
+[GM] 23:21:34
+Mm-hmm.
+
+[Dex Miro] 23:21:44
+So he's dragging the blades on the ground while he's walking or something.
+
+[GM] 23:21:52
+Uh, they're attached to him.
+
+[Dex Miro] 23:21:54
+Right, but there was scraping and they're just scraping on the ground or something.
+
+[GM] 23:21:59
+Yeah. Let me see if I don't have a great. I don't have the picture cut out. I don't know. I didn't cut it out, but I'm going to share my screen.
+
+[Dex Miro] 23:22:02
+is.
+
+[GM] 23:22:10
+Um… See this guy?
+
+[GM] 23:22:14
+I don't think I can zoom in any more than that.
+
+[GM] 23:22:20
+Do you see him? That's what he looks like.
+
+[Dex Miro] 23:22:22
+Yeah.
+
+[Ink] 23:22:28
+That's too slow. Oh, keep zooming on again.
+
+[Murderbot V2] 23:22:32
+What the what?
+
+[Ink] 23:22:36
+I thought he was gonna look like scary Terry.
+
+[GM] 23:22:41
+He said he's straight for you. uh… Yeah.
+
+[Dex Miro] 23:22:45
+Quickly or slowly?
+
+[Zeke Sinclair] 23:22:48
+No gradient descent, don't do it.
+
+[GM] 23:22:55
+That's the name of the module, Zeke. I like the idea, though. His name specifically is grand descent.
+
+[Murderbot V2] 23:23:00
+It's gradient desert.
+
+[Zeke Sinclair] 23:23:03
+I thought it was. Like, is he the training robot?
+
+[GM] 23:23:10
+Um…
+
+[GM] 23:23:14
+So the six of you are on this side, and the three are on the other side. Okay.
+
+[GM] 23:23:20
+He's hurrying along to get you.
+
+[Ink] 23:23:24
+I tossed an EMT grenade at him.
+
+[GM] 23:23:26
+Sure. make a combat check with.
+
+[Ink] 23:23:29
+It's my last CMP.
+
+[GM] 23:23:34
+advantage.
+
+[Ink] 23:23:50
+goes right through him always. I'm gonna remove things from my list.
+
+[GM] 23:23:55
+All right. You throw it, it detonates right next to him. It was like kind of an excellent throw.
+
+[GM] 23:24:06
+Would we say that the. EMP grenades did damage like.
+
+[GM] 23:24:15
+And…
+
+[Ink] 23:24:15
+I can't remove things from OS.
+
+[Dex Miro] 23:24:19
+I guess this is where we find out which of us are androids.
+
+[GM] 23:24:24
+Um…
+
+[GM] 23:24:31
+I guess we're just doing straight up… 3D 10.
+
+[GM] 23:24:41
+Oh, let me… let me search for this on…
+
+[Ink] 23:24:48
+That's what's crappy bull.
+
+[Dex Miro] 23:24:52
+Yeah.
+
+[Ink] 23:24:54
+Oh, that that's really bad.
+
+[GM] 23:25:22
+Um…
+
+[GM] 23:25:28
+No.
+
+[GM] 23:25:34
+That's… What is this even for?
+
+[GM] 23:26:17
+Yeah, I don't know. Hmm.
+
+[Ink] 23:26:24
+We're in 0G.
+
+[GM] 23:26:26
+We're in 0 G.
+
+[GM] 23:26:44
+It can't be right, can it?
+
+[GM] 23:26:49
+All right. As you throw the grenade at him, he kind of.
+
+[GM] 23:26:56
+puts up his his fingers to shield himself. and the the blast does not do that much damage.
+
+[Zeke Sinclair] 23:27:09
+Then, as a human victim. suddenly every single person who was still sitting down rose up to their feet.
+
+[GM] 23:27:10
+What does everybody else want to do?
+
+[Zeke Sinclair] 23:27:18
+face-to-face with a model of gently. She is. Um… I want to like.
+
+[GM] 23:27:21
+Aaron's DMing the hell out of that storybook.
+
+[Zeke Sinclair] 23:27:30
+dive… we're out of the way at the last second, so he charges into the fan.
+
+[GM] 23:27:34
+Okay. So if you're close enough to the fan, you're not the the one that needs to be worried about being charged right now.
+
+[Zeke Sinclair] 23:27:34
+I don't think that'll…
+
+[Ink] 23:27:34
+Yeah, right.
+
+[Zeke Sinclair] 23:27:46
+Hmm.
+
+[Dex Miro] 23:27:48
+Is there, it can clearly see all of us already.
+
+[GM] 23:27:52
+Yeah.
+
+[Dex Miro] 23:27:53
+So there's no like corner we could retreat around or anything like that.
+
+[GM] 23:28:01
+Um, there's kind of a corner insofar as…
+
+[Dex Miro] 23:28:08
+Is there an alcove around the corner that I could hide and wait for it to pass me?
+
+[GM] 23:28:12
+because it's not to 31F yet. So you can kind of like… get close to the doorway like Zika is.
+
+[GM] 23:28:21
+and you're out of line of sight of. of him.
+
+[Dex Miro] 23:28:27
+But do I see somewhere where I could hide and wait for it to pass and give it the turbo sludge in the back or something?
+
+[GM] 23:28:32
+Sure.
+
+[Dex Miro] 23:28:33
+Okay, then I'm going to do that. But that plan only works if other people also retreat.
+
+[Ink] 23:28:39
+And I'm gonna run towards the fan and stay out in the open and lure and distract him towards me then, if that makes sense. I'll say, come on, Scary Terry.
+
+[Ink] 23:28:48
+Come get me. Yeah, I'm going with your plan, but combined with Dex's plan, sledgehammer him in the back.
+
+[Zeke Sinclair] 23:28:50
+Well, you're going with my plan?
+
+[GM] 23:28:50
+Okay.
+
+[Zeke Sinclair] 23:28:56
+All right. This is good.
+
+[Murderbot V2] 23:28:57
+Hold on, I think I can just…
+
+[Ink] 23:28:58
+I'm gonna activate my mag boots, too, so I don't get stuck in the pan.
+
+[GM] 23:29:02
+Okay. Zeke had this great heroic plan, but he's like, wait, I got mag boots.
+
+[Zeke Sinclair] 23:29:03
+Go ahead, Mag, please? I should have thought of that.
+
+[Murderbot V2] 23:29:03
+GM, can I just… okay, so…
+
+[Zeke Sinclair] 23:29:12
+I don't think I have mag boots. I have… Where did you say that? I have tape. Can I put tape on my shoes?
+
+[Dex Miro] 23:29:14
+You should have liked this.
+
+[Murderbot V2] 23:29:14
+You should have mag boots. Everybody's got mag boots.
+
+[Murderbot V2] 23:29:20
+No, you have mad boots, dummy.
+
+[Zeke Sinclair] 23:29:22
+Okay.
+
+[Murderbot V2] 23:29:24
+Hey, hold on. GM!
+
+[GM] 23:29:26
+He's like, guys, are mag boots just tape on the bottom of your shoes?
+
+[Zeke Sinclair] 23:29:30
+Same, right?
+
+[Murderbot V2] 23:29:32
+GM, is it really… does it really look like Scary Terry?
+
+[GM] 23:29:36
+I mean, I I don't know what Ink's referencing. Did that guy look like Scary Terry Ink?
+
+[Murderbot V2] 23:29:41
+No, it's the picture that he put up.
+
+[Ink] 23:29:43
+He does that, she actually does look like Scary Terry. Scary Terry is a Rick and Morty character.
+
+[Murderbot V2] 23:29:47
+is Rick and Morty.
+
+[GM] 23:29:48
+Yeah, yeah, oh, yeah, yeah, yeah, okay, I know it, I know, I know it's… I know. I know what you're talking about. He's got a testicle face.
+
+[Ink] 23:29:50
+That's why that joke fell so flat. I was like, why didn't nobody laugh?
+
+[Murderbot V2] 23:29:53
+No, I know Scary Terry.
+
+[Ink] 23:29:55
+Yeah, you… Yeah, I put it in the… he's in the chat.
+
+[Murderbot V2] 23:30:00
+Yeah. He's in the chat. Um, okay, so, and he's got, he's got, like, Freddy Krueger hands, is that right?
+
+[GM] 23:30:01
+Oh, yeah, I didn't look them up.
+
+[GM] 23:30:07
+Yeah, yeah, basically.
+
+[Murderbot V2] 23:30:07
+Okay. Can't… with my… like, I-I don't know, I think, as an android, don't I have, like…
+
+[Murderbot V2] 23:30:14
+Lots of strength, or no?
+
+[GM] 23:30:17
+You have your… your strength.
+
+[Ink] 23:30:18
+No, I'm stronger than you. Yeah.
+
+[Murderbot V2] 23:30:19
+Oh, you're stronger than me?
+
+[Murderbot V2] 23:30:20
+Shit, I was just gonna try and, like, pick him up and throw him into the fan.
+
+[GM] 23:30:28
+There you go. That's what he looks like. Uh, you could try.
+
+[Murderbot V2] 23:30:30
+Is that even possible?
+
+[Ink] 23:30:34
+If you roll well enough.
+
+[Murderbot V2] 23:30:37
+Yeah, this just looks like a… like a…
+
+[Murderbot V2] 23:30:42
+like a…
+
+[Ink] 23:30:43
+It also slice you through.
+
+[Murderbot V2] 23:30:44
+an Android gone wrong here.
+
+[Murderbot V2] 23:30:46
+Um,
+
+[Murderbot V2] 23:30:49
+Do we know… so…
+
+[Murderbot V2] 23:30:51
+Okay, can you give me, um…
+
+[Murderbot V2] 23:30:55
+The fan is behind us, is that right?
+
+[GM] 23:30:58
+Yeah. Yep. Mm-hmm. Mm-hmm.
+
+[Murderbot V2] 23:30:58
+And this thing is coming toward us, toward the fan.
+
+[Murderbot V2] 23:31:01
+Is that right, too? Okay, and the fan, the suction is… the fan is blowing stuff into itself.
+
+[Murderbot V2] 23:31:08
+Is that correct, as well?
+
+[GM] 23:31:10
+It's it's directing wind. or error perpendicular to you guys right now.
+
+[Murderbot V2] 23:31:11
+Let's the
+
+[Murderbot V2] 23:31:18
+Perpendicular to us.
+
+[GM] 23:31:19
+So you'd have to go in the room before.
+
+[Murderbot V2] 23:31:22
+Oh, oh, oh, oh, oh, I see, okay, we turned the corner.
+
+[Murderbot V2] 23:31:27
+there's a corner, and if I… if…
+
+[Murderbot V2] 23:31:31
+We can direct it around the corner, it'll be sucked into the fan.
+
+[GM] 23:31:34
+If you could get it through the door. Yeah.
+
+[Murderbot V2] 23:31:40
+It hasn't said anything.
+
+[GM] 23:31:42
+No. I mean, it's got the… it's got its head tilted, so you know it's clearly crazy.
+
+[Murderbot V2] 23:31:42
+It's just approaching us.
+
+[Murderbot V2] 23:31:48
+We don't know that, he just could be, you know…
+
+[GM] 23:31:50
+I mean, that's what he looks like. could be drunk.
+
+[Murderbot V2] 23:31:51
+Could be drunk.
+
+[GM] 23:31:55
+But he hasn't. He hasn't said anything like scary Terry would have.
+
+[Murderbot V2] 23:31:56
+Could be asking for help?
+
+[Murderbot V2] 23:32:00
+Yeah, it could be… Hey, bitches.
+
+[Murderbot V2] 23:32:06
+Could be asking… could be… could be wondering what's going on, you know?
+
+[Murderbot V2] 23:32:10
+Yeah?
+
+[Murderbot V2] 23:32:13
+Um…
+
+[Murderbot V2] 23:32:15
+Who… who is in this group again?
+
+[Zeke Sinclair] 23:32:15
+Good evening.
+
+[GM] 23:32:19
+It's everybody plus Noriko.
+
+[Murderbot V2] 23:32:19
+Me? Okay, look, can we do, like, closest to furthest to the, uh, to the corner?
+
+[GM] 23:32:26
+What's that?
+
+[Murderbot V2] 23:32:27
+the list of people closest to the Scary Terry to the corner…
+
+[Murderbot V2] 23:32:33
+around the fan.
+
+[GM] 23:32:34
+Well, I don't know where Karnak is or where you are.
+
+[Murderbot V2] 23:32:40
+Oh.
+
+[Murderbot V2] 23:32:41
+Let's say I'm the closest to the thing.
+
+[Murderbot V2] 23:32:44
+And then Carnoc is behind me, maybe?
+
+[GM] 23:32:45
+Okay. Okay.
+
+[Carnoc Ashbrow] 23:32:47
+Okay, sure.
+
+[Murderbot V2] 23:32:48
+And then who's after that?
+
+[GM] 23:32:51
+Then kind of Dex. Dex's a little bit like equidistant from as Karnak done because but he's hiding.
+
+[Murderbot V2] 23:32:56
+Okay.
+
+[Murderbot V2] 23:32:58
+And then…
+
+[GM] 23:33:01
+And then ink and Zik are at the door.
+
+[Murderbot V2] 23:33:02
+Zeke and Ink?
+
+[Murderbot V2] 23:33:05
+are at the door. The door needs to be opened up, or it's already open.
+
+[GM] 23:33:08
+No, it's it's open already. I'll be right back.
+
+[Murderbot V2] 23:33:09
+It's already open, okay.
+
+[Murderbot V2] 23:33:16
+Can't we just all rush him, all five of us? Grab, like, someone grab an arm, grab another arm, someone grab a leg, I grab a leg, someone grabs a head?
+
+[Dex Miro] 23:33:23
+I don't want to grab those blades, do you?
+
+[Ink] 23:33:25
+Wow. Yeah, I think we want to get… let them get a little bit closer, maybe. We also don't want our back seats.
+
+[Ink] 23:33:31
+Snap through.
+
+[Murderbot V2] 23:33:33
+I mean, I think I could get stabbed a couple times without having really any issues, no?
+
+[Ink] 23:33:39
+Yeah, but once you're vaccinated, you're going to try to move back to the orange sludge.
+
+[Murderbot V2] 23:33:44
+Wait, what, what, what, what? Say that again?
+
+[Ink] 23:33:47
+31E, we pass through orange sludge that you don't want to touch your skin. You have human-like skin.
+
+[Murderbot V2] 23:33:52
+Oh, this thing passed… this thing is covered in it, so we can't touch them?
+
+[Ink] 23:33:56
+No, no, no, he's not. We went through 31E to get here. The reason that we don't have the other 3 NPCs is that they couldn't go through that room, because they have no vaccines.
+
+[Murderbot V2] 23:34:04
+Oh, okay. Oh, you don't want… I… I don't want my vac suit to be pierced, that's what you're saying.
+
+[Ink] 23:34:06
+Usually. That's what we want to… we would prefer if it wasn't pierced. I think the plan is we have our Meg boots on, he doesn't have Meg boots. The hope would be that if… if, uh, if a deck sits in real hard in the back, that, um.
+
+[Murderbot V2] 23:34:11
+Oh, I gotcha.
+
+[Murderbot V2] 23:34:13
+I see.
+
+[Ink] 23:34:22
+Then maybe we can go flying through, and Zeke and I can lure him into the room, that he'll get sucked in through.
+
+[Murderbot V2] 23:34:26
+Yeah, but how do we get… how do we get it past us without having it, like, s…
+
+[Murderbot V2] 23:34:32
+like, flailing and cutting us, right?
+
+[Ink] 23:34:33
+Well, I… I just… I just threw a grenade at him, and I'm… I'm, you know, telling him, yeah.
+
+[Ink] 23:34:39
+I'm gonna get your children, right?
+
+[Murderbot V2] 23:34:42
+So, but the grade didn't do anything, so does that mean it wasn't mechanic?
+
+[Ink] 23:34:45
+He deflected it pretty, pretty well, yeah.
+
+[Murderbot V2] 23:34:49
+It's not mechanical?
+
+[Murderbot V2] 23:34:52
+Or electrical?
+
+[Ink] 23:34:54
+He held up. I rolled an 8 off of a 3D10, so…
+
+[Murderbot V2] 23:34:59
+Yeah, that's not good.
+
+[Ink] 23:35:01
+and he put his hands up and blocked it. I don't know why the MP didn't do anything to him.
+
+[Murderbot V2] 23:35:05
+Right, exactly.
+
+[Ink] 23:35:07
+He may have protection against that.
+
+[Dex Miro] 23:35:11
+Yeah, I thought it's weird.
+
+[Murderbot V2] 23:35:13
+Alright, what else… what does everybody have in their gear?
+
+[Murderbot V2] 23:35:18
+Fuck me. I didn't think that… I forget just… why wasn't I thinking that it could penetrate?
+
+[Dex Miro] 23:35:24
+Sock are just like standing in the middle of the hallway waiting for this thing to slice them.
+
+[Murderbot V2] 23:35:31
+I got purple crystals!
+
+[Dex Miro] 23:35:34
+Do you? I don't know if you actually still have those.
+
+[Murderbot V2] 23:35:36
+Oh, really?
+
+[Murderbot V2] 23:35:39
+Maybe not. Um, we can try and, like…
+
+[Murderbot V2] 23:35:42
+I mean, this looks mechanical.
+
+[Murderbot V2] 23:35:46
+Right? We can do some espernetic feedback.
+
+[Ink] 23:35:50
+Yeah, I think as predicted feedback to hit.
+
+[Murderbot V2] 23:35:53
+I'll try espernetic feedback and see if that happens. If not, then I'll just…
+
+[Murderbot V2] 23:35:58
+you know, turn my mag boots on and go toward you guys. I don't know what else to do.
+
+[Ink] 23:36:02
+Well, I like the idea of you standing getting behind him, too, right? So that… We don't have just X trying to hit him.
+
+[Murderbot V2] 23:36:11
+Yeah…
+
+[Ink] 23:36:11
+I'm gonna try to keep it focused on coming towards me, right? And you and Dex are going to hit it in the back, and Carnoc, all three of you, so if you guys can stay hidden enough that he walks by you, because I just… I just picked him up, hopefully, by throwing a grenade at him.
+
+[Murderbot V2] 23:36:25
+Yeah, but, like, I'm… I'm… it's me…
+
+[Murderbot V2] 23:36:30
+Carnoc and Dex, and then you and Zeke.
+
+[Murderbot V2] 23:36:34
+Right? I'm the closest to it, I gotta get behind them somehow, right?
+
+[Ink] 23:36:36
+Yeah. Well, you could do, like, what Dex just did. He went and hit around the corner out of the way.
+
+[Murderbot V2] 23:36:45
+Oh, there's another corner?
+
+[Ink] 23:36:49
+I don't know exactly how it looks, but I…
+
+[Murderbot V2] 23:36:54
+Like, once you turn the corner, isn't it so fast, or the fan is gonna start sucking? Or…
+
+[Murderbot V2] 23:37:00
+Because of our mag boots, we can… we…
+
+[Ink] 23:37:03
+I'm hoping my mag boots will keep me from getting sucked in. We're right at the doorway right now.
+
+[Murderbot V2] 23:37:06
+Yeah, has anyone tested to see if, like, our mag boots are…
+
+[Murderbot V2] 23:37:10
+Strong enough to keep us from flying.
+
+[GM] 23:37:13
+Noriko does. She jumps out through the door. I don't know. Do you say that?
+
+[Ink] 23:37:14
+We haven't yet, no.
+
+[Murderbot V2] 23:37:16
+No fucking way. Are you serious?
+
+[Dex Miro] 23:37:18
+Oh.
+
+[GM] 23:37:23
+You're like, are you, like, debating this idea openly?
+
+[Murderbot V2] 23:37:26
+Yeah, we were sitting there going, like, oh, are the mag boosts strong enough?
+
+[GM] 23:37:32
+Yeah, she's… she's like, the minotaur will protect me.
+
+[Murderbot V2] 23:37:35
+Oh, shit. And then?
+
+[GM] 23:37:38
+She jumps to the door and activates her mag boots.
+
+[Murderbot V2] 23:37:41
+And… and Dan?
+
+[GM] 23:37:43
+And then she is attached to the wall and not sucked into the fan.
+
+[Murderbot V2] 23:37:48
+Alright, fuck it, everyone out the door.
+
+[GM] 23:37:50
+You hear her scream as as her as her.
+
+[GM] 23:37:55
+Her ankles break.
+
+[Dex Miro] 23:38:02
+Oh.
+
+[Murderbot V2] 23:38:09
+Oh, shit!
+
+[Zeke Sinclair] 23:38:12
+You just put tape on her shoes instead of magnets. It will solve that problem.
+
+[Ink] 23:38:16
+Oh, God!
+
+[Dex Miro] 23:38:18
+But then she would have gotten sucked into the fat instead of breaking wrinkles.
+
+[Zeke Sinclair] 23:38:20
+Well, her ankles would be okay.
+
+[Murderbot V2] 23:38:23
+No. Oh, fuck!
+
+[Dex Miro] 23:38:26
+You're you're the best doctor.
+
+[Murderbot V2] 23:38:28
+Oh, no!
+
+[Murderbot V2] 23:38:31
+Oh, shit. That was so funny.
+
+[Ink] 23:38:34
+Oh, kept her alive for so long!
+
+[GM] 23:38:38
+It's fine, just broken ankles, now you just have to figure out how to turn off the fan.
+
+[Ink] 23:38:42
+Oh, she's just dangling there.
+
+[GM] 23:38:44
+She's… yeah, just, like, the…
+
+[Murderbot V2] 23:38:44
+Yeah, she's… she's outside the door, and the pan is sucking her!
+
+[Ink] 23:38:48
+Okay, so she's not sucked into the fan and, like, didn't suck her out of her boots. She's got broken ankles.
+
+[GM] 23:38:51
+No, no, no, no, it… It's just the force of the wind was such that, like, because her mag boots are holding her in place the rest of her body rotated around the… the fulcrum is her ankle, so…
+
+[Murderbot V2] 23:38:51
+No, no, no, this is…
+
+[Murderbot V2] 23:38:54
+Ripped the fu-
+
+[Ink] 23:39:04
+God, the sound that it made.
+
+[Murderbot V2] 23:39:08
+Here, let's just use her body as a brace, so that we don't break our ankle.
+
+[Murderbot V2] 23:39:16
+Oh, no…
+
+[Murderbot V2] 23:39:20
+You have to find a way to… to turn the fan off then, but that's the only way to defend against this stupid thing.
+
+[Ink] 23:39:27
+We're gonna use VIN to turn the fan off, it's my plan.
+
+[Zeke Sinclair] 23:39:31
+Yeah, I mean, it's not like we have a lot of time to, like, you know, do anything complicated right now. We're getting charged at.
+
+[Murderbot V2] 23:39:37
+Yeah, I mean, if anything, I'll break my ankles after… I'll try…
+
+[Murderbot V2] 23:39:42
+GM, I'll try an Espernetic at him.
+
+[GM] 23:39:47
+Okay. I don't know.
+
+[Murderbot V2] 23:39:47
+What do I roll?
+
+[GM] 23:39:50
+That's that's a you thing.
+
+[Ink] 23:39:51
+It says on the… it says on the espernetic thing what you're supposed to roll. Yeah, you have to roll a certain thing for it so it doesn't fail. I have in this spreadsheet somewhere.
+
+[Murderbot V2] 23:39:52
+Intellect.
+
+[Murderbot V2] 23:39:54
+Oh, it does? Oh, shit, um…
+
+[Murderbot V2] 23:39:58
+Uh, let's take a look. I have it, I have it.
+
+[Murderbot V2] 23:40:01
+Um… make a sanity save.
+
+[Dex Miro] 23:40:03
+I don't think we have a particularly good track record on this, by the way, but…
+
+[Murderbot V2] 23:40:06
+Make a sanity save a plus… make a sanity save plus? Does that mean width?
+
+[GM] 23:40:10
+That means with advantage.
+
+[Murderbot V2] 23:40:11
+advantage. If successful, deal damage equal to the amount rolled.
+
+[Murderbot V2] 23:40:15
+On failure, take one damage.
+
+[Ink] 23:40:15
+I didn't know it was with Advantage. Shoot, we might have had more espernetic hits.
+
+[Murderbot V2] 23:40:16
+And getting one stress. Alright.
+
+[Murderbot V2] 23:40:21
+Sanity safe.
+
+[Ink] 23:40:21
+Hey, GM, the ESP didn't do anything to him.
+
+[Ink] 23:40:23
+Part of that grenade.
+
+[GM] 23:40:25
+The the Mp did do damage. It's just it.
+
+[GM] 23:40:29
+didn't do a whole lot of damage. Uh, 25 is a save, so that's how much damage you do.
+
+[Murderbot V2] 23:40:30
+Oh, just didn't.
+
+[Ink] 23:40:31
+Gotcha. Nice job.
+
+[Murderbot V2] 23:40:36
+F…
+
+[Murderbot V2] 23:40:37
+So I'm… they did that much damage!
+
+[GM] 23:40:41
+You like squint your eyes and put your fingers to your your temples, and…
+
+[Murderbot V2] 23:40:44
+Why is it gonna be squinting my eyes, bro?
+
+[Murderbot V2] 23:40:48
+What? What?
+
+[GM] 23:40:49
+Because you're focusing. I guess maybe it's the opposite for you, and you're just like, you're… you're… your eyes get whiter, and you're like, oh.
+
+[Murderbot V2] 23:40:50
+Why does it get… why's it gotta be like that, bro?
+
+[Murderbot V2] 23:40:57
+Well, I's get wider.
+
+[Murderbot V2] 23:41:00
+Goddamn!
+
+[Murderbot V2] 23:41:03
+No, it's okay, it looked like John Cena, so maybe I should be squinting.
+
+[GM] 23:41:11
+regardless, you you sense that you see like some sparks shoot out of the like the back of his head, but he does not seem deterred at all by by that.
+
+[Murderbot V2] 23:41:17
+Nice. Does slow down.
+
+[Murderbot V2] 23:41:21
+Alright, I'm gonna move toward the door more clo- to pass.
+
+[Murderbot V2] 23:41:26
+pass people by.
+
+[GM] 23:41:27
+Okay, Karnak?
+
+[Carnoc Ashbrow] 23:41:32
+Um, yeah, I'll… follow.
+
+[Murderbot V2] 23:41:36
+I'm gonna take some shots, man.
+
+[GM] 23:41:37
+Okay.
+
+[Carnoc Ashbrow] 23:41:42
+All right. But it'll take some chats. It won't mind follows.
+
+[GM] 23:41:44
+Okay.
+
+[GM] 23:42:00
+Alright, uh, that'll hit.
+
+[Dex Miro] 23:42:05
+What gun do you have these days?
+
+[Carnoc Ashbrow] 23:42:07
+The Wilson G. What should I do now?
+
+[Ink] 23:42:13
+Yeah, his Mark III would have put holes in it.
+
+[Ink] 23:42:15
+The wall, right?
+
+[Dex Miro] 23:42:17
+The Wilbur, yeah.
+
+[GM] 23:42:24
+This is, uh… Small arms fire.
+
+[GM] 23:42:40
+Gunshot. You shoot it in the chest.
+
+[GM] 23:42:46
+uh, it begins leaking, uh… white fluid profusely from the chest wound that you gave it.
+
+[Ink] 23:42:55
+place.
+
+[Carnoc Ashbrow] 23:42:59
+this. not follow murder bot.
+
+[GM] 23:43:06
+it hurries along, turning the corner seems focused on the 4 of you that are lined up in front of the door.
+
+[Murderbot V2] 23:43:07
+Well, I'll be right back.
+
+[GM] 23:43:17
+And Dex pops out from behind, tries to hammer time it.
+
+[Dex Miro] 23:43:22
+Turbo Sledge.
+
+[GM] 23:43:23
+Turbo Sledge. I think you need to make a strength check.
+
+[Dex Miro] 23:43:29
+Okay.
+
+[GM] 23:43:30
+Because I think that's right.
+
+[Dex Miro] 23:43:33
+I might be the weakest one in this group.
+
+[Dex Miro] 23:43:37
+normal.
+
+[GM] 23:43:37
+you know, we… you have a turbo sludge. Oh, let me double check turbo sledge says.
+
+[GM] 23:43:42
+Choir strength check to use just normal. Um, do you have any reason why a particular skill would add to your strength check?
+
+[Dex Miro] 23:43:44
+Okay.
+
+[Dex Miro] 23:43:52
+0 G heavy machinery seemed like the only 2 remotely applicable things.
+
+[GM] 23:43:57
+Are those both basic skills? Yeah, go ahead and add either one of them.
+
+[Dex Miro] 23:44:00
+Yeah, they're both basic. And unless we think somehow this turbo sludge is an asteroid mining tool.
+
+[GM] 23:44:09
+It very well may be. Is that, like, a 15 a 15 thing?
+
+[Dex Miro] 23:44:12
+Yeah, that's a 15%. Yeah.
+
+[GM] 23:44:14
+Yeah, we could… we could do that.
+
+[Dex Miro] 23:44:18
+Do I use the skill instead of the strength check then, or how does that work?
+
+[GM] 23:44:20
+I think you do string check plus the skill, right?
+
+[Dex Miro] 23:44:25
+I just can't remember if you can click on it. Yeah, you can.
+
+[GM] 23:44:28
+Yeah. Yeah. Yeah.
+
+[Dex Miro] 23:44:28
+So then still normal, but with the skill, right?
+
+[GM] 23:44:38
+Is it like like automatically?
+
+[Dex Miro] 23:44:42
+a natural one in this game. I don't know.
+
+[GM] 23:44:44
+a crit? Is that automatically a crit? Because, like.
+
+[GM] 23:44:52
+I'll have to check maybe anything underneath at 10 is a crit.
+
+[Dex Miro] 23:44:57
+Yeah, probably.
+
+[GM] 23:44:57
+Zeus… can you… like, is there… is there a certain number of automatic things that are sort of successful, but cannot be counted as crits because you need the same.
+
+[GM] 23:45:08
+number on…
+
+[Dex Miro] 23:45:10
+like, can you roll a 00? Like, does this?
+
+[Dex Miro] 23:45:16
+I don't know, I never know what this crazy formula means. 1d 100 minus one Cs. One Cf. 99.
+
+[GM] 23:45:23
+Okay, when you roll doubles. Okay, so no, it's it's.
+
+[Dex Miro] 23:45:26
+Like it says I ruled 2 minus one. So I think a 0 would be a crit, but a one is not.
+
+[GM] 23:45:30
+Right, right, right, because it says 0 0 should be a.
+
+[Dex Miro] 23:45:35
+Yeah.
+
+[GM] 23:45:36
+A crit. So this is technically 01.
+
+[GM] 23:45:41
+All right. Success! You hit it. Um, you do 4010.
+
+[Ink] 23:45:48
+You know, the arms didn't come dislodged. Thank God.
+
+[Dex Miro] 23:45:56
+I don't know how to do the damage roll.
+
+[Dex Miro] 23:45:59
+Maybe I was… Okay, I guess that was supposed to just do this and then then it does the damage roll, too.
+
+[GM] 23:46:00
+That's…
+
+[GM] 23:46:08
+29. Um… slammed the, uh… There was 25, 8, and 8, 43, 51.
+
+[GM] 23:46:22
+So that's 80. Okay. Slam the, uh… Turbo Sledge and the back of its head.
+
+[Murderbot V2] 23:46:35
+And then…
+
+[GM] 23:46:36
+Hmm. And then 7 blunt force… uh… You hear its skull crack.
+
+[Dex Miro] 23:46:36
+and.
+
+[GM] 23:46:48
+its head spins around and faces you. its arms spin around and face you.
+
+[Dex Miro] 23:46:53
+All right.
+
+[GM] 23:46:54
+uh. and it, I think, attacks you.
+
+[Murderbot V2] 23:46:58
+Oh, shit.
+
+[GM] 23:46:59
+because it's. That's… long, thin needle-like fingers.
+
+[Murderbot V2] 23:47:06
+Oh, shit.
+
+[GM] 23:47:09
+31F.
+
+[Dex Miro] 23:47:10
+I really thought that was gonna finish it off.
+
+[Ink] 23:47:15
+He just stood and took it too. He didn't, like, fly.
+
+[Dex Miro] 23:47:19
+Mm-hmm. Okay.
+
+[GM] 23:47:19
+Well, he has… in order to fly. you have to roll a critical.
+
+[GM] 23:47:28
+Um…
+
+[Ink] 23:47:34
+Can we grab him now that he's turned around and…
+
+[GM] 23:47:38
+Hold on. I haven't done my thing yet.
+
+[Ink] 23:47:41
+Yeah.
+
+[GM] 23:47:57
+Alright. C 50. What disadvantage?
+
+[GM] 23:48:11
+It tries to stab at you with one of its needle fingers.
+
+[GM] 23:48:18
+But it seems disoriented, and the. Needle goes, you're able to push yourself out of the way before it strikes you.
+
+[Ink] 23:48:40
+Now, please rapid.
+
+[GM] 23:48:41
+Uh, now it's your guys' turn, yeah.
+
+[Dex Miro] 23:48:45
+So that was, like, its turn. All right.
+
+[GM] 23:48:48
+Yes.
+
+[Ink] 23:48:48
+Gotcha.
+
+[Dex Miro] 23:48:52
+I've apparently had a shotgun at some point, but I don't know where it came from. So I don't know anything about it.
+
+[Dex Miro] 23:48:58
+I don't know if we even have ammo for it.
+
+[Ink] 23:49:00
+I gave you the shotgun from 33F.
+
+[Dex Miro] 23:49:03
+Okay.
+
+[Dex Miro] 23:49:11
+Can I just?
+
+[Ink] 23:49:14
+3. Can I grab him by the leg, along with, like, motioning the… Who's stronger, Zeke or, uh…
+
+[Ink] 23:49:24
+Where's where's Carnoc?
+
+[Dex Miro] 23:49:26
+I'm very close to it at this point, right? If it was trying to slash me with that.
+
+[Ink] 23:49:29
+But you're not… you're not… you're… you're in front of… or you're… you're between… I want to grab… I gotta grab and pull towards the door.
+
+[Ink] 23:49:38
+And who's with me? Zeke's with me. Murderbot ran back.
+
+[GM] 23:49:41
+Basically, everyone's with you, but, um, but or Dex.
+
+[Ink] 23:49:45
+Oh, Dex was the only one that came, so Carnoc's not on the other side with Dex.
+
+[GM] 23:49:48
+No, it's just decks, and then everybody else is on the other side.
+
+[Ink] 23:49:52
+Alright, so I'm gonna grab a leg, so I'm gonna grab an arm, somebody grab the other leg, and let's just yank this guy, try to toss him to the door.
+
+[GM] 23:50:01
+Sure.
+
+[Dex Miro] 23:50:03
+He's he's probably pretty heavy. Well, this is true.
+
+[Ink] 23:50:06
+It's zero G. And we're we have a we were Mega on the ground, so… We have leverage.
+
+[GM] 23:50:06
+You're in 0 G.
+
+[Dex Miro] 23:50:15
+Okay, but like in in 0g. How did the hammer not do something?
+
+[GM] 23:50:20
+It used its, like, fingers to like prevent it go from going flying anywhere. Yeah.
+
+[Dex Miro] 23:50:23
+Okay, like, grab the hallway and stuff to… Boom, alright, I like this.
+
+[GM] 23:50:26
+Yeah.
+
+[Dex Miro] 23:50:31
+Alright, I mean, I'm right next to it, so can I just point my shotgun at where Carnoc wounded it.
+
+[GM] 23:50:38
+Sure.
+
+[Dex Miro] 23:50:39
+and. Let him have it.
+
+[Dex Miro] 23:50:43
+I don't. What does a shotgun do?
+
+[GM] 23:50:43
+Yeah. Uh, you have to make combat check.
+
+[Dex Miro] 23:50:49
+Yeah.
+
+[GM] 23:50:50
+and then I think it does 40, 10.
+
+[Dex Miro] 23:50:56
+Oh.
+
+[Dex Miro] 23:51:01
+It didn't work maybe because I didn't have the damage set. There we go.
+
+[GM] 23:51:06
+All right.
+
+[GM] 23:51:12
+22. Boom! Shoot it in his chest.
+
+[GM] 23:51:21
+Bunch of little little holes open up. Uh, there's just, you know… a lot of leaking fluid out of the center of that thing.
+
+[Dex Miro] 23:51:33
+It just doesn't seem to care what we do to it.
+
+[GM] 23:51:34
+Um… It seems quite durable.
+
+[Murderbot V2] 23:51:36
+Oh, I thought he was gonna yell, oh, I wanted to be was friends!
+
+[GM] 23:51:44
+Um… All right. So… Inc. Is gonna try and grapple this thing and throw it through the door.
+
+[Ink] 23:51:53
+I like the assistance with that, but yeah, yeah, definitely. I'm gonna grab by his leg and try to toss it to the door.
+
+[Zeke Sinclair] 23:51:54
+I can help you.
+
+[Zeke Sinclair] 23:52:00
+I'll just… I'll grab the other one.
+
+[GM] 23:52:02
+Okay.
+
+[Ink] 23:52:05
+We do strength checks.
+
+[GM] 23:52:09
+Um…
+
+[Ink] 23:52:11
+lifting, pushing, hitting things hard.
+
+[GM] 23:52:13
+I think it's just going to try and resist you.
+
+[GM] 23:52:18
+like it. You should. Yeah, you should be able to move it. No problem. Now it's going to resist. So I was going to try and make essentially a body save.
+
+[GM] 23:52:30
+It. succeeds against… Ink.
+
+[GM] 23:52:38
+Uh, and it fails against. Ducks or sorry, it fails against Zeke.
+
+[Dex Miro] 23:52:46
+Was it just the two of them pulling on the legs or?
+
+[GM] 23:52:49
+Well, that's what I was gonna say. So, like, technically, you guys had to go further in, so this gets… you pull it close enough to the door.
+
+[GM] 23:52:57
+Um… It's at the door, though.
+
+[GM] 23:53:03
+And so we have Karnak and murder bot still.
+
+[Ink] 23:53:08
+Alright, take him to the door.
+
+[Murderbot V2] 23:53:09
+Yeah, I think I'm doing the same thing.
+
+[GM] 23:53:13
+All right, murder bot tries to resist murder bot.
+
+[GM] 23:53:18
+It just succeeds. Yes.
+
+[Murderbot V2] 23:53:18
+That's a succeed!
+
+[Murderbot V2] 23:53:21
+Son of a bitch.
+
+[Murderbot V2] 23:53:23
+How does it succeed against me?
+
+[Ink] 23:53:27
+It's body savor. Damn.
+
+[GM] 23:53:30
+It is. Karnak.
+
+[Murderbot V2] 23:53:35
+Even if I'm like, oh, look, look at Noriko, look at, look at her, she's outside, go look at her!
+
+[Carnoc Ashbrow] 23:53:42
+I'll take another shot at him.
+
+[GM] 23:53:43
+I'm gonna shoot it. Okay.
+
+[Ink] 23:53:46
+Try to push him.
+
+[Ink] 23:53:53
+shooting a Rico that sucks.
+
+[GM] 23:53:55
+Go ahead and do your damage.
+
+[GM] 23:54:18
+You are shooting. You, um… Uh, let's see.
+
+[GM] 23:54:25
+Ink goes to grab its leg, kind of tugs on it, it gets… it sort of, like, grabs the sides of the wall, but then, uh… Zeke tugs on it from a different angle and loosens it. It flies towards the door.
+
+[GM] 23:54:38
+Where Murderbot tries to kick it through, but it grabs the wall again.
+
+[GM] 23:54:45
+Karnak shoots at it, sort of point blank. and as he's shooting it, it kind of.
+
+[GM] 23:54:55
+It gets shot, but it it swipes the the gun which goes flying into the the wind tunnel.
+
+[GM] 23:55:05
+and and the gun has effectively destroyed by the giant.
+
+[GM] 23:55:10
+rotors. Um…
+
+[Carnoc Ashbrow] 23:55:14
+Okay.
+
+[GM] 23:55:20
+Let's see. Liquid is just sort of… spraying everywhere, it's all, like, all of your guys' all of your helmets and stuff.
+
+[GM] 23:55:33
+Um… bleeding.
+
+[GM] 23:55:43
+Um…
+
+[GM] 23:55:47
+7. Um…
+
+[GM] 23:56:00
+Okay. It seems like one of its limbs is no longer functioning properly.
+
+[GM] 23:56:11
+Um…
+
+[Dex Miro] 23:56:12
+complete limb ring, unplayed them.
+
+[GM] 23:56:15
+Yeah, uh, let's see, then it tries to… Um… Touch Karnak.
+
+[Dex Miro] 23:56:19
+Wow.
+
+[GM] 23:56:26
+with its needle finger and it misses.
+
+[GM] 23:56:35
+Okay, you guys go.
+
+[Ink] 23:56:45
+I try to push him or pull it. Which side am I on? I love him now.
+
+[Ink] 23:56:50
+Okay.
+
+[GM] 23:56:50
+Yeah, you can kind of try to do a.
+
+[GM] 23:56:53
+Kick to its chest. Okay.
+
+[Ink] 23:56:56
+Yeah. So I do a comment on that, or he's still going to say.
+
+[GM] 23:56:59
+Nope, it's gonna try and save Caesar coming and tries to brace itself, but its 1 arm isn't working. You kick it into the the fan room.
+
+[Murderbot V2] 23:57:08
+Close the door!
+
+[GM] 23:57:08
+You see, you see its body go spinning up towards the rotors and then as it impacts on the surface, the, um… the there's a bit of like a screeching as the metal shears into the fan, causing it to.
+
+[GM] 23:57:28
+Basically. shred away from the, uh… Um, Axel that's turning it?
+
+[Dex Miro] 23:57:37
+Puerto Rico.
+
+[Murderbot V2] 23:57:40
+Wait, is this whole time while we're kicking the thing is, like, Noriko just yelling the whole time? She's like,
+
+[GM] 23:57:47
+She's… she's screaming Minotaur, save me! Minotaur, save me.
+
+[GM] 23:57:54
+Um, the… fan kind of disintegrates under, like, all the the movement and, uh… And… Let's see.
+
+[GM] 23:58:10
+Um… What was Noriko have to do to survive?
+
+[Murderbot V2] 23:58:16
+Oh, boy.
+
+[GM] 23:58:17
+Just kind of just stuck there, so it's kind of random chance that some big blade thing hits her or not.
+
+[Dex Miro] 23:58:23
+Yeah, that's very I can't visualize what this room looks like, so it's hard to say.
+
+[GM] 23:58:27
+Well, it's the blades themselves are 90 meters wide, right? So it's like…
+
+[Murderbot V2] 23:58:33
+Where's the Minotaur now?
+
+[Murderbot V2] 23:58:41
+I don't know, that's so bad.
+
+[GM] 23:58:42
+Um, let's see. He's stuffed into a closet, that's where he's at.
+
+[Dex Miro] 23:58:49
+Oh, dear.
+
+[Ink] 23:58:50
+I guess he's in, he's in my pocket. His ride memory cards.
+
+[GM] 23:58:52
+Yeah, that's true. So what 50 50 for whether Noriko gets hit or not? It seems like pretty good odds.
+
+[Murderbot V2] 23:59:03
+No, I'll just give her a little bit of the spirit of the Minotaur with her.
+
+[Dex Miro] 23:59:08
+I mean, like you said, she can't really dodge, so it's just luck, right?
+
+[GM] 23:59:13
+All right. Well, I'll do 1D 100 on oops.
+
+[GM] 23:59:21
+Uh, on 55 or below, she succeeds. All right.
+
+[Murderbot V2] 23:59:27
+There you go.
+
+[Murderbot V2] 23:59:29
+Her spirituality, okay, for 5 more points.
+
+[Dex Miro] 23:59:31
+Critical success.
+
+[GM] 23:59:34
+Yeah, she she. So you guys like hear like the shredding this awful shrieking noise as the fans rip apart. And.
+
+[GM] 23:59:49
+blade piece comes flying down towards Noriko. and it.
+
+[GM] 23:59:55
+Kits are just the right angle that she gets her broken ankles set in place.
+
+[Ink] 00:00:03
+But she did do 11.
+
+[GM] 00:00:08
+Um, she still has broken ankles, which means she can't walk on them, but she, uh, at least is no longer in extreme pain.
+
+[Ink] 00:00:12
+Oops.
+
+[GM] 00:00:22
+And… Let's see. Just Murderbot. You're supposed to say no, and then.
+
+[Zeke Sinclair] 00:00:25
+Hmm.
+
+[Murderbot V2] 00:00:29
+What's up? Uh, no, and then, and then? No and then.
+
+[GM] 00:00:31
+No, and then…
+
+[Murderbot V2] 00:00:33
+No, I did.
+
+[Zeke Sinclair] 00:00:38
+Hey guys, I think I gotta sign off here. I gotta…
+
+[GM] 00:00:39
+Uh… Yeah, I'm I'm almost done or…
+
+[Murderbot V2] 00:00:43
+Bye, Zeke!
+
+[Murderbot V2] 00:00:46
+Uh, when's the next, uh, availability-wise, real quick?
+
+[Zeke Sinclair] 00:00:50
+Oh, I was GM finishing up? Hold on.
+
+[GM] 00:00:51
+Yeah, I'm finishing up. We'll be we'll be done here in a second. I got to make a panic check.
+
+[Murderbot V2] 00:00:56
+No panic check.
+
+[Dex Miro] 00:01:02
+Was it Noriko's panic?
+
+[GM] 00:01:05
+Um… No.
+
+[GM] 00:01:10
+All right.
+
+[GM] 00:01:16
+That's it. The fan is more or less destroyed. You have access to 32A.
+
+[Murderbot V2] 00:01:25
+And that creature's gone to… it's destroyed too, right?
+
+[GM] 00:01:28
+that creature is gone and destroyed. you go down into 32a, because you know, all this work was for being able to access that.
+
+[Murderbot V2] 00:01:30
+Alright, there we go.
+
+[GM] 00:01:37
+It's a cramped break room with walls covered in pinups and schematic diagrams. There's a still functioning terminal with maintenance schedule software.
+
+[GM] 00:01:48
+Teamster can determine that the entire station is deliberately being wound down over the next 6 months.
+
+[GM] 00:01:58
+That's what you find.
+
+[Ink] 00:01:59
+I'm a team chat. Deliberately be wound down for the next six months.
+
+[GM] 00:02:03
+Yep.
+
+[Dex Miro] 00:02:04
+Like, in terms of crew personnel, or everything?
+
+[GM] 00:02:09
+to be determined. It does not say.
+
+[Dex Miro] 00:02:11
+All right.
+
+[Ink] 00:02:12
+Hmm.
+
+[GM] 00:02:14
+I don't know if that's also a past report or if that's, like, Monarch is like, I'm gonna wind myself down.
+
+[Ink] 00:02:22
+Yeah, that's weird.
+
+[GM] 00:02:23
+Right? Okay. And that's where we'll stop.
