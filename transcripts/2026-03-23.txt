@@ -2516,7 +2516,7 @@ Alright.
 When they're done filling the bones, they throw them… Uh, down a chute that heads to the south?
 
 [Ink] 22:56:37
-Um… I guess I've had enough funds, so I'm gonna grab the sledgehammer and make my way back to 360.
+Um… I guess I've had enough funds, so I'm gonna grab the sledgehammer and make my way back to 36D.
 
 [GM] 22:56:44
 Yeah. You make your way back.
@@ -2528,7 +2528,7 @@ So I gotta go… Yeah.
 Oh, man. You show up with that turbo sledge.
 
 [GM] 22:57:00
-You know what's better than a spanner? Turbo sludge.
+You know what's better than a spanner? Turbo sledge.
 
 [Dex Miro] 22:57:03
 Yeah.
@@ -2552,7 +2552,7 @@ Perfect. Awesome.
 You, like, fashion into a bow to be put on there.
 
 [GM] 22:57:30
-Um… Turbo Sledge does 4010 damage.
+Um… Turbo Sledge does 4d10 damage.
 
 [Dex Miro] 22:57:37
 Only once and might rip my arms off, or what?
