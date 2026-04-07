@@ -2516,7 +2516,7 @@ Alright.
 When they're done filling the bones, they throw them… Uh, down a chute that heads to the south?
 
 [Ink] 22:56:37
-Um… I guess I've had enough funds, so I'm gonna grab the sledgehammer and make my way back to 36D.
+Um… I guess I've had enough fun, so I'm gonna grab the sledgehammer and make my way back to 36D.
 
 [GM] 22:56:44
 Yeah. You make your way back.
@@ -2582,10 +2582,7 @@ Still seems like a good thing to have around if you need it.
 Everyone needs a turbo sledge.
 
 [Dex Miro] 22:58:17
-Yeah, all right. Is this going to?
-
-[Dex Miro] 22:58:21
-be very awkward to carry.
+Yeah, all right. Is this going to be very awkward to carry?
 
 [GM] 22:58:24
 Um… You're not carrying anything heavy on your back right now, right?
@@ -2606,13 +2603,13 @@ I'll take the battery.
 But you've already got the heavy backpack thing, right?
 
 [Ink] 22:58:47
-Oh, that's right. Shoot. Um… Who's not here? Karnak, you want to carry something?
+Oh, that's right. Shoot. Um… Who's not here? Carnoc, you want to carry something?
 
 [Carnoc Ashbrow] 22:58:54
 You can carry it if you want.
 
 [GM] 22:59:01
-We're giving Karnak to carry.
+We're giving Carnoc to carry.
 
 [Ink] 22:59:03
 Um, is Carnoc stronger than me?
@@ -2621,10 +2618,10 @@ Um, is Carnoc stronger than me?
 I mean, Dex has taken the turbo sledge.
 
 [Ink] 22:59:10
-Yeah, Jack said the turbo sludge, so it's either the battery or the backpack with the radio in it.
+Yeah, Dex has the turbo sludge, so it's either the battery or the backpack with the radio in it.
 
 [Carnoc Ashbrow] 22:59:15
-Let's drink this 38.
+My strength is 38.
 
 [Ink] 22:59:17
 My strength is 45. Okay, I'll try to heavier thing.
@@ -2708,7 +2705,7 @@ Yeah, I'll take a moment.
 Right? You float into the room, you see that each is a finger, an android finger that has been outfitted with an orange LED on the tip.
 
 [GM] 23:02:02
-Uh, on the face of each furnace. Dubbed in Greece as a painting of a human figure suffering.
+Uh, on the face of each furnace daubed in grease is a painting of a human figure suffering.
 
 [GM] 23:02:10
 This motif is repeated on each of them. Make a fear save.
@@ -2723,19 +2720,10 @@ I just pissed my pants.
 All right, you take one stress.
 
 [GM] 23:02:39
-Um… But you do notice.
-
-[GM] 23:02:44
-near…
-
-[GM] 23:02:51
-Near one of the furnaces. a set of samples of.
+But you do notice, near one of the furnaces, a set of samples of heavy materials.
 
 [GM] 23:03:00
-Heavy materials. Like, basically metal alloys in a set of like.
-
-[GM] 23:03:06
-few different sampling jars or something.
+Like, basically metal alloys in a set of like few different sampling jars or something.
 
 [Ink] 23:03:13
 and I put those in my backpack?
@@ -2744,13 +2732,13 @@ and I put those in my backpack?
 Yes.
 
 [Ink] 23:03:23
-All right. Mental sampling jobs.
+All right. Metal sampling jobs.
 
 [GM] 23:03:31
 This is how it reads this heavy material samples of metal alloys.
 
 [GM] 23:03:37
-I assume, though, they're just like metal alloys. inlet.
+I assume, though, they're just like metal alloys.
 
 [Ink] 23:03:43
 They're indestructible, worth millions of credits.
@@ -2783,13 +2771,13 @@ you suspect that maybe these samples were forged in these furnaces, maybe.
 Gotcha.
 
 [Ink] 23:04:45
-Uh, so I peak in 31C.
+Uh, so I peek in 31C.
 
 [GM] 23:04:48
-31 c.
+31C.
 
 [GM] 23:04:57
-Uh, and 31c. This is a smaller room. Floating glass splinters from the computer monitors.
+Uh, 31C. This is a smaller room. Floating glass splinters from the computer monitors.
 
 [Murderbot V2] 23:05:05
 Jeez.
