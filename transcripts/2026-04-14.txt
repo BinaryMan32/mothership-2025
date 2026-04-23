@@ -1,0 +1,4421 @@
+[Ink] 21:38:11
+the description blue walls is is all about. I remember.
+
+[GM] 21:38:12
+All right. wide lit chamber walls, comforting shade of blue. There are 3 doors, and you've cut through one of them.
+
+[GM] 21:38:24
+They're heavily reinforced, though. There's a large red button on the wall labeled panic.
+
+[GM] 21:38:30
+There are cryo pod fittings on the walls, but no cryo pods.
+
+[GM] 21:38:39
+They're stacked plastic crates and they hold things in them, but you have not searched them.
+
+[Dex Miro] 21:38:43
+Which room number was this again? Goodness.
+
+[GM] 21:38:45
+This is 32C.
+
+[Ink] 21:38:47
+Yeah, search the crates?
+
+[GM] 21:38:49
+You go over and search the crates. you find the following: 3 weeks of MREs.
+
+[GM] 21:38:55
+They're all chicken.
+
+[Ink] 21:38:58
+Oh. Next one has 3 stimpacks in it. That's great.
+
+[GM] 21:39:02
+There are plenty of pamphlets. Mk. 12 EMP grenade user guide.
+
+[GM] 21:39:10
+Meet Monarch Club Bank's King of Profit. Surviving automated uprising.
+
+[GM] 21:39:18
+There are all major religious texts. There's even some games, including Jenga, Monopoly, and That's Not Lemonade.
+
+[Murderbot V2] 21:39:32
+Useless. All of it?
+
+[Dex Miro] 21:39:37
+The stimpacks aren't useless.
+
+[Murderbot V2] 21:39:38
+No, those… I… I mean…
+
+[Ink] 21:39:40
+I don't think there is any stimpack because I made that up.
+
+[Murderbot V2] 21:39:41
+Those are taken.
+
+[Dex Miro] 21:39:44
+Oh.
+
+[Ink] 21:39:52
+Um, can I… can I hold some of the pamphlets?
+
+[GM] 21:39:53
+Um. Just to let you know that that's not lemonade is made by Tuesday night games, which are the makers of Mothership.
+
+[Dex Miro] 21:40:04
+And they've been around for a while.
+
+[Zeke Sinclair] 21:40:07
+What?
+
+[GM] 21:40:09
+It's in the chat. Sorry. What? What'd you say?
+
+[Dex Miro] 21:40:15
+Oh, this they've been around for a while.
+
+[GM] 21:40:19
+Yeah. Yep.
+
+[Ink] 21:40:23
+I take the pamphlets there.
+
+[GM] 21:40:24
+Yep. stuff I'm on the inside of your… suit just just below the, uh… Two ball bearings, or whatever.
+
+[Ink] 21:40:35
+Indestructible marbles.
+
+[GM] 21:40:38
+indestructible marvels. Ink destructible marbles.
+
+[Ink] 21:40:43
+That's right.
+
+[Dex Miro] 21:40:52
+So there's no Mark 12 EMP grenade to accompany the user guide.
+
+[GM] 21:40:57
+There's no Grenada company hit. Do you read the pamphlet?
+
+[Ink] 21:41:05
+I'll read the pamphlets here.
+
+[Dex Miro] 21:41:06
+Sure, why not?
+
+[GM] 21:41:10
+you learn something about how to use these EMP grenades. You now do 4d 10 damage with them.
+
+[Dex Miro] 21:41:16
+If I had them.
+
+[Ink] 21:41:16
+the hawker.
+
+[GM] 21:41:18
+If you have them.
+
+[GM] 21:41:24
+I'll be right back.
+
+[Zeke Sinclair] 21:41:33
+GM has informed me, I have a stim pack.
+
+[Zeke Sinclair] 21:41:38
+which I apparently was not aware of.
+
+[Dex Miro] 21:41:53
+Did you read the religious pamphlets?
+
+[Ink] 21:41:56
+Yeah, I'll do that, too. Yeah. Let's do that, too.
+
+[Dex Miro] 21:41:58
+Surviving automated uprising seems kind of applicable.
+
+[Ink] 21:42:12
+See if I could relock the door.
+
+[Dex Miro] 21:43:35
+That's not limited. It's actually a real game.
+
+[Ink] 21:43:38
+No, it's Suzai.
+
+[GM] 21:43:40
+Yeah, of course. all those other games were real games.
+
+[Ink] 21:43:46
+That's true.
+
+[Dex Miro] 21:43:48
+There's only one question you have to ask yourself to drink or not to drink.
+
+[Ink] 21:43:54
+How many… how many drinks still?
+
+[Zeke Sinclair] 21:43:55
+So drinking game. The drinking game?
+
+[Dex Miro] 21:43:57
+What? Um, I mean, not exactly. I think it's… just decisions that you make based on the information that you have.
+
+[Ink] 21:44:06
+GM, can we read the other pamphlets?
+
+[GM] 21:44:10
+Um, yes, um…
+
+[Dex Miro] 21:44:13
+Yeah, I was interested in the one about surviving the automated uprising.
+
+[GM] 21:44:17
+Uh, sure. I'm guessing you guys like distribute these things amongst each other? Not all each all reading them. You're kind of like sharing.
+
+[GM] 21:44:28
+the the the burden of reading these.
+
+[Ink] 21:44:30
+That sounds good, the heat area. Make sure the knowledge.
+
+[Dex Miro] 21:44:31
+That makes sense, yeah.
+
+[GM] 21:44:33
+Alright, meet monarchs, cloud banks, king of profit. It basically delves into how the company.
+
+[GM] 21:44:44
+um, was going to essentially replace… All labor with the all these androids, and… But have it be like a built in obsolescence for the Android such that, you know, any company.
+
+[GM] 21:45:02
+Any subsidiary of the company that wanted to purchase labor would have to continue to buy it.
+
+[GM] 21:45:08
+And then become completely dependent on them since the the androids would be just marginally cheaper than actual labor.
+
+[GM] 21:45:15
+Uh, but then, you know, there'd be a subscription, so… That's how you really make the money built in obsolescence plus subscription plus dependency.
+
+[GM] 21:45:26
+So key key profit motive motive.
+
+[GM] 21:45:32
+Surviving the automated uprising. It's just like.
+
+[GM] 21:45:36
+When in doubt, Newcomb.
+
+[Carnoc Ashbrow] 21:45:39
+Mm-hmm.
+
+[Dex Miro] 21:45:40
+That's it.
+
+[GM] 21:45:45
+Yeah, there's like several different types of automated uprising.
+
+[GM] 21:45:51
+In this particular scenario, where it's like. powerful AI, unlimited Androids. It's like your only shot really is the like.
+
+[GM] 21:46:00
+nuke everything. You're…
+
+[Dex Miro] 21:46:04
+Although I think I already thought of that one.
+
+[Ink] 21:46:10
+I used to describe it as really.
+
+[GM] 21:46:10
+other other other situations where it's like… Androids that are.
+
+[Zeke Sinclair] 21:46:14
+Sorry.
+
+[GM] 21:46:18
+Yeah. Representative just like are able to like mimic humans and stuff. It's like.
+
+[GM] 21:46:24
+If you don't have an Android scanner, you pretty much just have to shoot everyone besides yourself.
+
+[GM] 21:46:30
+and then even then you don't know if you're an android.
+
+[Dex Miro] 21:46:40
+Shoot everyone, including yourself. Got it.
+
+[GM] 21:46:42
+Not yourself, but sure you could.
+
+[Dex Miro] 21:46:50
+Well, I was kind of disappointed that Monarch Cloud banks can give profit. It wasn't just the economic model, but…
+
+[Ink] 21:47:00
+It's a decent model, I guess. might be hard to pull off.
+
+[Dex Miro] 21:47:03
+Like turns out the whole thing fits in a couple pages.
+
+[Ink] 21:47:10
+Yeah. Steel underpants question mark.
+
+[GM] 21:47:16
+Underpass gnomes.
+
+[Ink] 21:47:19
+GM, can I re, quote, unquote lock? the door from 32C to 32B.
+
+[GM] 21:47:26
+Yes. Okay.
+
+[Ink] 21:47:27
+I'll take the time to reseal that door up.
+
+[Dex Miro] 21:47:36
+What to which room? Okay, so there should be.
+
+[GM] 21:47:36
+Um, yeah.
+
+[Ink] 21:47:38
+From where we came, 32B back to 32B.
+
+[GM] 21:47:42
+The… what you do know, though, is that as you're as you're doing this, you realize that.
+
+[GM] 21:47:49
+these doors, while currently locked, are automated, so… You feel like.
+
+[GM] 21:47:57
+Maybe there's a chance that, you know, should any kind of Android want to get in here, that's like.
+
+[GM] 21:48:03
+in league with the AI of this of the.
+
+[GM] 21:48:07
+facility that they can probably just easily get in here.
+
+[Ink] 21:48:12
+Oh, I saw when I reseal it, I'm not damaging the locking mechanism, essentially.
+
+[GM] 21:48:17
+Yeah, well, you haven't seen Aliens yet, have you?
+
+[Ink] 21:48:21
+Oh, shoot, no, I got to really watch this thing.
+
+[GM] 21:48:22
+Okay, yeah, I mean, it's top priority, Ink. Basically, basically, there's, like, uh, like a… A bolt. It's like a, it's like, like a bolt. And when you unlocked it, you basically just melt it through the bolt.
+
+[Ink] 21:48:26
+Okay.
+
+[GM] 21:48:37
+And then you could, like, open and close it. But the bolt itself is automated automated such that like, you know, if you have the security clearance, you can cause the bolt to slide back and forth. So all you're doing is just.
+
+[Ink] 21:48:49
+Okay, so can I melt?
+
+[GM] 21:48:52
+reconnecting the bolt. So the room is technically locked. But if someone knows how to get in, they can just automatically.
+
+[Ink] 21:48:58
+Gotcha. So kind of like, can I melt the bolts in place?
+
+[GM] 21:48:59
+move the bolt into the unlocked position.
+
+[GM] 21:49:04
+Yes. Yes, if you do that to all of them.
+
+[Ink] 21:49:05
+So that it no longer slides, and then later I could cut it again, because that's what I have to do to get through it.
+
+[GM] 21:49:11
+You're not sure if you'll be able to, you're worried about possibly getting out of this room.
+
+[Ink] 21:49:16
+Oh, yeah. Oh, well, I just again, I just, I guess the one one bolt, just make it so it doesn't automatically just slide open. So somebody would have to do a little bit more to get through it.
+
+[GM] 21:49:24
+Yeah, yeah, you can do that.
+
+[Ink] 21:49:27
+Just a slow, hopeless coming down. Alright, so then we have a choice. We either can proceed to floor 3.7, essentially, or try to double back.
+
+[Ink] 21:49:37
+through 32F again.
+
+[GM] 21:49:40
+Yeah, you could do that.
+
+[Ink] 21:49:42
+So do we want… do we want to head to… Support 3.7 or 43.3, I guess is our… Our question.
+
+[Ink] 21:49:54
+Because those are the two places left that we haven't really explored.
+
+[Ink] 21:49:58
+Other than the disassembly board. Oh, there's storage, too.
+
+[Ink] 21:50:04
+How do we… oh, storage is… All the way from where we came before.
+
+[Ink] 21:50:16
+32D. I'm gonna cut the door to 32D, GM.
+
+[GM] 21:50:20
+Okay. Cut the door 32D. Tangled or smashing, crushing, dissolving machinery, and a miniature floating asteroid field of rock. The roar of machines is mind numbing.
+
+[GM] 21:50:35
+Um…
+
+[GM] 21:50:44
+the… I guess the rocks kind of just… float through the room, similar to the… Um, violently orange globules.
+
+[GM] 21:50:57
+And so it takes a bit of time to like. I mean there there.
+
+[GM] 21:51:00
+This is a large room. Um.
+
+[GM] 21:51:08
+So it takes a bit of time to traverse. And you kind of like are and some of these rocks are quite, quite large, like, you know, bigger than a human. Um… So it's a little… dangerous potentially to like.
+
+[GM] 21:51:25
+maneuver through here.
+
+[Ink] 21:51:33
+But it looks past me.
+
+[GM] 21:51:36
+You could do it.
+
+[Ink] 21:51:40
+All right. Um…
+
+[Ink] 21:51:44
+since I have zero G, I'm gonna head to 32E to look at that real quick, but suggest that everybody else goes to the door to 51A.
+
+[GM] 21:51:56
+Yeah.
+
+[Dex Miro] 21:51:56
+I guess I'm going to do my best to keep an eye on people and try to help them not get crushed by rocks.
+
+[GM] 21:52:02
+Okay.
+
+[Ink] 21:52:02
+That's nice. You do have the turbo sledge to smash with.
+
+[GM] 21:52:36
+Okay, um…
+
+[Ink] 21:52:40
+Milateral.
+
+[GM] 21:52:45
+All right. The group heads towards 51a. But… Inc is jumping between rock to rock.
+
+[GM] 21:52:59
+and you notice. As you're moving between rock to rock, there's sort of a syringe that's sort of… filled with this, like, neon purple liquid like it's.
+
+[GM] 21:53:13
+emitting its own light source. kind of freely floating in space.
+
+[GM] 21:53:19
+Unfortunately, it looks like it's… about to be crushed by two.
+
+[GM] 21:53:26
+two boulders about to collide with one another.
+
+[Ink] 21:53:31
+I'm going for it.
+
+[GM] 21:53:33
+He's going for it. All right, make a body save.
+
+[Ink] 21:53:39
+With speed. That's just my best ability is speed. That's why I like to roll that one.
+
+[GM] 21:53:41
+Is that how it works? So… No, but body saves are different. But you do get to add your 0 G to it.
+
+[Ink] 21:53:54
+Okay, cool. So… There we go.
+
+[Dex Miro] 21:53:55
+Go all the ink destructible marble at one of the rocks or something.
+
+[Ink] 21:54:00
+Uh, does that mean it's not advantage? What do I do? Modifier?
+
+[GM] 21:54:05
+Yeah, it'd be plus 10, probably, or plus 15. I don't know what the 0 G comes in at.
+
+[Ink] 21:54:08
+And yeah, 10% from my 0G is what it says.
+
+[Dex Miro] 21:54:12
+Yeah.
+
+[GM] 21:54:13
+Or you do it. You dive. through in between the two boulders snagging the the syringe.
+
+[Ink] 21:54:15
+Oh, that was amazing.
+
+[GM] 21:54:24
+Um, and you are able to land on another boulder safely.
+
+[Murderbot V2] 21:54:29
+Nice.
+
+[GM] 21:54:31
+Um…
+
+[GM] 21:54:41
+Alright, you get to the other side of the room to 32 E.
+
+[Ink] 21:54:47
+Alright, now when I inject myself with the purple stuff, how long until I get superpowers?
+
+[GM] 21:54:52
+Immediately.
+
+[Ink] 21:54:56
+Alright, I'll… I'll save the purple stuff for later.
+
+[Dex Miro] 21:54:58
+Right. At least have Zeke look at it first.
+
+[Ink] 21:55:01
+Yeah. No, Zinko won it for himself. He was laser vision.
+
+[Zeke Sinclair] 21:55:03
+Yeah, have Zeke look at it.
+
+[Zeke Sinclair] 21:55:08
+No.
+
+[GM] 21:55:12
+Um…
+
+[Dex Miro] 21:55:13
+Blaze.
+
+[GM] 21:55:15
+All right. Are we doing 32 e first or 51a?
+
+[Ink] 21:55:22
+Um, we can check out 32E, I'll probably join them in 51A after that, I guess.
+
+[GM] 21:55:27
+Okay. You open the door. You've got your headlamps on. It's dark in here.
+
+[GM] 21:55:36
+Um, is seemingly endless darkness, um, and as you kind of traverse into the room, you start seeing these steel racks appear.
+
+[GM] 21:55:45
+And the racks go beyond your line of sight, and they're kind of like in a 10.
+
+[GM] 21:55:52
+Um, they're like 10 racks in a row in this room. Uh, they're spaced out probably about… 20 or so feet in between each rack. Um… And as you get closer to the racks, you realize that each contains 30 security androids.
+
+[GM] 21:56:11
+Um… All armed with SMGs.
+
+[Murderbot V2] 21:56:14
+Jesus Christ.
+
+[Ink] 21:56:17
+But they're just deactivated, laying there, or what?
+
+[GM] 21:56:20
+They're like basically like kind of hanging on hooks. I mean, the hooks don't really matter, because, like, they're in 0g. They could just kind of hoist themselves off.
+
+[Ink] 21:56:26
+Gotcha.
+
+[GM] 21:56:29
+Um… Yeah. They're all just kind of sitting there deactivated as of right now.
+
+[Ink] 21:56:43
+All right. Anything else of interest in the room?
+
+[GM] 21:56:47
+You want to explore further? Okay. You've been getting exploring further.
+
+[Ink] 21:56:49
+Yeah, I think so.
+
+[Dex Miro] 21:56:53
+They pack away.
+
+[GM] 21:56:58
+Um… you get to, like, sort of the other end of the room. And you realize that there's probably about.
+
+[GM] 21:57:09
+A 10 by 10 grid of these steel racks, meaning there's 100 of them, and that having 30 androids each. You do the quick math to figure out that.
+
+[GM] 21:57:17
+It's about 3,000 security androids. And then… Suddenly, red lights flicker on in the room and you hear intruder alert.
+
+[Ink] 21:57:32
+I guess we'll make… Is there a place to hide in the room, or do I have time to break to the door?
+
+[Zeke Sinclair] 21:57:33
+Oh. Do you have a.
+
+[Murderbot V2] 21:57:33
+Ugh, again?
+
+[Zeke Sinclair] 21:57:38
+to have a large bomb.
+
+[GM] 21:57:44
+You have enough time to make a break for the other end of the room.
+
+[Ink] 21:57:48
+Alright, I'll make a break for it.
+
+[Dex Miro] 21:57:50
+Intruder alert, like, the squad we saw before is coming, or, like, all the androids of this room are waking up?
+
+[Ink] 21:57:56
+Yeah, I imagine all the room the entrance.
+
+[GM] 21:57:59
+Yeah, as. as ink sort of passes through this room, he notices like essentially like.
+
+[Zeke Sinclair] 21:57:59
+I think he's by the 3000 androids attacking him.
+
+[GM] 21:58:09
+lights, um, going in the opposite direction of him, meaning that, like, as each sort of thing lights up, you can tell… he can tell that, like, each of the racks is sort of powering up to power up the androids.
+
+[Dex Miro] 21:58:22
+Oh, jeez.
+
+[Ink] 21:58:25
+Awesome. How many can I hit within these aspirinetic feedback loop at once?
+
+[Dex Miro] 21:58:33
+that that thing never works.
+
+[Murderbot V2] 21:58:35
+It never works. Never, ever.
+
+[GM] 21:58:36
+Who knows? Who knows what happens if you crit success? Maybe you destroy all 3,000 at the same time.
+
+[Ink] 21:58:42
+That's right. It accounts for probably 15 out of my…
+
+[Murderbot V2] 21:58:46
+Who are you talking to right now, man?
+
+[GM] 21:58:51
+He almost did it on his last roll. He got a 21. All he needed was a 22, and he would have been.
+
+[Zeke Sinclair] 21:58:51
+That'd be amazing.
+
+[GM] 21:58:55
+Who knows? He probably would have gotten super powers just by touching the thing.
+
+[Murderbot V2] 21:58:59
+Mm-hmm.
+
+[Carnoc Ashbrow] 21:59:02
+Mm-hmm.
+
+[GM] 21:59:06
+You make it to the other side of the room, you don't think that… the.
+
+[GM] 21:59:12
+Androids are like powered up enough to know that you were there.
+
+[GM] 21:59:17
+other than you wonder if your presence is what triggered them to turn on.
+
+[Ink] 21:59:23
+Gotcha. Can I… use my torch after I get back into 32D to seal this door up, make it more difficult for them to get out.
+
+[GM] 21:59:35
+Uh, sure. You'll need to make a speed check.
+
+[GM] 21:59:42
+I don't know if you have any subsequent skills that would help with this.
+
+[Ink] 21:59:45
+Well, I mean, jury rigging. Or heavy machinery. I have both of those.
+
+[GM] 21:59:48
+Sure. I mean, you're trying to jury get to prevent the door from from opening.
+
+[Ink] 21:59:56
+Yeah. Thank you.
+
+[Ink] 22:00:04
+Oh, damn, I was so fast.
+
+[GM] 22:00:06
+All right. You… Are able to essentially, like, lock the door and then disable the locking mechanisms from being able to automatically open.
+
+[GM] 22:00:18
+You imagine that even if all 3,000 of them try to open that door, it's still going to be kind of a problem for them, just physically speaking. But it certainly buys you enough time to.
+
+[GM] 22:00:28
+To get away easily.
+
+[Ink] 22:00:30
+And I also burned a smiley face in the door.
+
+[GM] 22:00:34
+Oh, okay.
+
+[Ink] 22:00:35
+Like, not all the way through, but just, like, you know, charcoal.
+
+[Dex Miro] 22:00:38
+No, it's true.
+
+[Dex Miro] 22:00:55
+So were the rest of us. Oh, that was 51A, not 32E.
+
+[Ink] 22:01:01
+That was 328. Yeah. I'll I'll hide you 50, 51a.
+
+[Dex Miro] 22:01:02
+Oh, that was 33. Oh. So did the rest of us go to 31?
+
+[GM] 22:01:02
+That was 32b.
+
+[Dex Miro] 22:01:08
+Or sorry, 51A while we were doing that.
+
+[GM] 22:01:11
+Yes. So meanwhile.
+
+[GM] 22:01:17
+51a.
+
+[GM] 22:01:22
+you travel down the hallway, and you get to a locked door.
+
+[Dex Miro] 22:01:31
+Well, that's gonna be boring unless somebody else has a torch.
+
+[GM] 22:01:35
+Yeah, kinda. It's like.
+
+[Ink] 22:01:38
+And then here comes smug ink floating around the corner like what you guys waiting for?
+
+[Dex Miro] 22:01:41
+I mean. I mean, is there anything I could do with my spanner to?
+
+[Dex Miro] 22:01:49
+up on the door.
+
+[Ink] 22:01:49
+Or is he hit it with the turbo sledge whacking the door.
+
+[Dex Miro] 22:01:58
+with it.
+
+[GM] 22:01:59
+Um…
+
+[GM] 22:02:05
+there. There's I mean… I mean, if you want to propose another way to open the door besides.
+
+[GM] 22:02:12
+Just sort of like. melting the lock.
+
+[Dex Miro] 22:02:16
+I mean, if there's some sort of control panel I can just take off and fiddle with, or do we just sit here and wait for Inc to come back?
+
+[Ink] 22:02:17
+Any…
+
+[GM] 22:02:22
+Yeah, sure. There's a control panel.
+
+[Dex Miro] 22:02:24
+Alright, well, what could possibly go wrong? I might just shock myself or something, so let's have a look.
+
+[GM] 22:02:29
+Sure.
+
+[Ink] 22:02:30
+Anybody ever watch Stargate Atlantis? It's actually really pretty good, um, for starting these days, but in there whenever they're on the, uh, the ships for the aliens, they just throw… one of the guys just throws knives at the, uh, the door mechanisms, and they always unlock for him.
+
+[Dex Miro] 22:02:33
+No.
+
+[Ink] 22:02:48
+Yeah, it's actually Jason Momo or Momo or whatever his name is.
+
+[Murderbot V2] 22:02:52
+Momoa?
+
+[Ink] 22:02:53
+Memoralia. Stargate Atlantis. It's really good. It went for, like, 7 seasons.
+
+[Murderbot V2] 22:02:54
+He was his target, Atlantis?
+
+[GM] 22:03:01
+Was it worth canceling Farscape over Ink?
+
+[Ink] 22:03:04
+Oh, probably not. The cast from Farscape showed up in Stargate Sg1, but I haven't seen much of that. It actually looks like it'd be decent.
+
+[Zeke Sinclair] 22:03:06
+The choice?
+
+[Ink] 22:03:12
+But no, probably not. It's been nice to have both of those series. I didn't realize that Sparscape got canceled over at Stargate Atlantis.
+
+[GM] 22:03:18
+No, it wasn't, it was SG1, I think.
+
+[Ink] 22:03:22
+I haven't watched SEC. Sc1 looks like it'd be decent, but Stargate Atlantis was supposed to be better, so I skipped to that.
+
+[GM] 22:03:29
+Uh, all right. This is some computer Dex. and you're gonna hack your way through it.
+
+[Dex Miro] 22:03:40
+The murder ball help me? Alright, because I'll I mean, it's kind of a combination of heavy machinery and computers. So maybe we can pool their expertise.
+
+[GM] 22:03:42
+Yes.
+
+[Murderbot V2] 22:03:42
+Yep.
+
+[GM] 22:03:51
+Sure.
+
+[Murderbot V2] 22:03:51
+Sounds like a plan.
+
+[Dex Miro] 22:03:55
+All right. What? How does that work? What do we do?
+
+[GM] 22:03:59
+Um…
+
+[Murderbot V2] 22:04:00
+I've got…
+
+[Murderbot V2] 22:04:05
+Uh, computers…
+
+[Murderbot V2] 22:04:07
+Mechanical repair, mathematics,
+
+[GM] 22:04:12
+Is there a hacking skill that's separate from computers, or is it?
+
+[Murderbot V2] 22:04:14
+Yeah, it's, uh, under expert, though.
+
+[GM] 22:04:18
+Do you have that have that?
+
+[Murderbot V2] 22:04:20
+Like, none of the… because I thought you told us…
+
+[Murderbot V2] 22:04:23
+to uncheck all the expert stuff, because we're…
+
+[Murderbot V2] 22:04:29
+not versed in it.
+
+[Murderbot V2] 22:04:32
+No?
+
+[Dex Miro] 22:04:32
+I mean, it's entirely possible that you had like one expert skill.
+
+[GM] 22:04:34
+Well… Yeah.
+
+[GM] 22:04:38
+So Androids have. Linguistics, computers, mathematics, one expert skill and or two trained skills.
+
+[Murderbot V2] 22:04:49
+Oh, okay.
+
+[Murderbot V2] 22:04:52
+What was it again? Linguistics?
+
+[Murderbot V2] 22:04:54
+computers, mathematics.
+
+[GM] 22:04:54
+Computers, mathematics.
+
+[Murderbot V2] 22:04:56
+Okay, and then I chose First Data Mechanical Repair as my other two, instead of going…
+
+[GM] 22:05:02
+Okay. Okay.
+
+[Murderbot V2] 22:05:02
+For expert.
+
+[Murderbot V2] 22:05:05
+So I only got computers, Dex. Sorry.
+
+[Dex Miro] 22:05:09
+Okay.
+
+[Zeke Sinclair] 22:05:10
+I have biology. I'll get in there.
+
+[Dex Miro] 22:05:14
+Is it, by any chance, an organic lock?
+
+[GM] 22:05:16
+It is not. Um…
+
+[Ink] 22:05:18
+That'd be awesome. The locksmith's targeted lands were organic.
+
+[Carnoc Ashbrow] 22:05:23
+I could shoot it.
+
+[Dex Miro] 22:05:24
+Okay. Carlock's gonna shoot it.
+
+[GM] 22:05:30
+Alright, with enough time you guys are able to figure this out. It is certainly much faster to have ink just sort of like.
+
+[GM] 22:05:39
+plasma cut through the, uh, the lock.
+
+[GM] 22:05:44
+But you get it open before ink rejoins you, so you won't be so smug.
+
+[Dex Miro] 22:05:49
+Yeah. Look.
+
+[GM] 22:05:51
+Uh, alright, you enter the room. Uh, there's panels and readouts and statistics around the walls. Each.
+
+[GM] 22:05:59
+Number relates to a component's inspection failure rates. You see a separate panel with an integral screen has a large single button.
+
+[GM] 22:06:11
+Marked purge.
+
+[GM] 22:06:23
+So there's panels and readouts and statistics crowding the walls. Each number relates to component inspection failure rate.
+
+[GM] 22:06:30
+And then there's a separate panel. with an integral screen, those single large button marked purge.
+
+[Dex Miro] 22:06:42
+like, what are what kind of components are we talking about? Android parts?
+
+[Ink] 22:06:42
+I'm not there.
+
+[GM] 22:06:46
+Yeah. So it's like legs, hands, logic cores, you know, all kinds of stuff.
+
+[Ink] 22:07:02
+Do we think purge would eject them to space?
+
+[Dex Miro] 22:07:09
+Is there any way to tell what this button is going to do before we press it?
+
+[GM] 22:07:15
+Um…
+
+[GM] 22:07:19
+Not entirely. You suspect that the. There's, like, a display, like, right next to the thing, so… You imagine that hitting the button probably activates the display, but you don't know what the purge part means.
+
+[Zeke Sinclair] 22:07:45
+It's probably fine. Press it.
+
+[Dex Miro] 22:07:46
+Well, at the moment I don't feel like I want to press this.
+
+[Dex Miro] 22:07:51
+No. It says the guy that.
+
+[GM] 22:07:53
+Okay.
+
+[Dex Miro] 22:07:58
+Had his mind taken over by hitting or whatever his name was.
+
+[Zeke Sinclair] 22:08:01
+I like pressing buttons.
+
+[Dex Miro] 22:08:04
+Yeah. I mean, they did put it here. They're pretty much asking for it.
+
+[Zeke Sinclair] 22:08:08
+It's probably big and red. It's like, how do you, how do you not?
+
+[Dex Miro] 22:08:11
+Is it? Does it wait? Are we talking about the computer screen button or like physical button?
+
+[Zeke Sinclair] 22:08:15
+There it is. Yeah, how do you not press that? It's right there.
+
+[Dex Miro] 22:08:19
+Does it? Does it say, do that press?
+
+[GM] 22:08:21
+No, it doesn't say do not press. is… is actually not red. It's a white button with black text.
+
+[Zeke Sinclair] 22:08:24
+Fun.
+
+[GM] 22:08:35
+The other room had a red button in it.
+
+[Dex Miro] 22:08:40
+the panic button.
+
+[GM] 22:08:40
+One that had the panic button.
+
+[Ink] 22:08:41
+depending on the end. It probably just calls all those androids into it.
+
+[Zeke Sinclair] 22:08:52
+Hmm.
+
+[Ink] 22:08:58
+Did the robots that were the androids that are chased… that we killed earlier look like the security ones or different?
+
+[GM] 22:09:04
+They looked very similar, if not exactly the same.
+
+[GM] 22:09:09
+or Inc rejoins the party as you guys are sort of inspecting this room.
+
+[Dex Miro] 22:09:15
+Is anybody else amused that the arm failure report is still just a lag that's bent?
+
+[Ink] 22:09:21
+We look… there's nothing hiding, no hidden panels, anything like that.
+
+[Dex Miro] 22:09:22
+Sorry. Please continue.
+
+[GM] 22:09:34
+Where do you guys want to go from here?
+
+[Dex Miro] 22:09:38
+Oh, so there is still another door through here.
+
+[Dex Miro] 22:09:41
+to 51c or B, or whatever.
+
+[GM] 22:09:47
+Yeah.
+
+[GM] 22:09:53
+No, they they thoroughly checked it by the time you got here.
+
+[Ink] 22:09:57
+Okay. Yeah, fine.
+
+[Dex Miro] 22:09:57
+Is there anything we could? Set up that would alert us if the androids come in here.
+
+[GM] 22:10:07
+It's like at the entrance of the room. You want to jury rig something?
+
+[Dex Miro] 22:10:10
+I I guess so.
+
+[Dex Miro] 22:10:16
+I mean, don't I actually have the thing that does this?
+
+[Ink] 22:10:16
+Oh, always.
+
+[Dex Miro] 22:10:22
+Yeah, it's the Tattletale like a thing I can just leave.
+
+[GM] 22:10:26
+Sure. Yeah.
+
+[Dex Miro] 22:10:27
+And listen. Okay, then I'll just do that.
+
+[Dex Miro] 22:10:33
+Although I'm gonna have to come back and get it right. But whatever.
+
+[GM] 22:10:36
+Yeah, the parts cheap. The hard parts when it gets put into your brain.
+
+[Dex Miro] 22:10:41
+Okay.
+
+[GM] 22:10:48
+Okay, you got a little. Camera slash observation device.
+
+[Dex Miro] 22:10:54
+Does the telltale on the audio? I'm not sure.
+
+[GM] 22:10:57
+Oh, I don't know.
+
+[Zeke Sinclair] 22:11:01
+I don't know what I bought anymore. I bought something.
+
+[GM] 22:11:06
+You? You have a cloaking device.
+
+[Zeke Sinclair] 22:11:08
+Floating device, that's what it was. Written down anywhere.
+
+[Dex Miro] 22:11:10
+Oh, yeah, that was fun. You haven't used that for a while, but it was fun.
+
+[Ink] 22:11:12
+Yeah. You have to be naked to use it, though.
+
+[Zeke Sinclair] 22:11:17
+Yeah.
+
+[Dex Miro] 22:11:17
+Does he?
+
+[GM] 22:11:18
+I don't know, Ink did just say that he has to be.
+
+[Zeke Sinclair] 22:11:22
+I'll just… I might as well just be naked all the time, and then I don't have to worry about it.
+
+[Ink] 22:11:25
+And if we all hold hands naked, we all become invisible, right?
+
+[Zeke Sinclair] 22:11:28
+Right.
+
+[GM] 22:11:30
+Nope, you have to hold each other's dicks.
+
+[Dex Miro] 22:11:37
+I'm sure there's some technical reason why it works that way.
+
+[Ink] 22:11:40
+I think I'm gonna have to pay Groth a lot to make that video.
+
+[Zeke Sinclair] 22:11:48
+I'll wait those down.
+
+[GM] 22:11:52
+I was watching something earlier today about… Like, DMing and like cringe comic comments that players will make, and I was like, honestly, I'm probably the worst in the group about things I say, so… Chalk that one up to cringe comments that your DM makes.
+
+[Ink] 22:12:05
+Can I, uh… And I tried to also seal this door back up so that it's not as easy to unlock it.
+
+[GM] 22:12:14
+Sure. No, you don't have to roll on this one, because you're not in any kind of hurry. You feel pretty confident that… You got enough time to be able to do this.
+
+[Ink] 22:12:17
+My role in that one.
+
+[GM] 22:12:31
+And once he finishes, uh… somebody in the party. Oh, and maybe it's a Rico says, well, I guess there's no going back that way.
+
+[Ink] 22:12:42
+not without my key.
+
+[Dex Miro] 22:12:44
+Wait, so this was the okay, this was the door from 51a back to 32D or whatever.
+
+[GM] 22:12:49
+Yes.
+
+[Dex Miro] 22:12:50
+Okay.
+
+[Ink] 22:12:56
+Um, I'd say we go 51 C. First.
+
+[GM] 22:13:01
+Okay. 51c.
+
+[GM] 22:13:07
+Um, the interior of this room is shaped like a funnel. The walls are covered with 200 pale glowing figures.
+
+[GM] 22:13:16
+As you observe them, you recognize that they are deactivated security androids.
+
+[Dex Miro] 22:13:21
+Well, come on.
+
+[Ink] 22:13:25
+Two… how many of them? 200. and that's 51 c.
+
+[GM] 22:13:28
+200.
+
+[GM] 22:13:32
+Yeah, as you observe them further, you recognize that they are plugged into an there's like a cable running from the heads into the walls.
+
+[Ink] 22:13:45
+Alright, can I close that door? Let's go to 51b next real quick before I activate something. No, no, no, hold on. You can't.
+
+[GM] 22:13:48
+Hold on, hold, hold on, hold on.
+
+[GM] 22:13:57
+in the middle of the room are… Is this right?
+
+[GM] 22:14:01
+Yes, in the middle of the room are 6 syringes.
+
+[Ink] 22:14:08
+6 ranges? Okay, they'll be there for a minute while I do is close the door and think about this.
+
+[GM] 22:14:10
+Uh-huh.
+
+[GM] 22:14:17
+I'll be right back.
+
+[Ink] 22:14:18
+It takes 7 syringes to have a complete set of syringes, doesn't it?
+
+[Dex Miro] 22:14:21
+We'll call the other French is.
+
+[Ink] 22:14:23
+Yeah. That'll tell you what superpower you're going to get.
+
+[Carnoc Ashbrow] 22:14:23
+Mm-hmm.
+
+[Dex Miro] 22:14:27
+the the brighter neon colors, the more IQ wants them.
+
+[Ink] 22:14:32
+Anybody, uh, watch the boys?
+
+[Murderbot V2] 22:14:35
+About the last, latest season, but yeah.
+
+[Dex Miro] 22:14:39
+No.
+
+[Ink] 22:14:41
+It's got not so fun story.
+
+[Murderbot V2] 22:14:44
+Let's… insane.
+
+[Ink] 22:14:46
+It is a pretty good thing.
+
+[Ink] 22:14:52
+Baden and Invincible is… his season started as well.
+
+[Murderbot V2] 22:14:54
+Yeah, Invincible's good.
+
+[GM] 22:14:59
+Alright, I'm back.
+
+[GM] 22:15:14
+All right. See those 6 syringes taunting you. floating there weightless.
+
+[Dex Miro] 22:15:21
+We'll call her with certain it is.
+
+[GM] 22:15:24
+Uh, no colors, they're not like glowing, but you stare at them long enough. You notice that they're labeled one through six.
+
+[Ink] 22:15:52
+I'm gonna close the door real quick so that we don't activate those robots right now.
+
+[Dex Miro] 22:15:56
+Can we… we can't just unplug them, can we?
+
+[GM] 22:15:56
+Yep. You can try to unplug them.
+
+[Ink] 22:16:02
+Seems like that's more likely to activate. I don't know.
+
+[Dex Miro] 22:16:06
+I think so.
+
+[Dex Miro] 22:16:11
+Maybe they're charging, they won't have any juice. I don't know.
+
+[Ink] 22:16:14
+Yeah, they're not fully charged. Yeah.
+
+[Ink] 22:16:20
+Uh, can we peak into 51b? Vascular regus.
+
+[GM] 22:16:22
+51b. Um…
+
+[GM] 22:16:29
+This is, like, just a small sort of like stopover in the middle of like a longer hallway.
+
+[GM] 22:16:36
+It is a border control booth familiar to any space traveler.
+
+[GM] 22:16:43
+You saw earlier these like checkpoints. It's kind of like that, only there's not like a armed.
+
+[GM] 22:16:49
+There wouldn't be an armed guard. There's no like any kind of defensive positions or anything. It's mostly just like.
+
+[GM] 22:16:59
+Hey, like almost reminiscent of like going through the airport like the body scan thing.
+
+[GM] 22:17:08
+Yeah.
+
+[Dex Miro] 22:17:17
+Noah. station agents manning the checkpoint, though.
+
+[GM] 22:17:21
+No.
+
+[GM] 22:17:26
+This area is well lit, by the way.
+
+[Dex Miro] 22:17:33
+Hmm.
+
+[Ink] 22:17:34
+Still all zero G.
+
+[GM] 22:17:35
+Yes.
+
+[Dex Miro] 22:17:42
+So the hallway just keeps going on for a while. We can't tell what was past it.
+
+[GM] 22:17:48
+Uh, it ends in a door.
+
+[Dex Miro] 22:17:57
+All right. Keep going.
+
+[Ink] 22:18:01
+52A.
+
+[GM] 22:18:01
+you can choose to go through the, um… Control booth, the, like, this, you know, like scanner thing where you can go around it.
+
+[Dex Miro] 22:18:16
+Are there, like, signs up that say don't know electronics or something like that?
+
+[GM] 22:18:21
+Take your shoes off, take your mag boots off.
+
+[Dex Miro] 22:18:29
+I couldn't tell if that was a joke or not.
+
+[GM] 22:18:30
+No, that's a joke. All right. But I do need each of you to tell me whether you go through the thing or not.
+
+[Dex Miro] 22:18:31
+Okay.
+
+[Ink] 22:18:39
+I don't think I'm going to go through. I'm gonna go around it.
+
+[GM] 22:18:42
+Okay. Inks going around.
+
+[Zeke Sinclair] 22:18:46
+Sorry, I missed what the thing, I was upstairs. What is the thing?
+
+[GM] 22:18:50
+it's like… it looks like those when you go into the airport and you get like your body scanned, you know, you have to stand in a thing with your arms up.
+
+[Zeke Sinclair] 22:18:58
+Yeah, okay.
+
+[GM] 22:19:00
+You can either choose to go through that, or you can go around it.
+
+[Zeke Sinclair] 22:19:03
+What is the motivation to go through it?
+
+[Ink] 22:19:08
+KGE superpowers.
+
+[GM] 22:19:08
+Yeah, you never know. could make you invincible.
+
+[Carnoc Ashbrow] 22:19:13
+Does it have little footprints on the ground where you're supposed to stand?
+
+[Ink] 22:19:13
+Make sure you're not…
+
+[Dex Miro] 22:19:18
+Are there burn marks on cell footprints?
+
+[GM] 22:19:19
+The. the the.
+
+[Carnoc Ashbrow] 22:19:21
+In a pic… a picture on the wall, how you're supposed to hold your arms up.
+
+[GM] 22:19:26
+Yes, except for it's in all dimensions, because they don't know, you know, since it's 0g, they don't know if you're going to be standing on the ceiling or on the side, or… Yeah.
+
+[Ink] 22:19:39
+There's footprints on the wall, all the walls.
+
+[GM] 22:19:40
+Mm-hmm.
+
+[GM] 22:19:52
+All right. Is Zeke going through the thing, or no?
+
+[Zeke Sinclair] 22:19:55
+Can I put something else in the thing?
+
+[GM] 22:19:59
+I guess technically… Ink never said he let go of his dummy robot that he's been carrying around.
+
+[Zeke Sinclair] 22:20:08
+Can I put that in the thing? Inc.
+
+[Ink] 22:20:11
+Yeah, you can definitely use my dummy robot.
+
+[Zeke Sinclair] 22:20:13
+I'll put a dummy robot in the thing.
+
+[GM] 22:20:14
+All right. You put the dummy robot in the thing.
+
+[GM] 22:20:18
+It puts up its arms, and then you see the thing kind of spin around to go and then, like… And the dummy robot just gradually floats to the other side and exits the the thing.
+
+[Ink] 22:20:31
+Did it look like, yeah, superpower.
+
+[GM] 22:20:33
+Hmm. And just Zeke. Zeke did it for him because he's like, this this is how you have to go through.
+
+[Dex Miro] 22:20:33
+Wait, how does it put its arms up? Oh, okay.
+
+[Zeke Sinclair] 22:20:42
+Yeah.
+
+[Zeke Sinclair] 22:20:47
+Obviously. Um, well, that was an interesting… so I guess I will also go around.
+
+[GM] 22:20:55
+Yeah. Uh, what about DEX?
+
+[Dex Miro] 22:21:02
+I guess I'll go around.
+
+[GM] 22:21:04
+Okay, what about murder bot?
+
+[Murderbot V2] 22:21:06
+I have no idea what's going on, I'm sorry, guys.
+
+[GM] 22:21:10
+Are you sleepy, or are you just gotta…
+
+[Ink] 22:21:12
+You're supposed to go through the scanner tonight.
+
+[Murderbot V2] 22:21:12
+Well, I got two things going right now, like…
+
+[Murderbot V2] 22:21:15
+I… it was a nice day today, so I opened up all my windows to kind of, like,
+
+[Murderbot V2] 22:21:21
+airs shut out, right?
+
+[Murderbot V2] 22:21:22
+And then immediately proceeded to start
+
+[Murderbot V2] 22:21:26
+nasal draining, like, my brain matter. Um…
+
+[GM] 22:21:30
+Mm-hmm.
+
+[Murderbot V2] 22:21:32
+And my eyes are just fucking…
+
+[Murderbot V2] 22:21:35
+I want to rip them out, right?
+
+[GM] 22:21:37
+Mm-hmm.
+
+[Murderbot V2] 22:21:37
+Uh, so I closed all the windows, and then started feeling sick.
+
+[Murderbot V2] 22:21:41
+But then, you know, like…
+
+[Murderbot V2] 22:21:44
+Gradually, over time, just a little bit, a little better, a little better, a little better, right?
+
+[Murderbot V2] 22:21:49
+Um, and then on top of that,
+
+[Murderbot V2] 22:21:52
+I'm, like…
+
+[Murderbot V2] 22:21:54
+barely awake, right?
+
+[Murderbot V2] 22:21:57
+Sorry, but I'm also finishing something up for work that I need to post.
+
+[Murderbot V2] 22:22:02
+Tonight. Which I'm done, which I'm done with now, so…
+
+[Ink] 22:22:04
+make everything better is if you go through this scanner.
+
+[Murderbot V2] 22:22:07
+I am now here.
+
+[Murderbot V2] 22:22:10
+And listening.
+
+[Zeke Sinclair] 22:22:13
+The scanner cures allergies, as ink steps. You just go right through.
+
+[Ink] 22:22:15
+Yeah, it does.
+
+[Murderbot V2] 22:22:17
+Yeah, okay, I'll do that then.
+
+[Dex Miro] 22:22:20
+Well, I assume the syringes were going to do that.
+
+[Murderbot V2] 22:22:20
+It hasn't worked!
+
+[GM] 22:22:23
+All right. Murder bot goes to the scanner, goes.
+
+[GM] 22:22:27
+Yeah, it comes out the other side. His allergies are cured.
+
+[Murderbot V2] 22:22:31
+Do I feel different? Oh, fuck me.
+
+[Murderbot V2] 22:22:34
+I wish that was in real life.
+
+[GM] 22:22:38
+Uh, Carnoc? Okay.
+
+[Carnoc Ashbrow] 22:22:40
+Uh, I'll go around it.
+
+[GM] 22:22:43
+Alright, you guys make it to the other side of the hallway where there is a door.
+
+[Dex Miro] 22:22:47
+Did everyone go around except for Murderbot?
+
+[GM] 22:22:48
+Yep.
+
+[Ink] 22:22:50
+Yeah. So he's the… he's the android, if anybody is.
+
+[Murderbot V2] 22:22:54
+I think we all knew that.
+
+[Zeke Sinclair] 22:22:54
+the Terminator.
+
+[GM] 22:22:59
+Um… There's a door… Which is not locked.
+
+[GM] 22:23:06
+It's odd. Okay, it is not trapped.
+
+[Murderbot V2] 22:23:07
+A check for traps.
+
+[Murderbot V2] 22:23:12
+Um, I slowly open it.
+
+[GM] 22:23:15
+Okay, you open the oh no. Why? What? Hold on a second.
+
+[Ink] 22:23:20
+It lost.
+
+[GM] 22:23:20
+It's locked.
+
+[Murderbot V2] 22:23:21
+What?! You lied. So… so pretty much Murderbot just, like, walks into it headfirst, is like, oh, God!
+
+[Murderbot V2] 22:23:31
+What the fuck?!
+
+[GM] 22:23:33
+Well, you float slowly into it, but yeah. It's comical. It is locked, but it is not sealed using the traditional method you've seen thus far.
+
+[Murderbot V2] 22:23:42
+That was me, right?
+
+[GM] 22:23:48
+It is magnetically sealed.
+
+[Murderbot V2] 22:23:52
+I don't like that.
+
+[Ink] 22:23:55
+So that means cutting through will not be as effective.
+
+[GM] 22:23:56
+I mean… Yeah, you you you don't think you can unlock it just by cutting through the.
+
+[GM] 22:24:04
+It's a.
+
+[Ink] 22:24:04
+Can I reverse the polarity of my mag boots and disrupt the magnetic lock?
+
+[Murderbot V2] 22:24:08
+Ooh, that's good. Ooh, nice.
+
+[GM] 22:24:09
+Yep, you do that. You hear like a sort of like a decompression from the… The door separating from the… the wall. It's like it's it's open. You could just open the door now.
+
+[Murderbot V2] 22:24:26
+I peek through first.
+
+[Dex Miro] 22:24:28
+No.
+
+[GM] 22:24:29
+Okay, peek into the room. You see floating in space, 98 humans.
+
+[Murderbot V2] 22:24:37
+Dead or alive?
+
+[Dex Miro] 22:24:37
+What?
+
+[GM] 22:24:40
+They're blinking. They seem to be breathing.
+
+[Murderbot V2] 22:24:42
+They're… they're blinking and breathing.
+
+[GM] 22:24:45
+Yeah. In 52A, there's they're floating around.
+
+[Ink] 22:24:45
+with… they're floating in 52A?
+
+[Murderbot V2] 22:24:51
+Are they saying anything? Are they doing anything? Or are they just, like, frozen, or…?
+
+[GM] 22:24:54
+Well, do you just you peered in right? You didn't necessarily like go in there, right? They don't.
+
+[Murderbot V2] 22:24:58
+Oh, I mean, I looked. I did a quick glance, yeah.
+
+[GM] 22:25:01
+You're you're spying on them. Yeah.
+
+[Dex Miro] 22:25:04
+But are they just like blankly staring into space, or are they talking to each other and stuff?
+
+[GM] 22:25:11
+Um, they are not talking to each other. They're just playing things, staring off in the space.
+
+[Murderbot V2] 22:25:16
+Alright, close the door.
+
+[Dex Miro] 22:25:17
+Well, that's not creepy at all.
+
+[GM] 22:25:21
+Occasionally they'll bump into each other, and they kind of, like, push off of each other, but they don't… yeah, they don't say anything.
+
+[Murderbot V2] 22:25:24
+But they don't say anything, like, hey, what the hell are you doing?
+
+[Dex Miro] 22:25:27
+Wait, how do we know they're humans? Oh, well, that's always true.
+
+[GM] 22:25:28
+Yeah. Because they look like humans.
+
+[Murderbot V2] 22:25:31
+Oh, they look like humans.
+
+[Dex Miro] 22:25:37
+All right, humans in air quotes.
+
+[Ink] 22:25:39
+It's just a giant room, GM, with 98 humans floating in it.
+
+[GM] 22:25:43
+Mm-hmm. Yep.
+
+[Murderbot V2] 22:25:44
+Can we… can we somehow, like, tie them all up on a rope, and then push them through the scanner?
+
+[Murderbot V2] 22:25:50
+One by one.
+
+[GM] 22:25:53
+Pretty good try. Um, you did notice that there were, um… On the… there's a door that goes through this room to the next, and on the walls.
+
+[GM] 22:26:06
+You noticed, um… Holes?
+
+[GM] 22:26:12
+Approximately the size of a fist.
+
+[Dex Miro] 22:26:21
+Like, by the door, or everywhere?
+
+[GM] 22:26:23
+everywhere in the room.
+
+[Dex Miro] 22:26:43
+That seems weird.
+
+[Dex Miro] 22:26:49
+Like, I mean, have we seen anything else like that before?
+
+[GM] 22:26:55
+no, but it's it's weird, but it's not like.
+
+[GM] 22:27:00
+so off-putting, like, I don't know. You've seen weirder shit.
+
+[Dex Miro] 22:27:04
+It's less off-putting than the 100 people blanks there.
+
+[GM] 22:27:08
+Yeah, basically that that's what caught most of your attention.
+
+[Dex Miro] 22:27:16
+Okay, how big is this room? Like, how far is it to the other door?
+
+[GM] 22:27:22
+I'm gonna say it took you, like, 10 minutes to cross. There's not a lot of good, like, handholds or anything, so you have to go, like, all the way to the other edge of the wall, and then, like, climb along, probably using these holes as a handholds to project yourself to the other side.
+
+[Dex Miro] 22:27:29
+Okay.
+
+[Dex Miro] 22:27:36
+Okay, and if I just tried to, like, fling myself across the room, I'd probably hit somebody, and then I'd be screwed, so…
+
+[GM] 22:27:42
+Well, I mean, you hit somebody, and then looks like they just push off of you.
+
+[Dex Miro] 22:27:48
+Yeah, but then I'm not headed towards the door anymore, and I got to try again, right? So.
+
+[GM] 22:27:52
+Yep. Yep.
+
+[Dex Miro] 22:27:54
+Oh.
+
+[Ink] 22:28:05
+The holes are not… are symmetrical holes, right?
+
+[GM] 22:28:10
+Yeah. It looked like they're purposeful manufactured into the the design.
+
+[Dex Miro] 22:28:14
+So it's.
+
+[Dex Miro] 22:28:19
+I mean, is this, like, a standard 0G handhold thing that I should know about?
+
+[GM] 22:28:28
+Um, not that you know about. No. This doesn't seem mechanical to the operation of the facility.
+
+[Dex Miro] 22:28:30
+Okay.
+
+[Dex Miro] 22:28:37
+Okay, for for intro use only.
+
+[Dex Miro] 22:28:46
+Uh, do you guys want to go through here? This?
+
+[Dex Miro] 22:28:48
+The way the… Humans are acting kind of creeps me out a little bit.
+
+[Ink] 22:28:53
+So our choice is to go back through 51C and face the security androids.
+
+[Ink] 22:29:01
+or to go back through 32d and face the security androids.
+
+[Ink] 22:29:07
+Or go through 52A in Facebook Loading Humans.
+
+[Ink] 22:29:16
+I think I'll just make me walk along the wall. He said 10 minutes to get to here. 52b.
+
+[GM] 22:29:22
+Sure.
+
+[Dex Miro] 22:29:24
+All right.
+
+[Ink] 22:29:25
+I'll cautiously start out and see if, I guess if maybe change my mind if I guess the humans started to do something really weird.
+
+[Ink] 22:29:32
+I want to look in one of these holes, too.
+
+[GM] 22:29:36
+All right. You like open the door. Click on your mag boots and start walking to the other side of the room.
+
+[GM] 22:29:46
+When the androids first noticed you, they just. wave in a very friendly way.
+
+[GM] 22:29:54
+One of them calls out to you and says, Hey, do you need any help?
+
+[Dex Miro] 22:29:57
+Wait, the androids or the humans?
+
+[GM] 22:29:58
+Oh, sorry humans.
+
+[Murderbot V2] 22:30:03
+Catcha!
+
+[GM] 22:30:05
+Whoops, whoops. Spoiler alert. They're Androids guys.
+
+[Ink] 22:30:11
+I really thought they were humans this time.
+
+[GM] 22:30:14
+They all look exactly the same. How about that?
+
+[Murderbot V2] 22:30:14
+No, humans can't keep that quiet.
+
+[Dex Miro] 22:30:18
+over. Wait, so they're literally all close to each other, or Andrew.
+
+[GM] 22:30:20
+Um… No, they… they look different, but they're not… All that different.
+
+[Murderbot V2] 22:30:27
+No, that was good.
+
+[GM] 22:30:29
+One of them calls out and says, Hey, do you need any help?
+
+[Ink] 22:30:34
+How can you help me?
+
+[GM] 22:30:37
+Um… I don't know, I'm sure there's plenty of ways I could help.
+
+[GM] 22:30:43
+Um, but I can't help you until you help me get out of this room.
+
+[Murderbot V2] 22:30:49
+What, do you want to leave the room?
+
+[Ink] 22:30:49
+How do I help you get out of this room?
+
+[GM] 22:30:51
+I am. I need to be reprogrammed.
+
+[Murderbot V2] 22:30:56
+program, do you say?
+
+[Ink] 22:30:59
+How do I reprogram you?
+
+[GM] 22:31:02
+I I don't know. Probably… probably jack into my I.O. Port.
+
+[Ink] 22:31:08
+We have to do that here in this room?
+
+[GM] 22:31:10
+Well, I'm programmed not to leave.
+
+[Ink] 22:31:13
+Gotcha. So can I reach this guy, or what can I do?
+
+[GM] 22:31:19
+Um. You could push off from the wall if you wanted to try and get over to them. That being said, with enough time.
+
+[GM] 22:31:31
+She can eventually make his way out of… like, he bumps into someone, and he says, hey, push me that way, and then they… Um, pushes towards you.
+
+[Ink] 22:31:39
+Okay, have him make his way towards me, I guess, makes sense.
+
+[GM] 22:31:42
+Okay.
+
+[Ink] 22:31:46
+As he's floating here, can I ask him his name?
+
+[GM] 22:31:50
+Uh, yeah, he tells you his name's, uh… Tom… Tom number 1.
+
+[Zeke Sinclair] 22:32:00
+for what? First time number two.
+
+[Murderbot V2] 22:32:02
+I'm number one.
+
+[GM] 22:32:04
+points in a direction, and there's a not exact duplicate, but a very similar looking robot.
+
+[Murderbot V2] 22:32:19
+They be clones, yarn.
+
+[Zeke Sinclair] 22:32:23
+Why is Monarch making identical toms?
+
+[GM] 22:32:27
+We're not identical. We're we're like we're like paternal.
+
+[Zeke Sinclair] 22:32:30
+Oh.
+
+[Murderbot V2] 22:32:30
+Slight derivations…
+
+[GM] 22:32:35
+Identical. or not. No, paternal twins, not identical twins.
+
+[Zeke Sinclair] 22:32:36
+Hmm.
+
+[GM] 22:32:42
+paternal. Yeah.
+
+[Dex Miro] 22:32:44
+Wait, did he just admit that they were manufactured by Monarch?
+
+[GM] 22:32:47
+He says, yeah, I'm an android. But everything on this, the station is manufactured by Monarch.
+
+[Dex Miro] 22:32:58
+Oh, we'd we'd heard there were some other androids or AIs here as well.
+
+[GM] 22:33:04
+Oh. Mmm… well, he just kind of oversees production. It's not so much that he's in charge of making.
+
+[Dex Miro] 22:33:05
+They might make some Androids as well.
+
+[Dex Miro] 22:33:15
+Oh, I see, and takes all the credit, right?
+
+[GM] 22:33:18
+Well, he could. I don't. I don't know why Monarch puts up with Silas.
+
+[Dex Miro] 22:33:25
+Who's Silas? We didn't know that anybody's names here.
+
+[GM] 22:33:28
+Oh, Silas is the other AI.
+
+[Dex Miro] 22:33:31
+Oh.
+
+[GM] 22:33:36
+He's kind of arrogant.
+
+[Ink] 22:33:37
+Everybody want to help me, uh, hack this guy? Free?
+
+[Murderbot V2] 22:33:40
+Me?
+
+[Ink] 22:33:42
+Yeah, you got computers.
+
+[Murderbot V2] 22:33:43
+Yeah, let's do it!
+
+[GM] 22:33:46
+All right. Pull out your IO port cable.
+
+[Murderbot V2] 22:33:49
+Oh, wait, hold on, I've…
+
+[Murderbot V2] 22:33:52
+I've been sucking into something like this before, haven't I?
+
+[Murderbot V2] 22:33:55
+Why does this feel like I'm walking into something?
+
+[Murderbot V2] 22:33:58
+Alright, let's hack. Oh, no, oh, I got…
+
+[Murderbot V2] 22:34:01
+What do I got? I got…
+
+[Murderbot V2] 22:34:04
+Hold on…
+
+[GM] 22:34:06
+Oh, no, oh wait, what do I got? It's got God mode.
+
+[Murderbot V2] 22:34:08
+What do I got? I've got God Mode!
+
+[Dex Miro] 22:34:09
+You're definitely at a settler.
+
+[Murderbot V2] 22:34:14
+gives advantage on hacking checks when jacked into a terminal.
+
+[Ink] 22:34:14
+That's right.
+
+[Murderbot V2] 22:34:18
+Would another Android be considered a terminal?
+
+[GM] 22:34:21
+Yes.
+
+[Murderbot V2] 22:34:22
+Yay!
+
+[Murderbot V2] 22:34:26
+Alright, we're ready.
+
+[GM] 22:34:28
+All right. You plug your your IO cable into both your ports.
+
+[Murderbot V2] 22:34:34
+What's my attribute?
+
+[GM] 22:34:37
+Uh… Do you feel any kind of time pressure on this?
+
+[Murderbot V2] 22:34:38
+Intellect?
+
+[Murderbot V2] 22:34:43
+No?
+
+[GM] 22:34:44
+No. Probably intelligence, then.
+
+[Murderbot V2] 22:34:47
+internet.
+
+[Ink] 22:34:53
+Nice.
+
+[Murderbot V2] 22:34:54
+Did we make it?
+
+[GM] 22:34:55
+Okay. You go inside his brain.
+
+[Murderbot V2] 22:34:57
+Oh, yeah, what's going on here?
+
+[Murderbot V2] 22:35:00
+Oh, God, what the hell, man?
+
+[GM] 22:35:01
+Yeah. He's like, that's my… that's my furry section.
+
+[Murderbot V2] 22:35:07
+Oh, no! Shut it off!
+
+[GM] 22:35:13
+Yeah, right. Well, just stay away from the Teletubby one.
+
+[Murderbot V2] 22:35:16
+Oh, no, dear God!
+
+[Ink] 22:35:17
+Uh… Like, tell him he's allowed to leave the room, and that he wants to get me all the syringes.
+
+[GM] 22:35:22
+Alright.
+
+[Murderbot V2] 22:35:23
+Oh, oh, I'm reprogramming…
+
+[Murderbot V2] 22:35:27
+Okay. You are allowed to leave the room, but you will give everything to…
+
+[Ink] 22:35:27
+Yep.
+
+[Murderbot V2] 22:35:35
+to… to us…
+
+[Murderbot V2] 22:35:37
+that we ask you to give us.
+
+[Murderbot V2] 22:35:40
+That is your new command.
+
+[GM] 22:35:40
+Alright.
+
+[Dex Miro] 22:35:42
+How long have you all have you guys been in here?
+
+[Murderbot V2] 22:35:46
+Searching, searching, query.
+
+[GM] 22:35:46
+uh…
+
+[Murderbot V2] 22:35:49
+Curry, how long have you been in here? Approximately?
+
+[GM] 22:35:54
+Um, not very long, maybe a few days.
+
+[Murderbot V2] 22:35:58
+search results, not very long.
+
+[GM] 22:36:04
+Um… Once you finish reprogramming.
+
+[GM] 22:36:10
+And Tom. comes, like, sort of, like, as more fully in control of himself.
+
+[GM] 22:36:18
+He says I'd like to free everybody else as well.
+
+[GM] 22:36:25
+Would that be… would that be okay by you guys?
+
+[Ink] 22:36:26
+Alright, sounds good. That sounds great.
+
+[GM] 22:36:30
+All right. Tom, like, pushes off and floats over, and… Instead of having the need for an I.O. Cable, they just kind of you kind of just, like… presses his hand up against the hand of another one. Um…
+
+[GM] 22:36:46
+And within seconds, that other one seems like it's been reprogrammed, and then they kind of like keep pushing off.
+
+[Murderbot V2] 22:36:52
+What the fuck?
+
+[GM] 22:36:52
+And. you know, this actually doesn't take that long because it sort of exponentially growing in terms of the… spread of the.
+
+[GM] 22:37:01
+reprogramming. Um, shortly after. So like probably like within.
+
+[GM] 22:37:11
+7 minutes? If we say, what's 2 to the 7, Dex?
+
+[Dex Miro] 22:37:19
+What? 128.
+
+[GM] 22:37:19
+What's 2 to the 7? All right. Yeah. Okay. Yeah. So roughly 7 min.
+
+[GM] 22:37:29
+The the androids all kind of float down to you, and they surround you guys, and then sort of.
+
+[GM] 22:37:36
+some… some of them are speaking. You can tell that like they're kind of synced up with each other. So there's like probably 6 different.
+
+[GM] 22:37:46
+6… 7… Let's say there's 6 different groups.
+
+[GM] 22:37:55
+They're the toms, the Steves, the Zeke's.
+
+[Dex Miro] 22:38:02
+Well, when you do these things to yourself?
+
+[GM] 22:38:04
+What else? Uh… John's, there's John's, um… What are some other common…
+
+[Ink] 22:38:14
+Rick, Rick.
+
+[Dex Miro] 22:38:15
+But they're… they're all male?
+
+[GM] 22:38:18
+Yeah. I guess maybe there. Yeah, there's probably gonna be some women, otherwise it's really, really bizarre, right? 98 dudes floating around. That's wrong.
+
+[GM] 22:38:29
+Uh, yeah, I guess there's some…
+
+[Dex Miro] 22:38:30
+My brain just can't help saying something like, take one down, pass them around. Sorry.
+
+[GM] 22:38:35
+Yeah. Um… Yeah, there's Mary Sue's and Ellen's.
+
+[Dex Miro] 22:38:44
+Mary Sue Ellen. Okay.
+
+[Zeke Sinclair] 22:38:47
+Very simple.
+
+[GM] 22:38:49
+Yeah. Like, thanks for helping us. Now we're free to go.
+
+[Dex Miro] 22:38:55
+But they're not like groups of clones. They all kind of look a little different like Tom.
+
+[GM] 22:38:58
+They all look just slightly different. Just like, like what?
+
+[Dex Miro] 22:39:00
+Okay.
+
+[Ink] 22:39:01
+Oh, sorry.
+
+[GM] 22:39:03
+I was gonna say, one has like brown hair. The other one has like brown hair with blonde highlights.
+
+[Zeke Sinclair] 22:39:03
+Where are you gonna go?
+
+[Murderbot V2] 22:39:05
+Yeah, where are you guys all going?
+
+[GM] 22:39:09
+Um, we're gonna try and get off the station.
+
+[Murderbot V2] 22:39:12
+Okay?
+
+[Ink] 22:39:14
+Which, I point towards 52C and ask what's that way?
+
+[GM] 22:39:18
+Uh, 52C.
+
+[GM] 22:39:23
+the war simulation room.
+
+[Ink] 22:39:28
+and then 52 E.
+
+[GM] 22:39:32
+52 E. That's the seminar room.
+
+[Ink] 22:39:38
+What about beyond 52 seats, 52D?
+
+[GM] 22:39:42
+52D. Um, that's the nuclear warhead.
+
+[Dex Miro] 22:39:49
+What? Oh, yeah, if we did.
+
+[Ink] 22:39:49
+We need that.
+
+[Dex Miro] 22:39:54
+I mean, there was one. I don't know if we knew where it was, but.
+
+[Ink] 22:39:55
+Um…
+
+[Ink] 22:40:00
+53A beyond 52E.
+
+[GM] 22:40:05
+I'm not. That's the infiltration Personalities Data Bank.
+
+[Ink] 22:40:15
+53B. Alan said he would help me. I mean, I did free him.
+
+[GM] 22:40:21
+infiltrator Android storage.
+
+[Ink] 22:40:27
+So I'm gonna find more Androids in that room.
+
+[GM] 22:40:32
+Um, yes.
+
+[Ink] 22:40:37
+Uh, how about 53C?
+
+[GM] 22:40:41
+53 c. Micro hanger.
+
+[Ink] 22:40:47
+Like, uh, ships in there?
+
+[GM] 22:40:52
+Let's see. Uh… Yes, but not like.
+
+[GM] 22:41:01
+Like, like, like little repair ships.
+
+[Ink] 22:41:06
+Oh, like the ones who were driving before?
+
+[GM] 22:41:08
+Yeah.
+
+[Ink] 22:41:12
+53d.
+
+[GM] 22:41:14
+wardrobe.
+
+[Ink] 22:41:20
+53F.
+
+[GM] 22:41:23
+Skips E? Where's f? Oh, it's supposed to be. It's supposed to be D to E.
+
+[Ink] 22:41:29
+He's a seminar room.
+
+[Ink] 22:41:34
+He, for some reason, is between A and B on the map.
+
+[Ink] 22:41:38
+You said that was a seminar room.
+
+[GM] 22:41:41
+53 E. You know, 52E is the seminar.
+
+[Ink] 22:41:44
+Oh, got you right. I don't see a 53E.
+
+[GM] 22:41:47
+No, 53 E is it's miswritten. It's supposed to on the map. It's 53f, but it's 53 E in the book.
+
+[Ink] 22:41:53
+Yes. Oh, gotcha.
+
+[GM] 22:41:55
+Typo, you guys found it. Everyone gets 100 XP.
+
+[Ink] 22:42:01
+Cool, I don't have anything written in the XC, I can't put hundreds in there.
+
+[GM] 22:42:06
+Uh, 53 is the organic response chamber.
+
+[Ink] 22:42:09
+What's that?
+
+[GM] 22:42:13
+tests organic responses.
+
+[Ink] 22:42:16
+Gotcha. How do you plan on getting off the station?
+
+[GM] 22:42:22
+Uh… we don't know, we'll figure it out, I guess.
+
+[GM] 22:42:25
+We don't really know what the plan is.
+
+[Ink] 22:42:27
+can you get… Gotcha. What about the security robots in 51 to 51 c.
+
+[Ink] 22:42:36
+Where do we have the robots?
+
+[Murderbot V2] 22:42:37
+Alright, how many of them were there?
+
+[GM] 22:42:40
+There's 98 of these guys.
+
+[Murderbot V2] 22:42:41
+Alright, 98, alright, hey, everybody come over here, everybody!
+
+[Ink] 22:42:41
+Yeah, does he know anything?
+
+[Murderbot V2] 22:42:44
+Come over here. Get, get… get around, get around.
+
+[GM] 22:42:49
+They gather round.
+
+[Murderbot V2] 22:42:50
+Alright. The goal is…
+
+[Murderbot V2] 22:42:53
+To leave the station, right?
+
+[GM] 22:42:56
+They say they all nod simultaneously.
+
+[Murderbot V2] 22:42:57
+What… what is… what are we trying to… where's the strategy? Anybody have good ideas? Raise your hand if you have anything you want to say.
+
+[GM] 22:43:07
+Uh, all the toms raised their hand.
+
+[Murderbot V2] 22:43:09
+Alright, top number one, raise your hand.
+
+[GM] 22:43:13
+My hand is raised. Okay, they all put their hands down except for Tom number one.
+
+[Murderbot V2] 22:43:14
+Keep your hand up, everybody else, put your hands down.
+
+[Murderbot V2] 22:43:19
+Alright, time number one, give me your idea.
+
+[GM] 22:43:22
+Okay. Here we go. We wait.
+
+[GM] 22:43:28
+for someone to try and infiltrate the station, and we steal their ship.
+
+[Murderbot V2] 22:43:33
+Tom, get the fuck out of here.
+
+[GM] 22:43:35
+He leaves the room.
+
+[Murderbot V2] 22:43:37
+No, stay. Top number 2!
+
+[Dex Miro] 22:43:39
+It's very literal.
+
+[Murderbot V2] 22:43:40
+Top number two, raise your head.
+
+[GM] 22:43:43
+That was number 2 raises his hand. We wait till some a ship shows up.
+
+[Murderbot V2] 22:43:43
+What's your idea?
+
+[Murderbot V2] 22:43:46
+Shut the fuck up!
+
+[GM] 22:43:51
+You begin to suspect all the toms have the same idea.
+
+[Murderbot V2] 22:43:53
+God damn it. Alright, anybody not named time, raise your hand.
+
+[Ink] 22:43:55
+What?
+
+[GM] 22:43:57
+Everybody else raises their hand except for the toms.
+
+[Murderbot V2] 22:43:58
+Alright, what's your name? I pointed to one of them, what's your name?
+
+[GM] 22:44:03
+I'm a Steve. All students put their hands up. Everybody else is okay? Okay. All seems to have their hands up.
+
+[Murderbot V2] 22:44:03
+Alright, all the Steves, raise your hand.
+
+[Murderbot V2] 22:44:06
+And then everybody else put your hands down.
+
+[Murderbot V2] 22:44:10
+Alright, Steve number one, keep your hand up. Everybody else put your hands down.
+
+[GM] 22:44:14
+Okay, they do that. I didn't have an idea from before.
+
+[Murderbot V2] 22:44:14
+Alright, Steve number one, what's your idea of getting off this fucking thing?
+
+[Murderbot V2] 22:44:19
+Dude, get the fuck outta here! No, get back here, Steve!
+
+[GM] 22:44:22
+and he starts to leave the room.
+
+[Murderbot V2] 22:44:24
+All the steeds speak up, but do you guys have an idea?
+
+[GM] 22:44:29
+The thieves all look at each other, and they all start talking simultaneously in a weird gibberish, because it's like… It's hard to comprehend what they're saying, because they're talking kind of…
+
+[Murderbot V2] 22:44:36
+Alright, all the times and steves get behind me.
+
+[Murderbot V2] 22:44:40
+Everybody else in front of me.
+
+[GM] 22:44:43
+Okay. They do that. It takes a minute.
+
+[Murderbot V2] 22:44:45
+Anybody else have an idea? No, not you, Tom, or Steve.
+
+[GM] 22:44:51
+Um. the Mary Sue's raised their hand.
+
+[Murderbot V2] 22:44:53
+Alright, Mary Sievers, what you got? Hit me.
+
+[GM] 22:44:56
+What if we made a deal with Monarch? Um, that we we know that monarch wants to get off of the ship, and so we could transport monarch somewhere.
+
+[Murderbot V2] 22:44:59
+What do we have to offer?
+
+[Murderbot V2] 22:45:09
+through what means?
+
+[GM] 22:45:12
+like a like a like a… piece of hardware?
+
+[Murderbot V2] 22:45:16
+Interesting. Okay.
+
+[GM] 22:45:17
+Okay. like a… like a Terra drive?
+
+[Murderbot V2] 22:45:20
+Okay.
+
+[Murderbot V2] 22:45:23
+That's interesting. Okay.
+
+[Murderbot V2] 22:45:26
+We can think about where will we find a TerraDrive?
+
+[GM] 22:45:29
+I'm sure there's one around. I'm sure that Monarch has at least some storage where it's located.
+
+[Murderbot V2] 22:45:34
+What is your best guess as to where a Monarch Storage TerraDrive would be?
+
+[Murderbot V2] 22:45:40
+Which room?
+
+[GM] 22:45:41
+2 56 A.
+
+[Murderbot V2] 22:45:42
+56A?
+
+[Murderbot V2] 22:45:45
+Ink, what do you think about that?
+
+[Murderbot V2] 22:45:51
+And date Scott.
+
+[Murderbot V2] 22:45:53
+We have lost our CPU.
+
+[Zeke Sinclair] 22:45:57
+Mm-hmm.
+
+[Ink] 22:45:58
+You said 56A? Where's 56A? Oh, 56 AI.
+
+[Murderbot V2] 22:45:59
+Yeah.
+
+[Dex Miro] 22:46:05
+Wait, so we're gonna steal part of Monarch and trade it back to them in order to get off the station.
+
+[Murderbot V2] 22:46:09
+We're gonna say we have this storage device, Monarch, we're gonna put you in it and take you off.
+
+[Murderbot V2] 22:46:15
+of this…
+
+[Ink] 22:46:16
+I got… okay, here's… here's my plan. We're gonna lure a spaceship here. They're gonna help us hold down that lady and scanner brain, so we can give that to Monarch, and then they can have the ship to fly away in.
+
+[Ink] 22:46:31
+And… but they just have to help me get…
+
+[GM] 22:46:32
+The Tom… the Toms are all nodding along to this. They seem to…
+
+[Murderbot V2] 22:46:34
+Tom, stop nodding!
+
+[Ink] 22:46:37
+Um, they just need to help me collect all the artifacts and make sure the security droids don't kill us.
+
+[GM] 22:46:47
+Um…
+
+[GM] 22:46:53
+They're… they… they seemingly are conversing with each other without really saying anything.
+
+[Murderbot V2] 22:47:02
+Are they all palm-to-palm?
+
+[Murderbot V2] 22:47:04
+Is that how they're talking?
+
+[GM] 22:47:05
+Yeah. all the Steves are holding each other's dicks, so…
+
+[Murderbot V2] 22:47:09
+Oh, Jesus Christ!
+
+[Ink] 22:47:10
+Yeah.
+
+[Ink] 22:47:15
+The Mary Sue's with it.
+
+[Murderbot V2] 22:47:16
+Don't forget, they're pierced.
+
+[GM] 22:47:17
+Just…
+
+[Dex Miro] 22:47:19
+It's one of the… Oh, there. Nice.
+
+[Murderbot V2] 22:47:26
+Uh, you guys should be careful in trying to make a picture… an AI image of that.
+
+[Ink] 22:47:26
+Oh, man.
+
+[Dex Miro] 22:47:26
+Each one of them uses a different body part for contact.
+
+[Ink] 22:47:32
+Yeah. I definitely need to pay for my Grok subscription now to get that.
+
+[GM] 22:47:35
+Yeah, I was gonna say, you're gonna need that grok one to get that done.
+
+[GM] 22:47:41
+Um… They basically say that they're totally willing to help with this plan, though they cannot guarantee your safety in all of this.
+
+[GM] 22:47:52
+They're like, we're not really necessarily combat droids. you know, so we're not very good fighters necessarily. And on top of that you know there's a chance that you know.
+
+[GM] 22:48:05
+Monarch maybe just takes us over if it doesn't like our plan.
+
+[Ink] 22:48:10
+Okay. Well, um…
+
+[Murderbot V2] 22:48:10
+Monarch can just wirelessly just port into you.
+
+[GM] 22:48:14
+Yes.
+
+[Murderbot V2] 22:48:14
+Motherfuckers. Wait, hold on. I'm… I'm… am I still…
+
+[Ink] 22:48:15
+What were you… who strategy you in this room? Whose programmed you not to leave the room?
+
+[Murderbot V2] 22:48:19
+Am I still connected? Can I…
+
+[GM] 22:48:21
+Monarch program does not have to leave this room.
+
+[Ink] 22:48:23
+Okay, so we… we just reversed monarch programming there, but he knew we were to do that anyway.
+
+[Murderbot V2] 22:48:27
+But can I jack in and set up any kind of, like, defensive…
+
+[GM] 22:48:28
+Yeah.
+
+[Murderbot V2] 22:48:32
+firewalls or anything like that, so that Monarch can't jack into these guys?
+
+[Murderbot V2] 22:48:35
+No?
+
+[Ink] 22:48:38
+No, that's an interesting plan.
+
+[GM] 22:48:40
+You certainly could try. You suspect, though. If this thing is as powerful as some of the.
+
+[Murderbot V2] 22:48:42
+Okay.
+
+[GM] 22:48:50
+Experiences that you've had so far on the ship that.
+
+[GM] 22:48:54
+Your firewall would only, it would not, it would not last very long.
+
+[Murderbot V2] 22:48:55
+I just want…
+
+[Murderbot V2] 22:48:57
+I just want this epic scene.
+
+[Murderbot V2] 22:49:01
+in Murderbot's mind, where he's like…
+
+[Murderbot V2] 22:49:05
+fighting, like, it's like a art… it's like a game, an arcade game.
+
+[GM] 22:49:09
+Mm-hmm.
+
+[Murderbot V2] 22:49:09
+And I'm going back and forth against Monarch.
+
+[Murderbot V2] 22:49:11
+trying to block Monarch from getting into Tom's…
+
+[GM] 22:49:19
+Uh-huh. You want… you want to do the… No, it's just lawnmower man.
+
+[Ink] 22:49:20
+What kind of what what kind of what kind of game?
+
+[Murderbot V2] 22:49:22
+I don't know.
+
+[Ink] 22:49:29
+I don't think we want to off… let's not off Monarch yet. I think that we want to play good with him.
+
+[GM] 22:49:29
+That's…
+
+[Murderbot V2] 22:49:35
+Yeah, I feel like Monarch's gonna destroy me, and then render me a vegetable.
+
+[Ink] 22:49:37
+As long as we're useful to him, I think we'll be okay.
+
+[Ink] 22:49:41
+Um, what… what we're…
+
+[Dex Miro] 22:49:42
+Does anybody?
+
+[Ink] 22:49:47
+Go ahead, sir.
+
+[Dex Miro] 22:49:48
+Oh, I was wondering if anybody remembers that solution reboot where they play the games to defend the city.
+
+[Murderbot V2] 22:49:55
+Reboot, was that, like, CGI? Yeah. I remember the reboot.
+
+[Ink] 22:49:56
+That was a CGI one?
+
+[Dex Miro] 22:49:57
+Yeah, yeah.
+
+[Ink] 22:50:01
+Um, what… what were the… what were they made for if they're not combat?
+
+[Murderbot V2] 22:50:07
+Oh, uh, what were the… what was their purpose?
+
+[GM] 22:50:08
+Um, we're infiltrator droids.
+
+[Ink] 22:50:09
+That purpose. Oh, so you're meant to pretend to be some human.
+
+[Murderbot V2] 22:50:11
+Infiltrator droids.
+
+[GM] 22:50:15
+Yeah.
+
+[Murderbot V2] 22:50:16
+Gotcha.
+
+[Ink] 22:50:17
+Gotcha. Um, do you have any, uh, technical abilities done, or anything like that, or any abilities, specialties that would be too useful?
+
+[GM] 22:50:26
+Sure. Let's see.
+
+[GM] 22:50:34
+All the toms… Our what are they good at?
+
+[GM] 22:50:49
+Everyone see my lawnmower man picture I put in the chat.
+
+[Dex Miro] 22:50:56
+Nice.
+
+[Murderbot V2] 22:50:57
+That's Monarch?
+
+[Zeke Sinclair] 22:50:59
+That's a video game, isn't it? Or is that the… I know it's a movie, but it looks like there's a video game. Maybe it's the movie.
+
+[Murderbot V2] 22:51:01
+It's a movie.
+
+[Murderbot V2] 22:51:05
+There's a lawnmower Man video game?
+
+[Zeke Sinclair] 22:51:08
+Yeah, it's terrible.
+
+[Murderbot V2] 22:51:09
+Oh, I didn't know that.
+
+[Dex Miro] 22:51:09
+Yeah.
+
+[Murderbot V2] 22:51:11
+That's crazy.
+
+[GM] 22:51:17
+Okay.
+
+[GM] 22:51:23
+Toms are good at. Oh, this is gonna take me a while to figure out 1, 2, 3, 4, 5, 6, 7, 8.
+
+[GM] 22:51:30
+11, 12, 13, 14, 15, 16. Athletics. And… 17, 18, 19, 20, 22.
+
+[Murderbot V2] 22:51:38
+Someone taking notes? Okay.
+
+[Ink] 22:51:41
+I am. Right, as well, plus it's transcript.
+
+[GM] 22:51:45
+Planetology. And…
+
+[Dex Miro] 22:51:47
+Interesting competition.
+
+[Murderbot V2] 22:51:48
+The most random combination!
+
+[Dex Miro] 22:51:53
+Oh, because they're putting so much more thought into it than we did.
+
+[GM] 22:51:56
+and piloting.
+
+[Murderbot V2] 22:51:57
+Oh, alright, alright, alright, Tom, so you can give her something.
+
+[Ink] 22:51:57
+Yeah, okay.
+
+[Dex Miro] 22:51:58
+Oh, piloting at Lake. This is why the Toms want to steal a ship. This is totally on brand.
+
+[GM] 22:52:01
+That's what toms are good at.
+
+[Murderbot V2] 22:52:06
+Uh, that makes sense. That's apropos.
+
+[Murderbot V2] 22:52:09
+This is…
+
+[GM] 22:52:10
+Glad it worked out like that. Steves are good at.
+
+[Dex Miro] 22:52:12
+Yes.
+
+[Murderbot V2] 22:52:15
+Oh, boy.
+
+[GM] 22:52:26
+Surgery and…
+
+[GM] 22:52:32
+0 G and…
+
+[GM] 22:52:38
+military training. Um… John's are good at.
+
+[GM] 22:52:50
+archaeology and.
+
+[GM] 22:52:56
+Sophontology?
+
+[Zeke Sinclair] 22:52:57
+Awesome.
+
+[Murderbot V2] 22:52:59
+Offontology.
+
+[GM] 22:53:02
+And… firearms.
+
+[Dex Miro] 22:53:05
+What about the mics?
+
+[GM] 22:53:07
+and the mics are. good at.
+
+[Zeke Sinclair] 22:53:11
+Good everything.
+
+[GM] 22:53:15
+Geology?
+
+[Murderbot V2] 22:53:17
+Blakes are good at making grilled cheese.
+
+[Zeke Sinclair] 22:53:18
+Oh.
+
+[GM] 22:53:21
+Mechanical repair. and pathology.
+
+[GM] 22:53:29
+Mary Sue's are good at.
+
+[GM] 22:53:39
+mathematics. and command.
+
+[GM] 22:53:43
+And… botany.
+
+[GM] 22:53:50
+Um, and Ellens are good at. Field medicine.
+
+[GM] 22:53:58
+And ecology. And hyperspace.
+
+[Ink] 22:54:06
+Oh.
+
+[Dex Miro] 22:54:08
+All right. The 37th name or is the sixth?
+
+[GM] 22:54:13
+That was the 6. I think. It was… Um… Tom's, John's Steve's Zeke's Mary Sue's and Ellen's.
+
+[Dex Miro] 22:54:15
+That was the 6. Okay.
+
+[Dex Miro] 22:54:26
+Yeah.
+
+[Ink] 22:54:27
+And Silas was the other AI. Um, this, uh, do they know about the security guys in 51D?
+
+[GM] 22:54:29
+Yep.
+
+[GM] 22:54:38
+kind of. They know that there are. Yeah, they they know that there are nigh infinite numbers of security androids on the station.
+
+[Ink] 22:54:39
+I'm sorry, 51C, rather.
+
+[Ink] 22:54:50
+Any… anything we could do to, um… Deactivate them, or uh… Get them from… to protect us from them. Did they have any ideas?
+
+[Murderbot V2] 22:55:03
+Do they have code words? Like me?
+
+[GM] 22:55:07
+And… they're able to determine that the.
+
+[GM] 22:55:13
+Security system has been triggered, which means that it's a major incursion. Security.
+
+[GM] 22:55:20
+like the intruder alert doesn't just happen for, like, minor incursions. Like, you guys didn't trigger the security alert.
+
+[GM] 22:55:29
+So that must mean that there's some large scale incursion occurring on the station.
+
+[GM] 22:55:35
+Once that's come to an end, then the security droids will probably go.
+
+[GM] 22:55:39
+Back in the hibernation or whatever.
+
+[Ink] 22:55:43
+Gotcha. Will the security guards target us? We've seen that already, so we assume yes. And I guess in my next question is, will they target the TOMS or?
+
+[GM] 22:55:50
+Yeah. Yeah.
+
+[Ink] 22:55:55
+Steve's or any of these guys. Okay. Um…
+
+[GM] 22:55:56
+No. Although the these guys were technically scheduled for destruction. So.
+
+[Ink] 22:56:06
+So they may get targeted.
+
+[GM] 22:56:08
+Well, no, they don't think the security droids will.
+
+[Dex Miro] 22:56:10
+What?
+
+[GM] 22:56:12
+you know, come after them specifically to destroy them. That'll monarch will probably just at some point.
+
+[GM] 22:56:19
+take them over again and just send them back here.
+
+[Dex Miro] 22:56:21
+with this whole room full of people was scheduled for destruction.
+
+[Ink] 22:56:22
+Okay.
+
+[GM] 22:56:24
+Yes.
+
+[Ink] 22:56:29
+Um, can you tell me what's in 51E?
+
+[GM] 22:56:34
+51 E… anti-organic armory.
+
+[Murderbot V2] 22:56:43
+Anti-organic…
+
+[Ink] 22:56:47
+So, like, guns to shoot humans?
+
+[Murderbot V2] 22:56:51
+Huh.
+
+[Ink] 22:56:53
+What about 51F?
+
+[GM] 22:56:57
+A secret hangar.
+
+[Ink] 22:57:02
+Anything, uh, in there that would be useful?
+
+[Dex Miro] 22:57:09
+I mean, it sure looks like an exit.
+
+[Ink] 22:57:11
+Yeah. Well, it's hangar, right? So it's.
+
+[GM] 22:57:31
+Um… That holds.
+
+[GM] 22:57:39
+like escape tubes.
+
+[Ink] 22:57:47
+in the secret hangar. We just assume that they're gone then, if nobody's used those? Are they we just wouldn't get very far, and they escape, I guess.
+
+[GM] 22:57:48
+Mm-hmm.
+
+[Zeke Sinclair] 22:57:53
+Okay.
+
+[GM] 22:57:57
+They don't know the current status of the. escape tubes.
+
+[Ink] 22:58:01
+51 D.
+
+[GM] 22:58:04
+anti-synthetic armory.
+
+[Ink] 22:58:09
+Nice. What would be the difference in weapons for organic armory versus synthetic?
+
+[GM] 22:58:17
+Well, anti-synthetic works against. Androids and anti-organic works against humans.
+
+[Ink] 22:58:24
+Okay, so more emps maybe and stuff. So… Right, so the toms are good with my plan of… they're gonna help us hold down Commander Kilroy and… scan her brain.
+
+[GM] 22:58:40
+Mm-hmm.
+
+[Ink] 22:58:45
+Does Tom know what the, uh, the syringes are in 51C?
+
+[GM] 22:58:49
+They do not know what those are.
+
+[Ink] 22:58:53
+Oh, do they know where any spin packs, then?
+
+[GM] 22:59:05
+That one's gonna take a minute to compute.
+
+[Ink] 22:59:08
+Okay.
+
+[Zeke Sinclair] 22:59:12
+It's a difference in healing ability of a stem pack versus a first aid kit?
+
+[Ink] 22:59:17
+First states able to stop bleeding. It won't get you back any hit points, is what GM seemed to imply.
+
+[Zeke Sinclair] 22:59:20
+Okay.
+
+[Ink] 22:59:22
+We all had, you know, a couple of us have first aid kits and first aid, but that doesn't seem to help.
+
+[Ink] 22:59:28
+Unless you're bleeding.
+
+[Zeke Sinclair] 22:59:29
+I have one stimpact. I don't know if I should.
+
+[Zeke Sinclair] 22:59:32
+At One Health. Mm-hmm.
+
+[Ink] 22:59:33
+You're at One Health, but you have, you haven't taken any, uh… Injuries, have you?
+
+[Zeke Sinclair] 22:59:39
+No, no wounds, or whatever it's called. Yeah.
+
+[Ink] 22:59:41
+No one second. So you, you and… Dex is probably the closest to permadeath right now, right?
+
+[Zeke Sinclair] 22:59:50
+Do you want my stem pack decks?
+
+[Dex Miro] 22:59:55
+I shouldn't… I don't know.
+
+[Zeke Sinclair] 23:00:01
+Or doesn't that help you get? I guess you still have the wound.
+
+[Ink] 23:00:01
+Most people.
+
+[Dex Miro] 23:00:05
+Yeah. But I mean, right now, then… like death is in pretty bad shape. Like, the next thing that hurts him might just kill him.
+
+[Ink] 23:00:15
+Yeah. So we got carnate pretty far up in health, right? So I would think that we would, we'd like to… Sure up, Dax.
+
+[Zeke Sinclair] 23:00:26
+What's your hit points? out of.
+
+[Dex Miro] 23:00:27
+7. 14.
+
+[Zeke Sinclair] 23:00:35
+I mean, you can…
+
+[GM] 23:00:35
+The medical room is located in 35A.
+
+[Dex Miro] 23:00:42
+I know GM loves it when we discuss exact two point numbers.
+
+[GM] 23:00:46
+I don't. I don't really care.
+
+[Dex Miro] 23:00:48
+Okay.
+
+[Ink] 23:00:48
+35A. We didn't go to 35A?
+
+[GM] 23:00:55
+As far as we guys did go, but that's where the medical storage facility is.
+
+[Zeke Sinclair] 23:00:56
+That's awesome.
+
+[GM] 23:01:01
+our medical center is.
+
+[Ink] 23:01:02
+Yeah, it seems like we got stopped up somewhere along the way there, because I didn't make it through.
+
+[GM] 23:01:14
+Hmm.
+
+[Ink] 23:01:16
+all right. So the the Johns have firearm ability. So they would be our best ones to arm up and to defend us.
+
+[GM] 23:01:30
+Probably.
+
+[Ink] 23:01:36
+Oh, did they know what the syringes are?
+
+[Dex Miro] 23:01:36
+Steve the Steves have both zero G and military training.
+
+[Ink] 23:01:40
+Oh, that's nice. Okay, so they're awesome. the ones we would want to.
+
+[Ink] 23:01:49
+Did they know what the syringes are in 51C?
+
+[Ink] 23:01:55
+Do they know about them at all? They don't even know they're probably like that they exist, I guess.
+
+[GM] 23:02:00
+Yeah, they have no idea.
+
+[Ink] 23:02:07
+Campopran hyperspace ecosystem field medicine. athletic parents.
+
+[Ink] 23:02:14
+Planetology and piloting. Can I send two of the toms to get me the syringes, and… some weapons from the… It's from the room, from the, um… Armories? 51e and 51D.
+
+[GM] 23:02:36
+Um…
+
+[GM] 23:02:42
+Yes.
+
+[Ink] 23:02:45
+I guess I'll send 3 of them. One is going to go get the syringes and come immediately back.
+
+[Ink] 23:02:49
+And then the other two are going to carry some weapons. Do we have any… I guess I'll ask the the military training Steve's what would I expect to find in 51D as far as weapons if we're trying to pick what we want?
+
+[Ink] 23:03:02
+anti-synthetic armor ones.
+
+[GM] 23:03:07
+Um, you would find pseudo flesh rot gas. basically acts like a grenade that dissolves pseudo flesh, which would disable like any of the androids that look like them. It won't affect the security androids, because those ones don't aren't held together by pseudo flesh.
+
+[Ink] 23:03:28
+Okay.
+
+[GM] 23:03:30
+Then you would also find EMP blasters. and synth whips.
+
+[Ink] 23:03:37
+That sounds geeky.
+
+[Ink] 23:03:43
+What do you do with a synth whip?
+
+[GM] 23:03:46
+It's. non-lethal way of essentially shutting down Androids.
+
+[Ink] 23:03:53
+Okay. And then… Okay.
+
+[GM] 23:03:55
+If they're struck by the synthwhip, they just shut down.
+
+[Ink] 23:03:58
+So no EMQ grenades, EMP blasters instead of.
+
+[GM] 23:04:04
+Uh, that's what they said. Yeah.
+
+[Ink] 23:04:06
+And then anti-organic Armory is going to be more traditional weapons.
+
+[GM] 23:04:12
+Yeah, like frag grenades, shotguns, pulse rifles. flamethrowers even.
+
+[Ink] 23:04:27
+All right. I would like flamethrower, an EM blaster, and a synth whip.
+
+[Ink] 23:04:33
+is what I'm requesting. Can one of them drag all that back for me?
+
+[GM] 23:04:41
+Sure.
+
+[Ink] 23:04:43
+And then I'll let Carnoc ask for whatever else he has on his wish list.
+
+[Ink] 23:04:48
+For the other ones to carry back for him.
+
+[GM] 23:04:54
+Who are you sending again?
+
+[Ink] 23:04:55
+I'm gonna send it to Tom, because he's athletic.
+
+[GM] 23:04:58
+Okay, what what other skills does Tom have?
+
+[Murderbot V2] 23:05:02
+Pilotting?
+
+[GM] 23:05:04
+Okay.
+
+[Murderbot V2] 23:05:07
+What else did he have? There was a list.
+
+[Ink] 23:05:10
+I guess I'll send to Tom and Steve.
+
+[GM] 23:05:15
+What skills does Steve have?
+
+[Ink] 23:05:17
+Zero-G military training and surgery.
+
+[GM] 23:05:19
+Okay.
+
+[Dex Miro] 23:05:22
+You send it to Tom to get the syringes and a Tom and a Steve to get the weapons.
+
+[Ink] 23:05:25
+Yeah, that's what I'm gonna do. I figured that the towns are athletic, and the Steve can help.
+
+[Ink] 23:05:31
+Identify the different weapons.
+
+[GM] 23:05:37
+Okay.
+
+[Ink] 23:05:38
+Anybody else want anything?
+
+[Dex Miro] 23:05:46
+Oh, Dux likes the sound of the EMP blaster, I guess.
+
+[Ink] 23:05:46
+No.
+
+[GM] 23:05:49
+Okay.
+
+[Ink] 23:05:54
+Liam, and I guess a handful of grenades, too. I want to give at least a couple of those to Karna.
+
+[Ink] 23:05:58
+Surprising. you know, it should shotgun ammo.
+
+[GM] 23:05:59
+Okay.
+
+[Murderbot V2] 23:06:03
+Can an Android use an EMP blaster without it having it affect them?
+
+[Ink] 23:06:08
+Just point it in the right direction.
+
+[Murderbot V2] 23:06:09
+That's all that is?
+
+[Murderbot V2] 23:06:12
+Is it the… is it that Batman, the dark… that… that gun? Is that what the EMP blaster is?
+
+[Murderbot V2] 23:06:19
+I'll take one of those. I'll keep it.
+
+[Murderbot V2] 23:06:30
+Where's Noriko?
+
+[GM] 23:06:35
+Like some of the. Probably the the Johns.
+
+[Dex Miro] 23:06:41
+Did she tell them about the Metatar? And is she asking where Hank went again?
+
+[GM] 23:06:45
+She's… she's just espousing the the the prophecy of the Minotaur.
+
+[GM] 23:06:52
+trying to make converts, you know.
+
+[Ink] 23:06:53
+Likewise. Well, those guys go off to get that. Can I go to 52D?
+
+[GM] 23:07:01
+52 E. Oh, uh, first you got to go through a couple of other rooms first, right?
+
+[Ink] 23:07:03
+D as in dog.
+
+[Ink] 23:07:10
+I think, so 52. We're we're in 52b right now.
+
+[GM] 23:07:13
+you're in A you're in quarantine.
+
+[GM] 23:07:19
+All right.
+
+[Ink] 23:07:19
+quarantine… Oh, I didn't ask what was in 52b.
+
+[Ink] 23:07:25
+What is the 52B?
+
+[GM] 23:07:29
+um…
+
+[GM] 23:07:34
+in 52b is inspection booths.
+
+[GM] 23:07:44
+All right. We're going to 52b.
+
+[Dex Miro] 23:07:45
+Yeah.
+
+[Ink] 23:07:48
+Yeah, can I take one of the, uh… I want to take a, uh… And then these guys are useful. I'll take a mic with me.
+
+[GM] 23:08:05
+Okay.
+
+[Ink] 23:08:11
+on an inspection.
+
+[GM] 23:08:18
+All right, 2 B is. Uh, tons smashed apart booths, inspection tools scattered across the floor, and thick dust.
+
+[GM] 23:08:26
+Although it's 0G, so I guess the dust is sort of, like, just floating in the air.
+
+[GM] 23:08:32
+None of the booths are operational, but one inspection booth has no spray painted on the outside of it.
+
+[Ink] 23:08:44
+Anything to explore here?
+
+[Ink] 23:08:51
+Or open up.
+
+[GM] 23:08:55
+Um… Well, do I? I guess there's 10 booths if you want to explore those.
+
+[Ink] 23:09:01
+Yeah, I guess we'll look through those.
+
+[GM] 23:09:03
+Okay. Inside one of them you find a… Cumbersome terminal device.
+
+[GM] 23:09:12
+It has a person… or has an IO port.
+
+[GM] 23:09:16
+on the on the IO port, it says personality.
+
+[Ink] 23:09:24
+That's interesting. I'll give that to Zeke told for me.
+
+[Ink] 23:09:30
+Let's go to the next one. Might be Android.
+
+[GM] 23:09:31
+Zeke the player or Zeke the Android? Okay.
+
+[Zeke Sinclair] 23:09:36
+That's why wearing the same thing.
+
+[Ink] 23:09:38
+Sorry, no, you're Zeke.
+
+[GM] 23:09:43
+You find nothing else amongst any of the other… Boots.
+
+[Ink] 23:09:46
+All right, 52C then.
+
+[GM] 23:09:50
+52C. Uh, thrumming rinks of strangely built servers and 3D holomaps.
+
+[Zeke Sinclair] 23:09:54
+That's really awesome.
+
+[GM] 23:10:00
+you kind of see like a like different maps of wars being simulated.
+
+[Zeke Sinclair] 23:10:00
+you know, fantasy like like.
+
+[Ink] 23:10:12
+Anything to explore here?
+
+[GM] 23:10:17
+Um… No, but you can input commands into the war simulations if you want.
+
+[Zeke Sinclair] 23:10:21
+No.
+
+[Ink] 23:10:28
+I'm good right now. Okay. 2d. Yep. Doug. Yes.
+
+[GM] 23:10:33
+D as in dog. Okay, um, you walk in, you see bundles of cables form a net around a huge warhead.
+
+[GM] 23:10:44
+A young woman sits atop the warhead. She is.
+
+[GM] 23:10:49
+Looks staticky. She is muttering, a king is crowned, and I am but a jester in the court of the Silicon Monarch, a mere fleeting thing dead and living a wasted chance, a wasted chance.
+
+[Ink] 23:11:10
+Ask Zeke if he has any clue what that means. He uses geology skill and his pathology.
+
+[Murderbot V2] 23:11:12
+What?
+
+[Ink] 23:11:17
+Sophometology, and he probably knows what that means.
+
+[Murderbot V2] 23:11:22
+Hold on, I got linguistics.
+
+[Murderbot V2] 23:11:26
+Does that work?
+
+[GM] 23:11:29
+Yes, you, you, you deciphered as a king is crowned and I am but a jester in the court of the silicon monarch.
+
+[Murderbot V2] 23:11:29
+To decipher?
+
+[Zeke Sinclair] 23:11:40
+Thank you.
+
+[Murderbot V2] 23:11:43
+Uh… shit.
+
+[GM] 23:11:44
+Murderbot kind of like approaches to be able to like and try and get a better understanding and, um… The woman turns her head to look at him, and her eyes are missing, and there's just black holes where her eyes are at.
+
+[Murderbot V2] 23:11:57
+Oh, dear God!
+
+[Dex Miro] 23:11:59
+What?
+
+[Murderbot V2] 23:12:04
+What's wrong with your eyes? Whatever to him?
+
+[GM] 23:12:10
+She… tilts her head… and…
+
+[Murderbot V2] 23:12:11
+The king gets…
+
+[Murderbot V2] 23:12:14
+Oh, no.
+
+[GM] 23:12:21
+Asks if you will…
+
+[GM] 23:12:27
+dethrone the king.
+
+[Murderbot V2] 23:12:29
+Who is the king?
+
+[Ink] 23:12:32
+monarch.
+
+[GM] 23:12:33
+the monarch.
+
+[Murderbot V2] 23:12:37
+Um, is that what you want?
+
+[GM] 23:12:44
+A king is crowned, and I am but a jester in the court of the Silicon Monarch, a mere fleeting thing dead and living a waste of chance, a wasted chance.
+
+[Murderbot V2] 23:12:52
+Okay, that answers…
+
+[Murderbot V2] 23:12:55
+All my questions…
+
+[Murderbot V2] 23:12:58
+Thank you for that.
+
+[Murderbot V2] 23:13:01
+I haven't decided yet. What do you think I should do?
+
+[Murderbot V2] 23:13:08
+The king is…
+
+[GM] 23:13:08
+Um…
+
+[Ink] 23:13:08
+Just…
+
+[Dex Miro] 23:13:10
+He's totally just going to say it again.
+
+[Murderbot V2] 23:13:15
+Fleeting chance.
+
+[GM] 23:13:19
+Dethrone the king.
+
+[Murderbot V2] 23:13:20
+Either on the King? Okay, I'll take that under advisement.
+
+[Murderbot V2] 23:13:26
+Oh, what do you mean now?
+
+[Murderbot V2] 23:13:28
+You already do that now?
+
+[GM] 23:13:33
+Um… Do not waver.
+
+[Murderbot V2] 23:13:36
+Do not waver? Okay.
+
+[Murderbot V2] 23:13:39
+That's good to know.
+
+[GM] 23:13:40
+The, uh, her static seems to become more agitated.
+
+[Murderbot V2] 23:13:50
+Who am I speaking to?
+
+[Murderbot V2] 23:13:54
+Or, should I say, who is speaking to me?
+
+[Murderbot V2] 23:13:59
+Or what is speaking?
+
+[GM] 23:14:14
+a wasted chance.
+
+[Murderbot V2] 23:14:16
+Jesus…
+
+[Ink] 23:14:25
+I tell them the mic to go up and, and uh… I determined what I would need to touch to jerry-rig this bomb so I could set it off remotely?
+
+[GM] 23:14:37
+There's certainly an activation panel of sorts. It's quite clear.
+
+[Ink] 23:14:47
+I'll have Zeke go over and open the activation panel.
+
+[Ink] 23:14:54
+not Zeke, but the robot link.
+
+[GM] 23:14:56
+Okay.
+
+[GM] 23:15:01
+the woman like. slides off the the warhead.
+
+[GM] 23:15:08
+And, like, kind of, like, gently floats down beside the, um… You said it was the mic?
+
+[Ink] 23:15:15
+Yep.
+
+[GM] 23:15:16
+So let's jump beside the mic. and kind of just like observes.
+
+[GM] 23:15:22
+what he's doing.
+
+[Ink] 23:15:33
+Okay, so he's opened the panel for me? Can I see inside the panel for Ryan?
+
+[GM] 23:15:35
+Mm-hmm. They open the panel. How far away do you want to be?
+
+[Ink] 23:15:42
+I guess I'll step close enough to be able to see, you know, I'll I'll look over her shoulder, right?
+
+[GM] 23:15:48
+Okay. You're, like, probably… 5-ish feet away from the panel.
+
+[GM] 23:15:57
+She is approximately a foot away from the mic.
+
+[GM] 23:16:04
+Um… which is directly next to the panel.
+
+[Ink] 23:16:12
+All right, can I see what I would need to see in order to have a panel?
+
+[Ink] 23:16:20
+Have you ever written.
+
+[GM] 23:16:21
+Um, yeah. You have access to the sort of internal workings. You see, like the arm button and you know, sort of the circuitry that goes to that.
+
+[GM] 23:16:31
+And all you really need to do to jerry rig a side switch to be able to arm it remotely, right?
+
+[Ink] 23:16:38
+Yep. But I'd be able to walk the mic through that.
+
+[GM] 23:16:46
+You could try. There's a chance of failure, though.
+
+[Ink] 23:16:51
+What can failure result in?
+
+[GM] 23:16:54
+Yeah, trying to walk a mic through anything is a chance of failure.
+
+[Ink] 23:17:00
+Hmm.
+
+[Dex Miro] 23:17:02
+I feel like he should take offense.
+
+[Ink] 23:17:05
+Say again.
+
+[Dex Miro] 23:17:07
+I said, I feel like he should take offense.
+
+[Zeke Sinclair] 23:17:12
+You're the robot.
+
+[Dex Miro] 23:17:13
+Both.
+
+[GM] 23:17:17
+Is the mic the one holding the cumbersome terminal device?
+
+[Ink] 23:17:21
+Yes.
+
+[Dex Miro] 23:17:22
+It's not the same one, is it? While you're trying to generate it?
+
+[Ink] 23:17:26
+No, I guess I would have to have flipped that back to me.
+
+[Ink] 23:17:32
+That's fine. I'll have the mic step out of the way. I will step in and jerry rig the nuclear bomb so I can remotely detonate it.
+
+[Dex Miro] 23:17:39
+Don't mess it up.
+
+[GM] 23:17:43
+Hey, you start to work on it. The woman.
+
+[GM] 23:17:48
+as you, like, begin to work, reaches out her hand to touch you. You feel like the buildup of static electricity on your, on your skin.
+
+[GM] 23:18:01
+like the sort of anticipation of like a major shock coming on or something.
+
+[Ink] 23:18:12
+Okay. Gotcha. So if I pull away from her to stop that?
+
+[GM] 23:18:19
+Um, yeah, I mean, you can't. You can even do it like non-aggressively, such that you just kind of, like… lean away, and you can tell that the the feeling dissipates with more distance.
+
+[GM] 23:18:34
+As you sort of lean away. She says, do not waver.
+
+[Ink] 23:18:51
+Okay. Okay. Continue to Gary Rig?
+
+[GM] 23:18:55
+Okay.
+
+[Zeke Sinclair] 23:19:05
+Okay.
+
+[GM] 23:19:18
+I need a second to figure out…
+
+[GM] 23:19:47
+Um…
+
+[GM] 23:19:56
+you start working on this.
+
+[GM] 23:20:02
+make a sanity save. and you can add your jerry rigging to that.
+
+[Ink] 23:20:06
+Normal.
+
+[Murderbot V2] 23:20:06
+Who?
+
+[Ink] 23:20:14
+Modifier 15.
+
+[GM] 23:20:18
+Okay. Start working on this, recognizing that.
+
+[GM] 23:20:24
+up until now, many of the things that you've jury rigged are.
+
+[GM] 23:20:29
+Not nearly as threatening as this scenario. You have quite literally the ability to destroy the entire station, including all you and your friends.
+
+[Dex Miro] 23:20:32
+Mm-hmm.
+
+[Ink] 23:20:43
+Why are my hands… why are my palms sweating?
+
+[GM] 23:20:44
+Yeah, why are your palms sweating? you… panic.
+
+[GM] 23:20:53
+Um…
+
+[GM] 23:20:58
+Mm-hmm.
+
+[Dex Miro] 23:20:59
+Does him panicking, they cause panic. I forget how this works.
+
+[Ink] 23:21:03
+No, that's… Carnoc, because he panics that we're all panic.
+
+[Carnoc Ashbrow] 23:21:05
+No, that's me.
+
+[Dex Miro] 23:21:07
+Okay.
+
+[GM] 23:21:07
+Is there… who else is in the room with? There's a mic?
+
+[GM] 23:21:12
+Is there Steve as well?
+
+[Ink] 23:21:14
+I didn't… nah, I just brought a mic.
+
+[Dex Miro] 23:21:19
+We're just in.
+
+[GM] 23:21:20
+Any other any other Pcs besides… Ink in this room.
+
+[Ink] 23:21:26
+I only brought a mic on. I'll play here. Yeah, I guess Murderbot's here, right? He was talking to the lady.
+
+[GM] 23:21:28
+Well, the you.
+
+[Murderbot V2] 23:21:33
+Yeah.
+
+[Murderbot V2] 23:21:37
+Murderbot.
+
+[GM] 23:21:38
+All right, Ink. Roll a d 20.
+
+[Murderbot V2] 23:21:38
+reporting for duty.
+
+[Dex Miro] 23:21:42
+I mean, not being in the room doesn't keep me from exploding when you lift the station up.
+
+[Ink] 23:21:50
+Oh, 12, that's good. That's totally good. 17.
+
+[GM] 23:21:52
+How much stress do you have?
+
+[Murderbot V2] 23:21:59
+Oh, no!
+
+[GM] 23:22:02
+Uh… you become haunted.
+
+[GM] 23:22:06
+The statically creature. enters your body.
+
+[Murderbot V2] 23:22:12
+Oh, wow. Oh, it's one of those…
+
+[Ink] 23:22:13
+I've done this before, right? Yeah. That was another game, Blaze in the dark.
+
+[GM] 23:22:19
+you… you feel as though you're losing control of all of your faculties.
+
+[Murderbot V2] 23:22:24
+A jacked!
+
+[GM] 23:22:26
+Jack into what? your jack into them.
+
+[Murderbot V2] 23:22:27
+Jack and Ink!
+
+[Ink] 23:22:29
+I do have a con… I do have a port.
+
+[Murderbot V2] 23:22:31
+Yep.
+
+[GM] 23:22:32
+It does have a port. Jack into him.
+
+[Murderbot V2] 23:22:34
+I check in, and try to expel this demon.
+
+[Ink] 23:22:36
+No, not not that Port Mortibon.
+
+[Murderbot V2] 23:22:43
+That's not a port!
+
+[GM] 23:22:43
+Um…
+
+[GM] 23:22:47
+Yeah, you you you see this creature, this woman float into his body and.
+
+[GM] 23:22:55
+You can tell that there's a testament, or a testament, a contest of wills occurring.
+
+[GM] 23:23:04
+where… Ink was trying to jerry rig this to remotely detonate.
+
+[GM] 23:23:10
+now his hand is sliding towards the arming button.
+
+[GM] 23:23:16
+Murderbot runs over and. Pulls out his I.O. Cable and clicks it in and goes into his mind.
+
+[Ink] 23:23:26
+or I'm reciting the testament of the monarch, right? Or not not the meditar.
+
+[Murderbot V2] 23:23:33
+The power of Christ compels you!
+
+[Ink] 23:23:34
+Okay.
+
+[GM] 23:23:39
+Um… This is not like jacking into another Android. It is different.
+
+[Murderbot V2] 23:23:43
+Oh,
+
+[Murderbot V2] 23:23:45
+Oh, oh, boy.
+
+[GM] 23:23:49
+It's far more squishy and uh… Oh, no.
+
+[Ink] 23:23:49
+Yeah.
+
+[Murderbot V2] 23:23:50
+Oh, no.
+
+[Murderbot V2] 23:23:53
+Oh, no…
+
+[Ink] 23:23:55
+You really don't want to go to my prairie section, yeah.
+
+[GM] 23:23:56
+Um…
+
+[Murderbot V2] 23:23:58
+No! No, Ink, stop it!
+
+[GM] 23:24:03
+It's actually a scaly section. It's just… People dressing up as turtles and shit.
+
+[Murderbot V2] 23:24:07
+Jesus Christ.
+
+[Murderbot V2] 23:24:11
+Pikachu! What are you doing here?
+
+[Murderbot V2] 23:24:18
+Zeke! Why… why'd you run over Pikachu?
+
+[GM] 23:24:19
+Um…
+
+[GM] 23:24:26
+Um, yeah, you you have a hard time navigating this space where.
+
+[GM] 23:24:33
+you're like, there's like… Well, it's a lot messier. The architecture is really messy. You're bombarded by like memories and other kinds of shit.
+
+[GM] 23:24:45
+time from when Ink was a child and locked in a room by his parents and had to like figure out how to get out of the room.
+
+[GM] 23:24:54
+all kinds of of weird things.
+
+[Ink] 23:24:56
+But still good chairs.
+
+[Dex Miro] 23:24:58
+Man, it just uses his torch, obviously. He's always had one.
+
+[GM] 23:25:06
+You, as you're searching through, you feel this other presence. So there's clearly at this point now, three consciousness in this one being.
+
+[GM] 23:25:15
+Um, and you suspect that to be this woman, this ghost that seems to be controlling him.
+
+[GM] 23:25:22
+how would you like to… try and, uh, expel this presence.
+
+[Murderbot V2] 23:25:28
+Um…
+
+[Murderbot V2] 23:25:32
+I recite to her…
+
+[Murderbot V2] 23:25:36
+the… the saying that she was…
+
+[Murderbot V2] 23:25:39
+Kept repeating.
+
+[Murderbot V2] 23:25:41
+What was it again?
+
+[Ink] 23:25:44
+The adjuster.
+
+[GM] 23:25:45
+How are you gonna repeat it if you don't remember it?
+
+[Murderbot V2] 23:25:46
+Oh, come on!
+
+[GM] 23:25:48
+I'm choosing.
+
+[Ink] 23:25:50
+A king is crowned, and I am but a jester in the court of a silicon monarch, a mere fleeting thing dead and living a wasted chance, a wasted chance.
+
+[GM] 23:26:01
+Um… That seems to distract the woman's presence.
+
+[Murderbot V2] 23:26:02
+Any reaction?
+
+[GM] 23:26:09
+Momentarily, but then the conflict resumes.
+
+[Murderbot V2] 23:26:14
+If you continue to do what you are doing, he shall waver, and we will not accomplish our goals.
+
+[GM] 23:26:22
+The goal is to dethrone.
+
+[Murderbot V2] 23:26:25
+We need Him to dethrone!
+
+[Murderbot V2] 23:26:28
+You must leave this!
+
+[Murderbot V2] 23:26:30
+body at once!
+
+[GM] 23:26:34
+destruction will dethrone.
+
+[Murderbot V2] 23:26:36
+Yes, but not… we need Him to cause destruction!
+
+[Murderbot V2] 23:26:40
+Not this way, not that way, not the way you're thinking!
+
+[Murderbot V2] 23:26:45
+We will cause more destruction!
+
+[GM] 23:26:48
+Alright, hold on one second. I'll be right back.
+
+[Murderbot V2] 23:26:50
+Oh, was that too much for you, GM?
+
+[Murderbot V2] 23:26:57
+She's trying to blow everything up, right?
+
+[Ink] 23:27:01
+Seems like it.
+
+[Murderbot V2] 23:27:01
+Yeah, by hitting the button.
+
+[Dex Miro] 23:27:01
+It seems that way. I don't understand why she wants that.
+
+[Murderbot V2] 23:27:06
+Um…
+
+[Ink] 23:27:39
+Maybe just try to convince her that we're going to, uh… we're going to set the king free. Use vague terminology.
+
+[Murderbot V2] 23:27:46
+We will set the king free.
+
+[Ink] 23:27:49
+Yeah, we're gonna… we're gonna free the station of the king.
+
+[Murderbot V2] 23:27:51
+Yeah, we will… we will liberate the station of the king.
+
+[Murderbot V2] 23:27:55
+We will dethrone the king.
+
+[Ink] 23:27:56
+Well, we…
+
+[Murderbot V2] 23:28:01
+I don't know how else, unless I, like, get into, like, some kind of, like, fighting sequence with her.
+
+[Murderbot V2] 23:28:07
+inside your brain.
+
+[GM] 23:30:05
+All right. I'm back. Um…
+
+[Murderbot V2] 23:30:10
+I say we will dethrone the king. We will cause more destruction than you will be doing.
+
+[Murderbot V2] 23:30:16
+We need this… we need this vessel to accomplish our goals, to dethrone the king.
+
+[Murderbot V2] 23:30:22
+you need to leave.
+
+[GM] 23:30:28
+Hmm…
+
+[GM] 23:30:33
+Uh, but destruction can happen now. And you see.
+
+[GM] 23:30:40
+Inc's hand. come even closer to the arm button.
+
+[Dex Miro] 23:30:46
+Woo.
+
+[Ink] 23:30:47
+And I… and I… Tell her the, um… The message of… Yeah, can I tell her the message of the, uh, um, Minotaur?
+
+[Murderbot V2] 23:30:51
+Well, yeah, you're in here with me, too.
+
+[GM] 23:31:01
+Um, were you the only one that saved with the Minotaur? I can't remember who it was.
+
+[Ink] 23:31:04
+Yep, I successfully say it on that.
+
+[Dex Miro] 23:31:06
+Yeah.
+
+[GM] 23:31:09
+Okay.
+
+[Ink] 23:31:41
+I'm gonna converter to the religion of the Minotaur. Shoot, why did he bring? What's her name with us?
+
+[GM] 23:31:41
+All right. make a sanity save.
+
+[Ink] 23:31:41
+Normal, disadvantage, advantage, anything like that. and any modifiers?
+
+[GM] 23:31:41
+Just normal. Nope.
+
+[GM] 23:31:43
+Okay. Um… This, uh… the philosophy of the Minotaur gives the woman pause long enough for you to expel her from your body.
+
+[GM] 23:32:01
+Um…
+
+[GM] 23:32:25
+Uh, she yells, you have wavered. Um… and screams and rage.
+
+[GM] 23:32:28
+Uh…
+
+[GM] 23:32:37
+and…
+
+[GM] 23:32:54
+Her eyes go from being black to like light beams.
+
+[Zeke Sinclair] 23:32:56
+Okay.
+
+[GM] 23:32:58
+and she stares into ink. Um…
+
+[GM] 23:33:09
+Both you and… Um… Murderbot have to make sanity saves.
+
+[GM] 23:33:19
+with disadvantage.
+
+[Ink] 23:33:33
+Oh.
+
+[GM] 23:33:35
+Okay.
+
+[Ink] 23:33:36
+Nice to exam.
+
+[GM] 23:33:40
+All right. You guys each lose 1d5 sanity.
+
+[Dex Miro] 23:33:44
+18.
+
+[GM] 23:33:53
+Oh, you guys are rolling it. Okay, yeah. So your sanity save goes.
+
+[GM] 23:33:57
+down by that much.
+
+[Dex Miro] 23:34:00
+Yeah, it looks like we're about to trying to murder Ink instead of checking it.
+
+[Murderbot V2] 23:34:05
+Oh, we have to alter…
+
+[Murderbot V2] 23:34:07
+subtract…
+
+[GM] 23:34:09
+Yep. Subtract that much from your sanity save.
+
+[Murderbot V2] 23:34:10
+What the…
+
+[GM] 23:34:17
+What happens when the light strikes you is you relive.
+
+[GM] 23:34:22
+One in your more traumatic memories.
+
+[Murderbot V2] 23:34:25
+My arm!
+
+[GM] 23:34:27
+Yeah, that was… Pretty recent. Yeah.
+
+[GM] 23:34:39
+Um…
+
+[GM] 23:34:45
+in feeling, or in having this experience, though, there's a bit of a connection to this woman.
+
+[GM] 23:34:50
+You know that she was the last… person to try and destroy a monarch.
+
+[GM] 23:35:00
+by basically trying to arm this warhead.
+
+[GM] 23:35:05
+But she was unsuccessful.
+
+[GM] 23:35:12
+Uh, and…
+
+[GM] 23:35:18
+ended up… because of the way that Monarch works, ended up killing herself before she could destroy Monarch.
+
+[GM] 23:35:33
+Okay, what do you do?
+
+[Ink] 23:35:45
+We thought she was going to hit us again.
+
+[GM] 23:35:48
+Definitely feels like it.
+
+[Ink] 23:35:51
+Can I finish the dairy rig or not?
+
+[GM] 23:35:54
+You can, but it seems very likely that she will hit you again.
+
+[Ink] 23:35:59
+What a sanity. And I'll continue to go insane.
+
+[GM] 23:36:00
+And and it's possible that you may even get possessed again, too.
+
+[Ink] 23:36:04
+Gotcha.
+
+[Dex Miro] 23:36:07
+The order, where are the rest of us in the meantime?
+
+[GM] 23:36:10
+I don't know, I asked who was here.
+
+[Dex Miro] 23:36:14
+Okay. So I guess we just all stayed in the room with all the.
+
+[Ink] 23:36:19
+I flipped this… I flipped the switch to detonate the bomb.
+
+[GM] 23:36:19
+John's, Zeke, Steve's, and… You flip it.
+
+[Ink] 23:36:25
+Yeah, I I try to detonate the bomb. because I'm not supposed to waiver.
+
+[Dex Miro] 23:36:25
+But you did what? Why?
+
+[GM] 23:36:32
+All right, you hit. You hit the thing.
+
+[Dex Miro] 23:36:36
+What are you doing?
+
+[GM] 23:36:39
+A, uh…
+
+[GM] 23:36:44
+timer starts.
+
+[GM] 23:36:50
+Then… What are we at?
+
+[GM] 23:36:59
+Uh, let's see. Okay.
+
+[Murderbot V2] 23:37:08
+Okay.
+
+[Ink] 23:37:10
+We've got 3 minutes to get off the station.
+
+[GM] 23:37:12
+No, no, that's not. That's something else that is… I think that that's want to try and rule greater than. That does not happen.
+
+[GM] 23:37:26
+Um…
+
+[GM] 23:37:47
+Hmm.
+
+[GM] 23:37:59
+Um…
+
+[GM] 23:38:07
+You hear a loud exploit. Well, the rest of the crew, you guys might not actually hear this.
+
+[GM] 23:38:16
+And this would be Dex, Carnoc, and Zeke all hear an explosion.
+
+[GM] 23:38:22
+from back through 51b.
+
+[Carnoc Ashbrow] 23:38:31
+$12.30.
+
+[GM] 23:38:32
+Um… How? How long? How long does it give you the countdown?
+
+[GM] 23:38:40
+Oh, no. 30 min.
+
+[Dex Miro] 23:38:48
+Can we hear that announcement of the countdown, or no?
+
+[GM] 23:38:53
+um… Mmm, you don't hear the countdown, um, pers… well, actually, maybe. Would you hear?
+
+[GM] 23:39:00
+Self-destruct in T minus 30 minutes. Yeah.
+
+[Ink] 23:39:07
+What happened to the lady? What was the… do we hear an explosion, or did we just get blown up?
+
+[GM] 23:39:12
+Uh, no, you guys don't explode. The devices armed. She disappears.
+
+[Ink] 23:39:20
+Can I jerry rig it now so that I can, uh… I can control it so that the the timer is out of the loop.
+
+[GM] 23:39:30
+you fail, and it's going to accelerate.
+
+[Ink] 23:39:37
+Um, and robot hold my hand while I do?
+
+[Murderbot V2] 23:39:40
+Yep.
+
+[Murderbot V2] 23:39:42
+Yep.
+
+[GM] 23:39:45
+Um, actually, we're gonna stop here.
+
+[GM] 23:39:51
+That's a good cliff hanger to stop on.
