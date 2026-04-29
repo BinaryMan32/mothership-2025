@@ -1,5 +1,5 @@
 ---
-linkPattern: Rachael(?:\s+Kilroy)?
+linkPattern: (?:Rachael\s+)?Kilroy
 ---
 # Rachael Kilroy
 
