@@ -626,7 +626,7 @@ Our best option seems to be to go further up into…
 I'm a point.
 
 [Ink] 21:36:54
-is… is the tank susceptible to the aspirinetic feedback?
+is the tank susceptible to the espernetic feedback?
 
 [Murderbot V2] 21:36:58
 Yeah, we should be. We should be able to jack into it.
@@ -641,13 +641,13 @@ Um…
 I'm sorry, one more time. Which room was the armory?
 
 [GM] 21:37:24
-Uh, well, it's both 51D and 51A. One is antisynthetic, and one is anti-organic.
+Uh, well, it's both 51D and 51A. One is anti-synthetic, and one is anti-organic.
 
 [Dex Miro] 21:37:28
 Okay.
 
 [Ink] 21:37:31
-So this came from the Antarct Organic.
+So this came from the anti-organic.
 
 [GM] 21:37:35
 Yeah.
@@ -2432,13 +2432,13 @@ the tank apparently locks onto the bodies.
 In this room you see there's a giant airlock door.
 
 [GM] 22:19:06
-Um, there are dozens of microcraft.
+Um, there are dozens of micro-craft.
 
 [GM] 22:19:13
-Uh, each microcraft has a navigation computer, and it shows a course set.
+Uh, each micro-craft has a navigation computer, and it shows a course set.
 
 [GM] 22:19:23
-to various different systems, so not all the microcraft go to the same one.
+to various different systems, so not all the micro-craft go to the same one.
 
 [GM] 22:19:29
 the routes take 2 years around around 2 years.
@@ -4034,13 +4034,13 @@ And… I was a flamethrower. Who wants a flamethrower?
 I don't know. I don't know if I want them to or not.
 
 [Dex Miro] 22:59:33
-I feel like Dux would want a flamethrower.
+I feel like Dex would want a flamethrower.
 
 [GM] 22:59:40
 There it goes on a pulse rifle.
 
 [Dex Miro] 22:59:48
-Has a. Larico ask about tax slash Minotaur lately.
+Has Noriko asked about Hank/Minotaur lately.
 
 [GM] 22:59:57
 Um… She seems to be a bit quieter. You suspect some of her enthusiasm is waning on account of, uh… you know, the fact that her ankles are broken, and you know she's probably got some internal bleeding going on.
@@ -4187,7 +4187,7 @@ Yeah.
 I mean, I'm gonna carry it with me for now, I can always drop it, but…
 
 [Ink] 23:03:18
-How many flamethovers are there, just one?
+How many flamethrowers are there, just one?
 
 [GM] 23:03:19
 Um… Slam thrower that one.
