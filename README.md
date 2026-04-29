@@ -60,7 +60,7 @@ sudo apt install rename
 
 ```sh
 mkdir reduced
-for x in full/*.@(png|jpg); do convert "$x" -resize '800x800>' reduced/$(basename "$x"); done
+parallel 'convert {} -resize "800x800>" reduced/{/}' ::: full/*.@(png|jpg)
 ```
 
 Requires `imagemagick` or `graphicsmagick`, which can be installed with:
